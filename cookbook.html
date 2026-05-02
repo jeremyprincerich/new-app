@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
-    <title>Cahier de Recettes</title>
+    <title>Le Cahier — Cahier de Recettes</title>
     <meta name="description" content="Parcourez 236 recettes de famille, organisées en chapitres." />
     <link rel="icon" type="image/svg+xml" href="favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -11,9 +11,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="assets/styles.css" />
     <script>
-      // cookbook.html opens directly to the table of contents.
+      // Default this entry-point to the table of contents.
       if (!location.hash || location.hash === "#" || location.hash === "#/") {
-        location.replace("index.html#/sommaire");
+        history.replaceState(null, "", location.pathname + "#/sommaire");
       }
     </script>
   </head>
