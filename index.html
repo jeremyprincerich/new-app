@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>Cahier de Recettes</title>
+    <meta name="description" content="Recettes de famille, transmises avec amour — un cahier de 236 recettes en français." />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <!-- Initial cover (rendered before JS so the page has content immediately) -->
+      <section class="book-cover">
+        <div class="cover-rule">
+          <span class="cover-rule-text">Édition familiale</span>
+          <div class="cover-rule-line"></div>
+          <span class="cover-rule-text">2024</span>
+        </div>
+        <div class="cover-center">
+          <div class="cover-divider">
+            <div class="line"></div>
+            <svg class="diamond" viewBox="0 0 8 8" fill="currentColor" aria-hidden="true"><polygon points="4,0 8,4 4,8 0,4"/></svg>
+            <div class="line"></div>
+          </div>
+          <h1 class="cover-title">Cahier de<br><span class="it">Recettes</span></h1>
+          <p class="cover-subtitle">Recettes de famille, transmises avec amour</p>
+          <div class="cover-stats">
+            <div class="cover-stat"><span class="num">236</span><span class="label">Recettes</span></div>
+            <div class="cover-stat"><span class="num">11</span><span class="label">Chapitres</span></div>
+          </div>
+          <a href="#/sommaire" class="cta">
+            Ouvrir le livre
+            <svg class="cta-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+              <polyline points="12 5 19 12 12 19"></polyline>
+            </svg>
+          </a>
+        </div>
+      </section>
+    </div>
+    <script src="assets/app.js"></script>
+  </body>
+</html>

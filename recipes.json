@@ -1,0 +1,5295 @@
+[
+  {
+    "id": 1,
+    "numberLabel": "Recette nº 1",
+    "title": "Salade de Macaroni de Tante Claudette Trempe",
+    "ingredients": [
+      "Macaroni cuit refroidi au réfrigérateur",
+      "jambon cuit en lanière",
+      "Céleri fin",
+      "carotte râpée",
+      "fromage cheddar doux en petits morceaux",
+      "Mayonnaise"
+    ],
+    "steps": [
+      "Mélanger tous les ingrédients dans un saladier et servir frais."
+    ],
+    "notes": null
+  },
+  {
+    "id": 2,
+    "numberLabel": "Recette nº 2",
+    "title": "Salade Chinoise ou Salade d'Amour",
+    "ingredients": [
+      "1 paquet fèves germées",
+      "3 Tasses de riz cuit (Uncle Ben)",
+      "2 branches de céleri",
+      "1/3 Tasse de raisin",
+      "Champignon tranché frais",
+      "échalote verte en morceaux",
+      "1/2 Tasse huile",
+      "1/4 Tasse sauce soya"
+    ],
+    "steps": [
+      "Mêler tous les ingrédients"
+    ],
+    "notes": null
+  },
+  {
+    "id": 4,
+    "numberLabel": "Recette nº 4",
+    "title": "Salade de riz aux Tomates",
+    "ingredients": [
+      "1 Tasse de riz minute",
+      "jus de tomate",
+      "céleri",
+      "olives",
+      "échalote",
+      "mayonnaise"
+    ],
+    "steps": [
+      "Cuire 1 Tasse de riz minute",
+      "Rincer le riz dans du jus de tomate",
+      "Refroidir le riz",
+      "Ajouter le céleri, les olives, l'échalote et la mayonnaise",
+      "Mettre au réfrigérateur jusqu'à ce que froid"
+    ],
+    "notes": null
+  },
+  {
+    "id": 6,
+    "numberLabel": "Recette nº 6",
+    "title": "Salade de carottes savoureuse",
+    "ingredients": [
+      "2 tasses de carottes en petites rondelles",
+      "oignon moyen émincé fin",
+      "1 piment vert cru émincé",
+      "1/3 Tasse de sucre",
+      "1/4 T huile",
+      "1/3 de Tasse vinaigre",
+      "1/2 boite de Rouge au Tomate",
+      "1/2 cà thé moutarde sèche"
+    ],
+    "steps": [
+      "Cuire 2 tasses de carottes en petites rondelles les cuire à l'eau ou 8 à 12 minutes au four micro-onde",
+      "Mêler le Tout et servir refroidi (Se garde 3 Semaines)"
+    ],
+    "notes": null
+  },
+  {
+    "id": 7,
+    "numberLabel": "Recette nº 7",
+    "title": "Salade Épinard et fraises",
+    "ingredients": [
+      "2 paquets d'épinard frais",
+      "2 Tasses de fraises fraîches en demi",
+      "1/2 T sucre",
+      "2 c. à table graine de sésame",
+      "1 cà soupe de graine de pavot",
+      "1 1/2 c. à table d'oignon émincé",
+      "* 1/4 Tasse de sauce Worcestershire",
+      "1/4 cà thé Paprika",
+      "1/2 Tasse huile",
+      "1/4 Tasse de vinaigre de cidre"
+    ],
+    "steps": [
+      "Laver égoutter"
+    ],
+    "notes": "pour 10 à 12 personnes Recette santé cette salade est miroité - spectaclaire et super délicieuse Cette quantité n'est pas une erreur."
+  },
+  {
+    "id": 8,
+    "numberLabel": "Recette nº 8",
+    "title": "Salade de Brocoli",
+    "ingredients": [
+      "1 Tête de brocoli coupé en bouquet",
+      "1 petit oignon haché fin",
+      "1 tasse de bacon émietté ou du commerce",
+      "1 T de cheddar blanc râpé",
+      "2 c. à table de vinaigre",
+      "1/4 T sucre",
+      "3 Tasses de mayonnaise"
+    ],
+    "steps": [
+      "Mélanger tous les ingrédients dans un saladier pour préparer la salade."
+    ],
+    "notes": null
+  },
+  {
+    "id": 9,
+    "numberLabel": "Recette nº 9",
+    "title": "Salade carotte et raisins",
+    "ingredients": [
+      "3 Tasses carottes rapées",
+      "1 T de raisins sec",
+      "1 c à Table miel",
+      "6 c à Table mayonnaise",
+      "1/4 T lait",
+      "1 c à Table jus citron",
+      "1/4 c à thé sel"
+    ],
+    "steps": [
+      "Mêler carotte et raisins - Mêler le reste ensemble - Verser sur carotte",
+      "refrigérer au moins 2 heures"
+    ],
+    "notes": null
+  },
+  {
+    "id": 10,
+    "numberLabel": "Recette nº 10",
+    "title": "Salade de pétoncles",
+    "ingredients": [
+      "3/4 Tasse de vin blanc",
+      "1 feuille laurier",
+      "1 branche de Thym",
+      "2 1/2 c à thé jus citron",
+      "1 branche de fenouil"
+    ],
+    "steps": [
+      "Bouillir lentement 10 min, puis retirer du feu, laisser reposer quelques minutes et enlever les épices.",
+      "Ajouter la fleur de pétoncles et mijoter 2 min, puis égoutter le jus."
+    ],
+    "notes": "Les pétoncles peuvent être préparés la veille."
+  },
+  {
+    "id": 12,
+    "numberLabel": "Recette nº 12",
+    "title": "Salade de France Hayes",
+    "ingredients": [
+      "1/2 T fromage râpé Cheddar",
+      "1 grosse carotte râpée",
+      "2 c à soupe mayonnaise Hellman",
+      "2 c à soupe crème de yogourt nature",
+      "2 c à soupe de citron",
+      "2 gousses d'ail au presse",
+      "sel",
+      "poivre",
+      "pincée sucre"
+    ],
+    "steps": [
+      "Faire vinaigrette 2 hrs à l'avance.",
+      "Ajouter à la salade 1/2 heure avant de servir."
+    ],
+    "notes": null
+  },
+  {
+    "id": 13,
+    "numberLabel": "Recette nº 13",
+    "title": "Canapé au crabe",
+    "ingredients": [
+      "Pattes de crabe en boîte",
+      "Mayonnaise",
+      "Fromage râpé (Cheddar, mozzarella, gruyère ou emmenthal)"
+    ],
+    "steps": [
+      "Mélanger crabe et mayonnaise",
+      "Étendre sur tranche de pain",
+      "Couvrir de fromage râpé",
+      "Cuire 5 min au four"
+    ],
+    "notes": null
+  },
+  {
+    "id": 15,
+    "numberLabel": "Recette nº 15",
+    "title": "Champignon farci",
+    "ingredients": [
+      "Queues de champignon hachées finement",
+      "du beurre",
+      "3 à 4 gousses d'ail",
+      "parmesan râpé",
+      "persil"
+    ],
+    "steps": [
+      "Cuire au four garni 20 minutes à 350°F"
+    ],
+    "notes": null
+  },
+  {
+    "id": 16,
+    "numberLabel": "Recette nº 16",
+    "title": "Entrée coeur de palmier",
+    "ingredients": [
+      "Feuille de laitue Boston",
+      "8 coeurs de palmier en conserve",
+      "8 épis de maïs miniatures",
+      "12 Tomates",
+      "2 échalotes émincées",
+      "1 concombre Tranché",
+      "Vinaigrette Réfrigérée",
+      "1/4 T huile olive",
+      "3 c à Table moutarde de vin blanc",
+      "sel",
+      "poivre",
+      "Feuille de Laurier",
+      "2 coeurs de palmier",
+      "1 épis de maïs de chaque côté",
+      "3 Tomates cerises ou en morceau",
+      "4 demi tranche de concombre",
+      "parmesan d'origan vert (échalote)"
+    ],
+    "steps": [
+      "Disposer une feuille de laurier au fond de l'assiette.",
+      "Ajouter 2 coeurs de palmier, 1 épis de maïs de chaque côté et 3 tomates cerises ou en morceaux.",
+      "Ajouter 4 demi-tranches de concombre et parmesan d'origan vert (échalote).",
+      "Verser la vinaigrette et servir."
+    ],
+    "notes": null
+  },
+  {
+    "id": 35,
+    "numberLabel": "Recette nº 35",
+    "title": "Mousse aux crevettes (Fantastique)",
+    "ingredients": [
+      "1 boîte de 8 onces de crème tomate non diluée",
+      "8 onces fromage à la crème Philadelphia c'est le plus gros paquet",
+      "2 enveloppes de gélatine",
+      "1/2 tasse d'eau froide",
+      "1 tasse de mayonnaise c'est à dire Miracle Whip meilleur dans cette recette",
+      "8 onces de crevettes (matane) fraîche et cuite",
+      "1/2 tasse céleri fin",
+      "1 oignon moyen haché très fin"
+    ],
+    "steps": [
+      "Fondre les 5 premiers ingrédients au bain-marie en brassant continuellement.",
+      "Hacher les crevettes en fins morceaux, céleri fin, oignon.",
+      "Incorporer au premier mélange et passer à la mixette si désiré mais pas nécessaire.",
+      "Mettre dans un moule de plastique légèrement huilé",
+      "Faire prendre au réfrigérateur",
+      "Se congèle très bien - P.S. On peut faire plusieurs petits plats et congelé",
+      "Variante : Au lieu des crevettes on peut ajouter imitation de crabe (sea leg)"
+    ],
+    "notes": null
+  },
+  {
+    "id": 39,
+    "numberLabel": "Recette nº 39",
+    "title": "Mousse au Jambon",
+    "ingredients": [
+      "1 Sachet gélatine Knox",
+      "1/4 T eau froide",
+      "1 Tasse jambon haché fin",
+      "1 bte crème champignon campbell",
+      "1 gros Philadelphia",
+      "1 T mayonnaise",
+      "1/2 T céleri fin",
+      "1/2 T échalote"
+    ],
+    "steps": [
+      "Gonfler gélatine dans l'eau froide",
+      "Mêler crème de champignon & fromage",
+      "Chauffer à feu doux (pas bouillir)",
+      "Retirer du feu",
+      "Ajouter gélatine",
+      "Ajouter le reste",
+      "Mettre dans un moule en plastique légèrement huilée",
+      "Laisser prendre au réfrigérateur",
+      "(Pour démouler passer le moule en dessous de l'eau Tiède)"
+    ],
+    "notes": null
+  },
+  {
+    "id": 40,
+    "numberLabel": "Recette nº 40",
+    "title": "Trempette Cœur d'Artichaut & parmesan",
+    "ingredients": [
+      "1 T de mayonnaise",
+      "1/2 T de parmesan",
+      "1 gousse d'ail émincée",
+      "1 c à Thé de sauce Worcestershire",
+      "1/2 c à thé origan séché",
+      "Poivre",
+      "1 pot de cœurs d'artichauts marinés (6 onces), coupés en morceaux"
+    ],
+    "steps": [
+      "Mêler tous les ingrédients",
+      "Mettre dans un plat allant au four",
+      "Saupoudrer de 2 c à soupe de parmesan",
+      "Mettre au four 15 min à 350° F",
+      "Servir tiède sur biscottes ou pain"
+    ],
+    "notes": null
+  },
+  {
+    "id": 41,
+    "numberLabel": "Recette nº 41",
+    "title": "Brie au Four",
+    "ingredients": [
+      "1/4 tasse de cassonade",
+      "1/4 t de noix haché fin",
+      "1 cà Table de brandy ou whisky",
+      "1 petite meule de brie (si gros doubler la recette)"
+    ],
+    "steps": [
+      "Après 48 heures, sortir le brie du réfrigérateur.",
+      "Préchauffer le four à 400°F.",
+      "Mettre le brie au four 5 minutes.",
+      "Sortir le brie du four.",
+      "Napper le brie du mélange de cassonade, de noix et de brandy ou whisky.",
+      "Remettre le brie au four 5 minutes supplémentaires.",
+      "Servir avec un pain baguette."
+    ],
+    "notes": "À préparer 48 heures d'avance au réfrigérateur."
+  },
+  {
+    "id": 45,
+    "numberLabel": "Recette nº 45",
+    "title": "Trempette Étagée à la Mexicaine",
+    "ingredients": [
+      "1 paquet de Fromage à la crème Philadelphia ramolli (250 g)",
+      "1 tasse de crème sûre 250 ml",
+      "1 pot de salsa 430 ml",
+      "6 oignons verts en fines tranches",
+      "4 petites tomates épépinées et coupées en dés",
+      "1 poivron jaune en dés",
+      "1 poivron rouge en dés",
+      "1 tasse de mozzarella ou cheddar râpé 250 ml"
+    ],
+    "steps": [
+      "Mélanger tous les ingrédients et servir."
+    ],
+    "notes": null
+  },
+  {
+    "id": 63,
+    "numberLabel": "Recette nº 63",
+    "title": "Creton de porc",
+    "ingredients": [
+      "1 lb porc haché",
+      "1/2 T de biscuit soda émietté",
+      "1 oignon haché",
+      "1 tasse de lait",
+      "sel - poivre",
+      "un peu de clou de girofle",
+      "gingembre",
+      "au goût"
+    ],
+    "steps": [
+      "Cuire 15 min en brassant",
+      "Remuer toutes les 5 minutes",
+      "Verser dans un plat",
+      "Réfrigérer",
+      "Couvrir lorsqu'il est froid"
+    ],
+    "notes": null
+  },
+  {
+    "id": 91,
+    "numberLabel": "Recette nº 91",
+    "title": "Bouchées surprise d'une amie",
+    "ingredients": [
+      "1 lb bœuf haché maigre",
+      "1 petit oignon haché",
+      "1/2 c à Thé cannelle",
+      "1/4 c à thé clou de girofle",
+      "1/4 c à thé de sel ail",
+      "1/2 T de Ketchup",
+      "2 bte 8 onces de pâte à Croissant Pillsbury",
+      "1 c à Table de margarine",
+      "1 c à thé sel",
+      "1/4 c à thé paprika",
+      "1/2 T huile végétale",
+      "1/4 T vinaigre",
+      "1/4 T de cornichons ou marinade",
+      "2 c à Table cassonade",
+      "1 c à Table persil en flocon"
+    ],
+    "steps": [
+      "Revenir bœuf et oignon dans margarine",
+      "Incorporer les assaisonnements",
+      "Incorporer le Ketchup & chauffer",
+      "Retirer du feu",
+      "Séparer la pâte en 4 rectangles",
+      "Couper chaque rectangle en deux pour faire un carré de 4 po",
+      "Placer 1 c à Table de Viande dans chacun",
+      "Dissoudre le cube Oxo dans l'eau bouillante",
+      "Ajouter les autres ingrédients",
+      "Amener à ébullition",
+      "Baisser le feu & mijoter 10 min",
+      "Servir chaud ou froid"
+    ],
+    "notes": null
+  },
+  {
+    "id": 94,
+    "numberLabel": "Recette nº 94",
+    "title": "Remplissage - Pâte à Egg Roll du commerce",
+    "ingredients": [
+      "4 Tasse de chou cru râpé finement et blanchi à l'eau bouillante quelque minutes (2 à 3 min)",
+      "1/2 Tasse oignon congelés dés",
+      "1/2 Tasse céleri congelé en dés",
+      "2 c à thé sel",
+      "1 Tasse de poulet cuit haché coupé en dés",
+      "1 c à table de soya",
+      "1 c à table huile",
+      "1/2 c à thé poivre"
+    ],
+    "steps": [
+      "Blanchir chou",
+      "Bien assécher",
+      "Placer légume dans un bol",
+      "Saupoudrer de sel bien mêler",
+      "Reposer 15 min",
+      "Presser les légumes dans une passoire fine",
+      "Afin de retirer liquide",
+      "Ajouter les autres ingrédients",
+      "Bien mêler"
+    ],
+    "notes": "P.S On peut substituer au poulet du jambon - des crevettes ou du homard"
+  },
+  {
+    "id": 98,
+    "numberLabel": "Recette nº 98",
+    "title": "Ailes de poulet maison",
+    "ingredients": [
+      "2 dzn d'ailes de poulet",
+      "1/2 T de sauce soya",
+      "1/4 T huile",
+      "3 c à soupe vinaigre",
+      "2 c à soupe sirop érable",
+      "5 à 6 gousses d'ail"
+    ],
+    "steps": [
+      "Mariner 5 à 6 heures dans la sauce.",
+      "Placer dans le four sur une tôle à rebord.",
+      "Cuire à 350°F pendant 1 heure sans la sauce, en arrosant souvent de sauce.",
+      "Dorer sous le gril (broil) quelques minutes."
+    ],
+    "notes": null
+  },
+  {
+    "id": 101,
+    "numberLabel": "Recette nº 101",
+    "title": "Délicieux en entrée ou avec une omelette",
+    "ingredients": [
+      "1 pâte à croissant Philburg",
+      "1 T de jambon en dés",
+      "1 tasse de brocoli cuit haché",
+      "1 tasse de carotte cuite en dés",
+      "1 tasse de fromage brick râpé (disponible avec les fromages Kraft)",
+      "1 c à soupe moutarde",
+      "2 c à soupe origan haché",
+      "2 c à soupe persil frais",
+      "1 c à soupe marjolaine",
+      "1 c à soupe jus de citron"
+    ],
+    "steps": [
+      "Mêler le tout.",
+      "Beurrer un moule rond à gâteau",
+      "Mettre les parties larges des croissants au fond du moule, côte à côte.",
+      "Laisser dépasser les pointes à l'extérieur",
+      "Ajouter la garniture au centre du moule.",
+      "Rabattre les pointes dans le moule",
+      "Cuire à 350°F jusqu'à ce que ce soit doré."
+    ],
+    "notes": null
+  },
+  {
+    "id": 104,
+    "numberLabel": "Recette nº 104",
+    "title": "Petits Panini au Thon de Stéphanie aux Câpres",
+    "ingredients": [
+      "6 petits pains ronds",
+      "240g de thon en conserve dans l'huile d'olive",
+      "2 tomates (coupées en cubes)",
+      "2 œufs cuits durs hachés",
+      "2 feuilles de laitue (hachées)",
+      "2 c. à soupe moutarde",
+      "2 c. à soupe de ketchup",
+      "1 c. à soupe de câpres (hachées)"
+    ],
+    "steps": [
+      "Dans un bol mêler moutarde - ketchup et câpres",
+      "Ajouter tomates - œufs cuits durs - laitue et remuer doucement",
+      "Égoutter le thon et ajouter doucement au mélange",
+      "A l'aide d'un couteau pratiquer une incision circulaire comme si il s'agissait d'un couvercle. Réserver le dessus pour refermer le pain par la suite",
+      "Enlever un peu de mie dans chaque pain pour libérer de l'espace pour la farce",
+      "Farcir de mélange - Refermer avec la croûte"
+    ],
+    "notes": null
+  },
+  {
+    "id": 180,
+    "numberLabel": "Recette nº 180",
+    "title": "Mes Betteraves en pot",
+    "ingredients": [
+      "1 Tasse de Vinaigre",
+      "1/2 Tasse de sucre",
+      "Betteraves cuite"
+    ],
+    "steps": [
+      "Chauffer le vinaigre pour faire dissoudre le sucre complètement",
+      "Le vinaigre doit être très chaud",
+      "Pots Stérilisé - Betterave cuite",
+      "Vinaigre chaud - Empoter."
+    ],
+    "notes": null
+  },
+  {
+    "id": 181,
+    "numberLabel": "Recette nº 181",
+    "title": "Cornichons glaçons de Grand Maman Bourgeau",
+    "ingredients": [
+      "6 concombres moyens pelées",
+      "3 oignons finement Tranchés en rondelle (lanière)",
+      "1 piment vert en",
+      "1 piment rouge en bandelette",
+      "1/4 tasse gros sel à Marinade",
+      "2 tasses de vinaigre",
+      "2 tasses de sucre",
+      "2 c à thé graine de céleri",
+      "2 c à thé graine de moutarde",
+      "1/2 c à thé curcuma"
+    ],
+    "steps": [
+      "(Important) Couper les concombres en longues lanière en enlevant les graines.",
+      "Mêler dans un bol les oignons - piment - sel.",
+      "Mettre dans eau glacée pendant 3 heures en rajoutant de la glace au fur et à mesure qu'elle fond.",
+      "Bien égoutter.",
+      "Dans une casserole mêler les ingrédients qui restent.",
+      "Amener à ébullition ensuite Mijoter 5 min.",
+      "Ajouter légumes et ramener à ébullition.",
+      "Tasser dans bocaux stérilisé chaud.",
+      "Recouvrir de légumes avec liquide.",
+      "Sceller.",
+      "Donne environ 3 chopines."
+    ],
+    "notes": "(Recette fantastique et délicieuse)"
+  },
+  {
+    "id": 17,
+    "numberLabel": "Recette nº 17",
+    "title": "Ma soupe à l'oignon (à ne jamais changer)",
+    "ingredients": [
+      "2 gros oignons",
+      "2 litres de consommé de bœuf",
+      "1/2 bouteille bière (petite)",
+      "1 litre d'eau",
+      "1 c à soupe huile",
+      "Fromage Emmenthal Gruyère ou Mozzarella",
+      "Biscotte Hollandaise ou 1 tranche de pain grillé (Toasté)"
+    ],
+    "steps": [
+      "Dorer les oignons dans le beurre.",
+      "Laisser mijoter avec les autres ingrédients pendant 45 minutes à 1 heure.",
+      "Déposer le toast et la mozzarella sur la soupe.",
+      "Mettre sous le gril jusqu'à ce que le fromage soit doré."
+    ],
+    "notes": null
+  },
+  {
+    "id": 18,
+    "numberLabel": "Recette nº 18",
+    "title": "Soupe aux légumes",
+    "ingredients": [
+      "1 c à thé d'huile",
+      "2 à 3 oignons",
+      "Légumes au choix",
+      "8 Tasses d'eau",
+      "2 litres de crème de tomate",
+      "Cumin"
+    ],
+    "steps": [
+      "Aucune étape de préparation spécifiée."
+    ],
+    "notes": "Au lieu de l'eau 8T de bouillon poulet maison c'est meilleure"
+  },
+  {
+    "id": 19,
+    "numberLabel": "Recette nº 19",
+    "title": "Ma crème de Poireaux",
+    "ingredients": [
+      "3 gros poireaux parties blanches et demi partie verte",
+      "3 patates",
+      "6 tasses de bouillon de poulet"
+    ],
+    "steps": [
+      "Pour blanchir un peu, ajouter le bouillon et cuire. Passer au blender lorsque c'est cuit.",
+      "Faire fondre 3 c. à table de beurre, puis ajouter 3 c. à table de farine.",
+      "Ajouter au liquide un peu de concentré de poulet (environ 4 c. à thé).",
+      "Ajouter un peu de marjolaine et de menthe, ainsi qu'un peu de crème. Servir."
+    ],
+    "notes": null
+  },
+  {
+    "id": 20,
+    "numberLabel": "Recette nº 20",
+    "title": "Potage Crème de poulet",
+    "ingredients": [
+      "1 oignon en dés",
+      "3 c. à table de beurre",
+      "3 c. à table de farine",
+      "3 tasses de bouillon de poulet",
+      "2 tasses de lait",
+      "1/4 c. à thé de muscade",
+      "1 tasse de poulet en dés",
+      "sel",
+      "persil",
+      "1/4 tasse de crème 35%"
+    ],
+    "steps": [
+      "Faire revenir l'oignon en dés dans 3 c. à table de beurre, puis ajouter 3 c. à table de farine.",
+      "Ajouter 3 tasses de bouillon de poulet et 2 tasses de lait.",
+      "Ajouter 1/4 c. à thé de muscade, 1 tasse de poulet en dés, du sel, du persil, et 1/4 tasse de crème 35% en fin de cuisson."
+    ],
+    "notes": null
+  },
+  {
+    "id": 21,
+    "numberLabel": "Recette nº 21",
+    "title": "Bouillon pour fondue chinoise",
+    "ingredients": [
+      "1 enveloppe de soupe à l'oignon",
+      "5 tasses d'eau",
+      "1 1/2 tasse de vin rouge",
+      "1 feuille de laurier",
+      "1 cube OXO au bœuf",
+      "1 ou 2 gousses d'ail"
+    ],
+    "steps": [
+      "Mijoter 1 h 1/2 environ"
+    ],
+    "notes": null
+  },
+  {
+    "id": 22,
+    "numberLabel": "Recette nº 22",
+    "title": "Soupe au pois cassé",
+    "ingredients": [
+      "3 c à table huile",
+      "2 oignons émincés",
+      "Orge perlé 1/2 tasse",
+      "10 tasses de bouillon poulet",
+      "Basilic",
+      "Thym",
+      "graine de céleri",
+      "Persil haché",
+      "1 patate coupée en dés",
+      "1 tasse de pois cassés",
+      "3 carottes"
+    ],
+    "steps": [
+      "Faire revenir dans l'huile",
+      "Ajouter 1 tasse de pois cassés",
+      "Faire cuire 1 heure 1/2",
+      "Ensuite ajouter 3 carottes",
+      "Cuire 30 minutes de plus."
+    ],
+    "notes": "C'est une bonne soupe repas"
+  },
+  {
+    "id": 23,
+    "numberLabel": "Recette nº 23",
+    "title": "Soupe aux Tomates",
+    "ingredients": [
+      "1 c à table de beurre",
+      "1 oignon haché",
+      "2 gousses d'ail",
+      "4 tasses de bouillon poulet",
+      "2 tasses de tomates fraîches ou 1 boîte de 19 onces de tomates (environ la moitié d'une grosse boîte)"
+    ],
+    "steps": [
+      "Aucune étape de préparation spécifiée."
+    ],
+    "notes": null
+  },
+  {
+    "id": 24,
+    "numberLabel": "Recette nº 24",
+    "title": "Tomate avec son jus",
+    "ingredients": [
+      "1 carotte",
+      "1 branche céleri",
+      "1/4 c à thé thym ou basilic",
+      "1 morceau navet jaune petit",
+      "1 c à thé sucre blanc",
+      "oignon",
+      "ail",
+      "beurre",
+      "bouillon",
+      "tomates avec leur jus"
+    ],
+    "steps": [
+      "Faire revenir l'oignon et l'ail dans le beurre.",
+      "Ajouter la carotte, le céleri et le morceau de navet jaune.",
+      "Ajouter le bouillon et les tomates avec leur jus.",
+      "Assaisonner.",
+      "Cuire 45 minutes (pour 6 personnes)."
+    ],
+    "notes": null
+  },
+  {
+    "id": 25,
+    "numberLabel": "Recette nº 25",
+    "title": "Crème d'Asperge",
+    "ingredients": [
+      "1 1/4 lb asperges fraîches (une grosse botte)",
+      "6 tasses bouillon poulet",
+      "1/2 tasse de crème",
+      "sel - poivre",
+      "croûtons au goût"
+    ],
+    "steps": [
+      "Cuire asperges dans l'eau",
+      "Jeter l'eau.",
+      "Ensuite ajouter le bouillon poulet",
+      "Ajouter la crème.",
+      "Passer au blender",
+      "Épaissir avec farine et beurre",
+      "Servir"
+    ],
+    "notes": null
+  },
+  {
+    "id": 26,
+    "numberLabel": "Recette nº 26",
+    "title": "Soupe de courge (délicieux)",
+    "ingredients": [
+      "1 courge en dés (Butternut)",
+      "4 tasses bouillon poulet",
+      "1 patate sucrée"
+    ],
+    "steps": [
+      "Cuire courge dans l'eau",
+      "ensuite couler",
+      "ajouter bouillon poulet",
+      "ajouter patate sucrée",
+      "passer au blender",
+      "épaissir si désiré",
+      "ou ajouter crème pour plus velouté"
+    ],
+    "notes": null
+  },
+  {
+    "id": 27,
+    "numberLabel": "Recette nº 27",
+    "title": "Bouillon de poulet Maison",
+    "ingredients": [
+      "1 poulet de 4 lb",
+      "10 tasses eau froide",
+      "1 carotte coupée",
+      "2 branches de céleri",
+      "1 gros oignon",
+      "sel",
+      "poivre",
+      "thym",
+      "1 feuille laurier"
+    ],
+    "steps": [
+      "Laisser mijoter 1 1/2 h à 2 heures",
+      "couler et ajouter 1 c à table de concentré de poulet en poudre"
+    ],
+    "notes": null
+  },
+  {
+    "id": 28,
+    "numberLabel": "Recette nº 28",
+    "title": "Soupe aux pois",
+    "ingredients": [
+      "1/2 lb lard salé",
+      "1 tasse de pois à soupe",
+      "2 c à table de graisse",
+      "1 c à table persil haché",
+      "6 tasses d'eau",
+      "2 c à table oignon haché",
+      "Herbes salées au goût"
+    ],
+    "steps": [
+      "Préparer les ingrédients."
+    ],
+    "notes": "Instructions de cuisson non fournies dans le texte original."
+  },
+  {
+    "id": 29,
+    "numberLabel": "Recette nº 29",
+    "title": "Délicieux et raffiné",
+    "ingredients": [
+      "1/4 Tasse de beurre ou margarine",
+      "3 c à Table farine",
+      "1 Tasse de lait",
+      "2 Tasses bouillon poulet maison",
+      "3 Tasses de concombres en purée",
+      "1 Tasse d'eau",
+      "1 c à thé sel",
+      "1/8 c à thé poivre",
+      "1 c à thé de cerfeuil"
+    ],
+    "steps": [
+      "Peler les concombres.",
+      "Couper les concombres sur la longueur.",
+      "Enlever les graines et ajouter l'eau.",
+      "Cuire les concombres seuls 15 minutes.",
+      "Refroidir les concombres cuits.",
+      "Passer les concombres au blender pour obtenir une purée (peut être congelé).",
+      "Dans une casserole, mettre le bouillon, la purée de concombres et le lait, puis chauffer ensemble.",
+      "Faire un roux : fondre le beurre à la poêle, ajouter la farine jusqu'à obtenir un mélange homogène.",
+      "Incorporer progressivement le roux au bouillon en brassant vigoureusement pour éviter les grumeaux (comme une sauce blanche).",
+      "Cuire à feu doux pendant 5 minutes.",
+      "Ajouter les assaisonnements (sel, poivre, cerfeuil).",
+      "Servir garni d'une pincée de persil, ou varier avec un peu d'échalote ou de morceaux de concombre frais.",
+      "Peut se servir chaud ou froid, mais meilleur chaud."
+    ],
+    "notes": null
+  },
+  {
+    "id": 30,
+    "numberLabel": "Recette nº 30",
+    "title": "Potage de carotte",
+    "ingredients": [
+      "1/4 T beurre ou margarine",
+      "1 oignon - 1 petite gousse d'ail",
+      "5 Tasses d'eau",
+      "2 1/2 Tasses de carottes",
+      "1/4 Tasse de riz à grain long",
+      "2 c à table bouillon poulet",
+      "sel",
+      "poivre",
+      "persil"
+    ],
+    "steps": [
+      "Mijoter 20 à 25 min.",
+      "Passer au blender."
+    ],
+    "notes": null
+  },
+  {
+    "id": 31,
+    "numberLabel": "Recette nº 31",
+    "title": "Soupe au Céleri",
+    "ingredients": [
+      "3 Tasses de céleri haché et feuilles",
+      "2 patates pelées et râpées",
+      "4 Tasses bouillon poulet",
+      "1/4 Tasse persil haché frais"
+    ],
+    "steps": [
+      "Porter à ébullition le liquide.",
+      "Ajouter les ingrédients.",
+      "Mijoter - Couvert 1 heure."
+    ],
+    "notes": null
+  },
+  {
+    "id": 32,
+    "numberLabel": "Recette nº 32",
+    "title": "Soupe aux légumes No 2",
+    "ingredients": [
+      "1/2 T carottes",
+      "1/4 Tasse navet jaune (rutabaga)",
+      "1/2 T céleri",
+      "1 oignon haché fin",
+      "3 c à table beurre",
+      "1 bte de jus tomate",
+      "4 Tasses d'eau",
+      "Un peu de concentré de poulet environ 2 c à thé mais pas comble"
+    ],
+    "steps": [
+      "Revenir oignon et légumes hachés dans beurre.",
+      "Ajouter liquide."
+    ],
+    "notes": null
+  },
+  {
+    "id": 33,
+    "numberLabel": "Recette nº 33",
+    "title": "Soupe crème d'Artichaut avec son pain aux herbes",
+    "ingredients": [
+      "2 bte de cœurs d'artichaut ou bte d'artichaut en morceaux",
+      "2 Tasses bouillon poulet",
+      "persil frais un peu",
+      "1 gousse d'ail",
+      "1/4 T beurre",
+      "1/4 Tasse farine",
+      "2 1/2 Tasses crème 15 %"
+    ],
+    "steps": [
+      "Au malaxeur mettre artichaut, bouillon poulet, persil, ail",
+      "Fondre beurre, ajouter farine puis crème, ensuite purée d'artichaut, laisser cuire 5 min",
+      "Servir chaud avec pain aux herbes"
+    ],
+    "notes": null
+  },
+  {
+    "id": 202,
+    "numberLabel": "Recette nº 202",
+    "title": "Soupe à l'oignon",
+    "ingredients": [
+      "1 kg d'oignons",
+      "100 g de beurre",
+      "1 c. à soupe de farine",
+      "2 litres de bouillon de bœuf",
+      "1 verre de vin blanc sec",
+      "sel, poivre",
+      "tranches de pain",
+      "gruyère râpé"
+    ],
+    "steps": [
+      "Émincer les oignons.",
+      "Les faire revenir dans le beurre jusqu'à ce qu'ils soient bien dorés.",
+      "Saupoudrer de farine, mélanger.",
+      "Ajouter le bouillon et le vin.",
+      "Saler, poivrer.",
+      "Laisser mijoter 30 minutes.",
+      "Verser dans des bols, ajouter une tranche de pain et du gruyère.",
+      "Passer sous le gril du four quelques minutes."
+    ],
+    "notes": null
+  },
+  {
+    "id": 200,
+    "numberLabel": "Recette nº 200",
+    "title": "Crêpes",
+    "ingredients": [
+      "250 g de farine",
+      "4 œufs",
+      "1/2 litre de lait",
+      "50 g de beurre fondu",
+      "1 pincée de sel"
+    ],
+    "steps": [
+      "Mettre la farine dans un saladier,",
+      "Creuser un puits et ajouter les œufs,",
+      "Mélanger progressivement avec le lait,",
+      "Ajouter le beurre fondu et le sel,",
+      "Laisser reposer 1 heure."
+    ],
+    "notes": null
+  },
+  {
+    "id": 5,
+    "numberLabel": "Recette nº 5",
+    "title": "Salade de riz et crevettes",
+    "ingredients": [
+      "riz Uncle Ben",
+      "crevettes de Matane fraîches",
+      "échalote",
+      "sel",
+      "poivre",
+      "mayonnaise Helman"
+    ],
+    "steps": [
+      "Cuire du riz Uncle Ben quantité désirée",
+      "ajouter de belles crevettes de Matane fraîches",
+      "Échalote - sel poivre",
+      "mayonnaise Helman au goût"
+    ],
+    "notes": null
+  },
+  {
+    "id": 14,
+    "numberLabel": "Recette nº 14",
+    "title": "Rouleau de Jambon",
+    "ingredients": [
+      "4 Tranches jambon",
+      "4 Tranches gruyère",
+      "4 Tranches de bacon"
+    ],
+    "steps": [
+      "Rouler ensemble le jambon et gruyère",
+      "Entourer de bacon",
+      "Four 375° F, 8 à 10 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 36,
+    "numberLabel": "Recette nº 36",
+    "title": "Petit Pain Farci de Viande à salade",
+    "ingredients": [
+      "ou pain fumé (fantastique)",
+      "1 1/2 lb de porc haché",
+      "1/2 lb de veau (haché)",
+      "1 gros oignon",
+      "1 gousse d'ail",
+      "1 tasse de sauce chili Heinz",
+      "1 c. à soupe moutarde préparée",
+      "1 c. à table de Worcestershire",
+      "1 boite de soupe Chicken Gumbo non dilué"
+    ],
+    "steps": [
+      "Cuire à découvert 1/2 h à 3/4 hr.",
+      "Mettre dans pains à salade environ 3 dz de pain",
+      "P.S. l'idéal est de cuire ceci dans poêle de fonte et je la fais cuire 1/2 hr.",
+      "Se congèle très bien"
+    ],
+    "notes": null
+  },
+  {
+    "id": 43,
+    "numberLabel": "Recette nº 43",
+    "title": "Garniture",
+    "ingredients": [
+      "sauce à pizza",
+      "poivrons piment vert",
+      "champignons",
+      "fromage mozzarella"
+    ],
+    "steps": [
+      "Déposer sur la pâte non cuite la sauce à pizza - poivrons piment vert - champignons - fromage mozzarella",
+      "Cuire 400 °F 20 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 46,
+    "numberLabel": "Recette nº 46",
+    "title": "Fameuse Omelette au four de la mère à Nathalie (comme celle à Lucie)",
+    "ingredients": [
+      "2 Tasses de sauce béchamel refroidi",
+      "1 douzaine d'œufs",
+      "1 c à thé comble de poudre à pâte"
+    ],
+    "steps": [
+      "Brasser avec fourchette ou au fouet les œufs et ajouter la béchamel.",
+      "plat beurré rectangulaire ou corning ware 350 F jusqu'à doré à peu près 30 à 45 min."
+    ],
+    "notes": "Ne pas faire à la Mijotte"
+  },
+  {
+    "id": 48,
+    "numberLabel": "Recette nº 48",
+    "title": "Gratin de fruits de mer, pommes de terre et coquilles Saint-Jacques à la béchamel",
+    "ingredients": [
+      "1 tasse de béchamel",
+      "6 œufs",
+      "1 tasse de lait",
+      "1 c. à soupe de beurre",
+      "1 c. à soupe de farine",
+      "fruits de mer coupés en petits morceaux",
+      "pommes de terre pelées",
+      "coquilles Saint-Jacques",
+      "paprika"
+    ],
+    "steps": [
+      "Réduire pour petite omelette à 1 tasse de béchamel, 6 œufs, 1/2 c. à thé comble de p à pâte, même température dans un plat carré",
+      "Réduire la béchamel à 1 tasse de lait, 1 c. à soupe de beurre et de farine",
+      "Presser les ingrédients dans une passoire, les peser et les essuyer",
+      "Faire chauffer le lait, y ajouter le beurre et la farine pour obtenir une béchamel assez épaisse",
+      "Incorporer les fruits de mer coupés en petits morceaux, farcir de pommes de terre pelées, ajouter les coquilles Saint-Jacques et saupoudrer le tout de paprika",
+      "Cuire au four à 350°F jusqu'à ce que le plat soit doré"
+    ],
+    "notes": "1. On peut réduire pour petite omelette à 1 Tasse béchamel - 6 œufs - 1/2 c à thé comble p à pâte - Même Température plat carré -\n2. Réduire béchamel à 1 T lait - 1 c à table B & farine\nles presses aussi dans une passoire et je pèse dessus - en plus de les essuyer.\nFaites chauffer le lait y ajouter beurre et farine (doit faire une béchamel assez épaisse) -\nEnsuite des fruits de mer coupés en petits morceaux on farci de pomme de terre pelée le Tous des coquilles St Jacques et au milieu les fruits de mer saupoudrer de paprika - Cuire au four à 350°F jusqu'à doré"
+  },
+  {
+    "id": 50,
+    "numberLabel": "Recette nº 50",
+    "title": "Maman Dompierre",
+    "ingredients": [
+      "1 lb saucisse fumée",
+      "1 c à table huile",
+      "2 oignons hachés",
+      "1 gousse d'ail haché",
+      "1/4 cà thé poivre",
+      "3 tomates vertes en dés",
+      "1 boîte de tomates en dés (28 onces)",
+      "1 cà thé sel",
+      "1 cà thé paprika"
+    ],
+    "steps": [
+      "Sauter oignons, ail et paprika",
+      "Ajouter le reste et mijoter pendant 1 heure.",
+      "Couper les saucisses en moitié",
+      "Chauffer dans la sauce pendant 20 minutes."
+    ],
+    "notes": null
+  },
+  {
+    "id": 51,
+    "numberLabel": "Recette nº 51",
+    "title": "Bifteck Salisbury",
+    "ingredients": [
+      "1 1/2 Tasse bœuf haché",
+      "1 T chapelure",
+      "2 œufs battus",
+      "1/2 T crème de table",
+      "1/4 T sherry sec (S.A.Q.)",
+      "1/2 T oignon fin",
+      "1/2 cà thé sel",
+      "1/4 cà thé poivre",
+      "2 cà Table persil",
+      "4 cà Table huile",
+      "1 recette de Sauce Brune ou Sauce Commerciale aux fines",
+      "4 oignons moyens tranchés"
+    ],
+    "steps": [
+      "Mêler les 9 premiers ingrédients en 6 croquettes",
+      "Faire brunir dans l'huile très chaude"
+    ],
+    "notes": null
+  },
+  {
+    "id": 52,
+    "numberLabel": "Recette nº 52",
+    "title": "Poulet Marengo",
+    "ingredients": [
+      "1 poulet en morceaux",
+      "3 c. à table d'huile",
+      "1 douzaine de petits oignons",
+      "1 boîte de champignons"
+    ],
+    "steps": [
+      "Dorer le poulet dans l'huile. Ajouter les champignons et les oignons et la sauce espagnole.",
+      "Couvrir - Cuire 45 min - Découvrir et cuire encore 5 à 10 min -",
+      "Décorer de persil"
+    ],
+    "notes": "recette de sauce espagnole"
+  },
+  {
+    "id": 54,
+    "numberLabel": "Recette nº 54",
+    "title": "Bifteak de Ronde Braisée",
+    "ingredients": [
+      "2 lbs Steak ronde de 1/2 po épais",
+      "2 c à table de gras",
+      "1/2 Tasse d'eau",
+      "1/2 T crème tomate",
+      "1 sachet soupe à l'oignon"
+    ],
+    "steps": [
+      "Enduire viande de farine",
+      "Faire brunir dans le gras chaud",
+      "Four 325° F",
+      "Mêler soupe Tomate - soupe oignon - Eau",
+      "Verser sur la viande",
+      "Couvrir jusqu'à ce que la viande soit tendre dans un papier aluminium"
+    ],
+    "notes": "Recette d'école lorsque j'avais 14 ans"
+  },
+  {
+    "id": 55,
+    "numberLabel": "Recette nº 55",
+    "title": "Pâté de Veau (côle)",
+    "ingredients": [
+      "1 1/2 lb veau haché",
+      "1 c à thé Ail",
+      "2 œufs battus",
+      "1 T de chapelure",
+      "1/2 T lait",
+      "6 c à table gras de Bacon",
+      "1 boîte de pois verts non égouttés",
+      "Oignon en lamelles"
+    ],
+    "steps": [
+      "Assaisonner le veau",
+      "ajouter les œufs, la chapelure et le lait, bien mélanger",
+      "Façonner en petit pain rond",
+      "Entourer de bacon avec un cure-dent",
+      "Saisir la viande dans le gras avec les oignons",
+      "Ajouter un peu de jus de pois - un peu d'eau",
+      "Couvrir et laisser mijoter 1 hr à 1 h 1/2",
+      "Vérifier souvent ajouter peu à peu le jus des pois au besoin",
+      "Servir avec des pois chauds et des patates gelées"
+    ],
+    "notes": null
+  },
+  {
+    "id": 56,
+    "numberLabel": "Recette nº 56",
+    "title": "Rapide",
+    "ingredients": [
+      "3 lbs de Steak persillé",
+      "2 c à table poivre noir broyé",
+      "2 c à table de beurre",
+      "1 c à table huile",
+      "1/2 T vin blanc ou rouge sec",
+      "2 c. à table Brandy",
+      "sel"
+    ],
+    "steps": [
+      "Après cuisson du steak",
+      "Déglacer la poêle de fonte avec du beurre",
+      "Ajouter le vin blanc ou rouge sec",
+      "Ajouter le Brandy",
+      "Verser la sauce sur le steak"
+    ],
+    "notes": null
+  },
+  {
+    "id": 57,
+    "numberLabel": "Recette nº 57",
+    "title": "Jambon aux Raisins et à l'Ananas de mon école",
+    "ingredients": [
+      "1/2 T cassonade",
+      "1 cà thé fécule maïs",
+      "1 cà table beurre",
+      "1 boîte de jus d'ananas",
+      "1/2 T raisins à tarte",
+      "Tranche de Jambon 1/2 po épais"
+    ],
+    "steps": [
+      "Faire revenir 4 à 5 min dans le beurre.",
+      "Mêler la cassonade et la fécule dans une casserole, ajouter le jus d'ananas et le beurre.",
+      "Jus d'ananas : laisser bouillir, ajouter les raisins. Placer le jambon dans un plat allant au four, verser le sirop, cuire à 350°F pendant 1 heure.",
+      "Pour servir, décorer avec des tranches d'ananas."
+    ],
+    "notes": null
+  },
+  {
+    "id": 58,
+    "numberLabel": "Recette nº 58",
+    "title": "Pâté aux poulets à la française",
+    "ingredients": [
+      "3 Tasses de poulet cuit en dés",
+      "1 lb de carotte cuite",
+      "2 Tasses de céleri cuit",
+      "2 oignons",
+      "3/4 Tasses beurre",
+      "3/4 T farine",
+      "2 Tasses de lait",
+      "3 Tasses de bouillon de poulet (fait maison meilleur)",
+      "2 c à thé persil",
+      "2 échalotes (vert et blanc)",
+      "sel - poivre",
+      "petits pois en conserve, bien égouttés"
+    ],
+    "steps": [
+      "Cuire les carottes et le céleri, revenir l'oignon.",
+      "Mêler le beurre fondu et la farine, puis ajouter le lait pour faire une sauce.",
+      "Dans cette sauce, ajouter les légumes, les oignons, le poulet, l'assaisonnement, et mélanger délicatement.",
+      "Cuire à 350°F pendant 40 minutes jusqu'à ce que ce soit doré."
+    ],
+    "notes": "Donne environ 3 pâtés aux poulets qu'on peut congeler (Ne pas changer)"
+  },
+  {
+    "id": 59,
+    "numberLabel": "Recette nº 59",
+    "title": "C'est la recette préférée de Jean-François",
+    "ingredients": [
+      "1 lb de bœuf haché",
+      "1/3 T oignon fin",
+      "1 c à thé sel",
+      "Un peu de poivre",
+      "1/2 T céleri haché ou carotte",
+      "1 œuf battu",
+      "2 c à table beurre",
+      "Pomme de Terre en purée",
+      "1 c à table piment vert haché",
+      "1/8 c à thé poivre",
+      "1/4 c à thé sel",
+      "1 c à table de beurre",
+      "Un peu de lait",
+      "Pâte = 2 T farine",
+      "1/2 c à thé de fines herbes séchées",
+      "4 c à thé poudre à pâte",
+      "2 à 4 c à table beurre ou margarine",
+      "3/4 Tasse lait"
+    ],
+    "steps": [
+      "Faire la pâte",
+      "étendre au Rouleau à Pâte 15 x 10",
+      "Placer pomme de Terre sur le début du rouleau",
+      "Ajouter le reste de Viande",
+      "Rouler",
+      "Badigeonner la pâte de lait",
+      "Cuire à 400 F 45 min",
+      "Servir avec Sauce aux légumes 1/8 épaisse avec fécule de Maïs délayé dans un peu d'eau ou Sauce brune"
+    ],
+    "notes": null
+  },
+  {
+    "id": 60,
+    "numberLabel": "Recette nº 60",
+    "title": "Bœuf Bourguignon délicieux",
+    "ingredients": [
+      "3 1/2 lb de Surlonge en cube ou cube pour bœuf bourguignon de 1 po",
+      "2 cà soupe huile olive",
+      "1 cà soupe beurre - sel poivre",
+      "1 1/2 Tasse consommé de bœuf non dilué",
+      "1 1/2 Tasse Vin Rouge",
+      "2 cà soupe beurre",
+      "1 gros oignon en gros morceau",
+      "3 gousses d'ail écrasées et fin",
+      "1/2 cà thé thym - 2 à 3 feuilles de laurier",
+      "4 cà Table comble de farine",
+      "1/2 lb champignons coupé en 2",
+      "1 cà soupe Bovril"
+    ],
+    "steps": [
+      "Revenir Viande dans l'huile et beurre",
+      "Cuire Oignon 2 à 3 min - Ajoute ail - Thym - Laurier - Parsemer de farine la viande dans rôtissoire ou four - Ajoute Vin et Bouillon",
+      "Four à 350° F - 1 heure et quart",
+      "Sauter champignons dans beurre",
+      "Ajouter à la fin de la cuisson avec un peu de persil - Se congèle bien"
+    ],
+    "notes": null
+  },
+  {
+    "id": 61,
+    "numberLabel": "Recette nº 61",
+    "title": "Steak au Poivre Madagascar",
+    "ingredients": [
+      "Steak de T. Bone ou Surlonge",
+      "poivre vert Madagascar concassé",
+      "cognac (1/4 à 1/2 tasse)",
+      "moutarde forte de Dijon",
+      "crème 35%",
+      "consommé",
+      "beurre",
+      "farine"
+    ],
+    "steps": [
+      "Steak de T. Bone ou Surlonge - écraser du poivre vert Madagascar concassé",
+      "Cuire Steak - Déposer dans un plat chaud en attente - Déglacer poêle avec cognac 1/4 Tasse à 1/2 t si 2 Steaks",
+      "faire flamber avec longue allumette - Faire attention en ayant 1 couvercle si flamme trop forte",
+      "Déposer dans la poêle ensuite un peu de moutarde forte de Dijon - De la crème 35% - Du consommé lié avec beurre et farine (qu'on appelle beurre manié)",
+      "Ajouter 1 noix de beurre - Servir"
+    ],
+    "notes": null
+  },
+  {
+    "id": 62,
+    "numberLabel": "Recette nº 62",
+    "title": "Veau Cordon Bleu Super",
+    "ingredients": [
+      "4 Tranches d'escalopes de Veau",
+      "4 Tranches de Jambon cuit mince",
+      "4 Tranches fromage gruyère - cheddar ou Emmental ou Mozzarella -",
+      "sel - poivre",
+      "3 c à soupe de margarine",
+      "1/2 lb champignons émincé",
+      "1 branche de céleri",
+      "1 T de Vin blanc",
+      "1 c à soupe persil",
+      "Sauge"
+    ],
+    "steps": [
+      "un peu Saler - Poivrer chaque escalope",
+      "Saupoudrer de sauge",
+      "Mettre 1 Tranche de Jambon ensuite fromage sur jambon",
+      "Rouler et ficeler",
+      "Fondre Margarine - Sauter les champignons - céleri",
+      "Ajouter le Vin blanc",
+      "Cuire partiellement couvert 10 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 64,
+    "numberLabel": "Recette nº 64",
+    "title": "Délicieuse Recette préféré à François",
+    "ingredients": [
+      "4 à 6 côtelettes de 3/4 po épais",
+      "sel",
+      "poivre",
+      "Paprika",
+      "2 c à Table beurre ou margarine",
+      "1/2 T de céleri en dés",
+      "1/2 T oignon fin émincé",
+      "1 c à table persil séché",
+      "1 boîte 10 onces (environ 192 grammes) de crème de champignon",
+      "1/3 T lait",
+      "1/2 de lait"
+    ],
+    "steps": [
+      "Assaisonner les côtelettes avec poivre et paprika",
+      "Sauter côtelette dans beurre ou margarine",
+      "Saler",
+      "Déposer dans plat au four",
+      "Mêler le céleri, l'oignon et le persil",
+      "Mélanger les champignons ajoutés à la crème de champignon",
+      "Ajouter le lait"
+    ],
+    "notes": null
+  },
+  {
+    "id": 65,
+    "numberLabel": "Recette nº 65",
+    "title": "Manicotti à la Viande",
+    "ingredients": [
+      "16 à 18 Manicotti ou Cannelloni",
+      "1 1/2 lb bœuf haché",
+      "2 c à Table huile",
+      "3 tranches de pain émietté",
+      "2/3 tasse de lait",
+      "2 T de fromage mozzarella",
+      "1 c à table de persil",
+      "sel - poivre",
+      "1 bte de 28 onces de sauce à spaghetti",
+      "4 c à table de fromage parmesan râpé"
+    ],
+    "steps": [
+      "Cuire les manicottis 5 minutes dans l'eau bouillante",
+      "Revenir viande dans l'huile",
+      "Mêler pain - lait - reposer 2 min",
+      "Ajouter le reste sauf sauce et fromage Parmesan",
+      "Farcir les pâtes",
+      "Mettre sauce sur dessus",
+      "Saupoudrer de fromage",
+      "Couvrir avec aluminium",
+      "Cuire à 375° F ou 190 C pendant 20 min",
+      "Découvrir - Cuire encore 10 min de plus (Servir chaud)"
+    ],
+    "notes": null
+  },
+  {
+    "id": 66,
+    "numberLabel": "Recette nº 66",
+    "title": "Bœuf à la bière",
+    "ingredients": [
+      "2 lbs bœuf bourguignon de 1 po",
+      "1/4 T farine",
+      "1 c à thé sel",
+      "1/2 c à thé poivre",
+      "1/4 T huile",
+      "2 lbs oignons",
+      "1 gousse d'ail émincée",
+      "1 bouteille de bière (12 onces)",
+      "1 c à table sauce soya",
+      "1 c à table Worcestershire",
+      "1 c à table sauce à Steak H.P.",
+      "2 feuilles de laurier",
+      "1/2 c à thé thym",
+      "3 patates coupées en 4",
+      "1 patate",
+      "1 boite de pois"
+    ],
+    "steps": [
+      "Chauffer l'huile",
+      "Revenir oignon émincé et ail",
+      "Mêler viande et farine - Revenir dans une autre poêle",
+      "Mêler ensuite bière - soya - worcestershire - H.P. - laurier - thym",
+      "Amener à ébullition - Couvrir - Réduire la chaleur",
+      "Mijoter 1 1/2 heure ou jusqu'à tendreté",
+      "Ajouter patate couvrir 20 min",
+      "Y ajouter pois mijoter 10 min",
+      "Retirer feuille de laurier"
+    ],
+    "notes": null
+  },
+  {
+    "id": 67,
+    "numberLabel": "Recette nº 67",
+    "title": "Très Tendre se défait à la fourchette",
+    "ingredients": [
+      "rôti de palette",
+      "graisse",
+      "boîte de consommé",
+      "sachet de soupe à l'oignon",
+      "eau",
+      "patate en cube",
+      "carotte",
+      "légumes",
+      "Bovril",
+      "patate pilée",
+      "légumes vapeur"
+    ],
+    "steps": [
+      "Brunir un rôti de palette dans la graisse.",
+      "Ne pas trop piquer le rôti pour ne pas faire sortir le sang qui contient le suc de la viande.",
+      "Ajouter 1 boîte de consommé et un sachet de soupe à l'oignon.",
+      "Ajouter 2 tasses d'eau.",
+      "Couvrir et laisser cuire 1 heure et demie.",
+      "Ne pas découvrir pendant la cuisson.",
+      "Après ce temps, découvrir et ajouter les pommes de terre en cubes et les carottes.",
+      "Refaire chauffer sur une poêle.",
+      "Couvrir et remettre au four encore 1 heure et demie.",
+      "Si l'on décide de ne pas ajouter de légumes, prolonger la cuisson jusqu'à 3 heures.",
+      "Ouvrir le récipient pour vérifier si la viande est tendre.",
+      "Ajouter de l'eau au besoin et un peu de Bovril.",
+      "Goûter et rectifier l'assaisonnement.",
+      "Servir avec de la purée de pommes de terre et des légumes vapeur."
+    ],
+    "notes": null
+  },
+  {
+    "id": 68,
+    "numberLabel": "Recette nº 68",
+    "title": "Rôti du Roi ou Rôti Français de sur longe désossé",
+    "ingredients": [
+      "1 Rôti du Roi ou Rôti Français de sur longe désossé",
+      "graisse",
+      "1 sachet de soupe à l'oignon",
+      "1 consommé de bœuf non dilué",
+      "un peu d'eau",
+      "bouillon",
+      "patate pilée",
+      "riz",
+      "pomme de terre en robe des champs"
+    ],
+    "steps": [
+      "Faire revenir le rôti dans la graisse pour retenir les sucs.",
+      "Ajouter ensuite le sachet de soupe à l'oignon.",
+      "Incorporer le consommé de bœuf non dilué et un peu d'eau.",
+      "Cuisson couvert à 425 °F pendant 45 minutes.",
+      "Chauffer un rond de poêle depuis la rôtissoire.",
+      "Découper le rôti en tranches.",
+      "Ajouter du bouillon par dessus selon désir.",
+      "Pour une cuisson médiane, remettre le rôti dans le bouillon un moment.",
+      "Pour une cuisson bien cuite, prolonger la cuisson.",
+      "Servir avec de la purée de pommes de terre, du riz ou des pommes de terre en robe des champs."
+    ],
+    "notes": null
+  },
+  {
+    "id": 69,
+    "numberLabel": "Recette nº 69",
+    "title": "Poulet chasseur (cacciatore) à l'Italienne de la mère de Nathalie",
+    "ingredients": [
+      "1 poulet 3 à 4 lbs",
+      "3 c à soupe beurre",
+      "1 gousse d'ail",
+      "3 échalotes",
+      "1/2 Tasse de consommé",
+      "1/2 T vin blanc",
+      "1 c à s de purée Tomate (Tomate paste)",
+      "1/2 T persil frais",
+      "1/4 c à thé Thym",
+      "1/4 c à thé de Marjolaine",
+      "1/2 lb champignon"
+    ],
+    "steps": [
+      "Dorer ail",
+      "Dorer échalote",
+      "couper en 2 le poulet",
+      "Dorer dans l'huile & beurre à feu moyen",
+      "Ajouter consommé",
+      "Ajouter vin",
+      "Ajouter purée",
+      "Ajouter épices",
+      "Cuire à 350° F pendant 1 heure ou jusqu'à ce que très tendre"
+    ],
+    "notes": null
+  },
+  {
+    "id": 70,
+    "numberLabel": "Recette nº 70",
+    "title": "Boeuf Stroganoff",
+    "ingredients": [
+      "1 lb filet de boeuf",
+      "huile (1/4 Tasse)",
+      "1/2 paquet de champignons frais tranchés",
+      "3/4 Tasse oignons hachés",
+      "1 Tasse bouillon de boeuf en conserve",
+      "1/2 t de sherry",
+      "3 c à s de farine",
+      "1/2 T de crème sure",
+      "riz ou nouilles",
+      "Lard"
+    ],
+    "steps": [
+      "Couper finement en languette 1 lb filet de boeuf - Revenir dans l'huile environ (1/4 Tasse)",
+      "Ajouter 1/2 paquet de champignons frais tranchés - 3/4 Tasse oignons hachés - Mêler 1 Tasse bouillon de boeuf en conserve - 1/2 t de sherry.",
+      "Ajouter 3 c à s de farine - 1/2 T de crème sure - Mijoter à couvert 15 min",
+      "Servir avec riz ou nouilles."
+    ],
+    "notes": null
+  },
+  {
+    "id": 71,
+    "numberLabel": "Recette nº 71",
+    "title": "Sukiyaki Tante Claudette",
+    "ingredients": [
+      "1/2 T de graisse",
+      "1 1/2 lb steak en languette de 1/8 po",
+      "2 oignons hachés gros",
+      "2 bottes échalotes en morceaux de 3 pouces",
+      "1/2 lb champignons",
+      "3 branches céleri tranchés",
+      "3 c à table de sucre",
+      "1/2 Tasse sauce soya",
+      "1 Tasse consommé non dilué"
+    ],
+    "steps": [
+      "Revenir viande dans graisse",
+      "Mettre de côté",
+      "Ajouter au poêlon et revenir échalotes en morceaux",
+      "Ensuite Céleri et champignon",
+      "Cuire 5 min en brassant occasionnellement",
+      "Y remuer Soya - Sucre",
+      "Cuire 15 min sur feu doux en brassant souvent",
+      "Ajouter bœuf cuit & consommé non dilué",
+      "Mijoter 5 min",
+      "Servir sur riz bouilli"
+    ],
+    "notes": null
+  },
+  {
+    "id": 72,
+    "numberLabel": "Recette nº 72",
+    "title": "Pâté Mexicain Claudette",
+    "ingredients": [
+      "1 lb porc haché",
+      "1 lb steak haché",
+      "2 oignons finis",
+      "2 branches céleri fin",
+      "1/2 T piment vert haché",
+      "1/2 T de Ketchup rouge Heinz",
+      "1/2 T sauce chili",
+      "1/4 Tasse relish - sel - poivre"
+    ],
+    "steps": [
+      "Cuire viande - oignon - céleri ensemble 1/2 heure",
+      "Refroidir un peu - Ajouter le reste",
+      "Mettre dans croûte à tarte sur le dessus",
+      "Mettre tranches de mozzarella",
+      "Ensuite l'autre dessus de pâte",
+      "Cuire jusqu'à ce que doré comme une tarte"
+    ],
+    "notes": null
+  },
+  {
+    "id": 73,
+    "numberLabel": "Recette nº 73",
+    "title": "Marielle fantastique",
+    "ingredients": [
+      "8 côtelettes de porc papillon dans la longe désossés",
+      "sel",
+      "poivre",
+      "2 cà Table fécule de maïs",
+      "1 T farine assaisonnée",
+      "1 T chapelure italienne ou à dinami",
+      "2 œufs battus",
+      "1 cà Table huile",
+      "1 petit oignon en dés",
+      "1 petite carotte en dés",
+      "1 1/2 cà Table farine",
+      "1 Tasse Sauce brune",
+      "1 c à Table sel",
+      "1/4 cà thé Thym",
+      "1 cà thé persil",
+      "1 feuille de Laurier",
+      "1/4 cà thé basilic",
+      "1/2 cà thé pâte de Tomate"
+    ],
+    "steps": [
+      "chauffer l'huile - oignon et carotte 5 min avec couvert",
+      "Ajouter farine et cuire 3 min",
+      "Ajouter Tomate - Sauce brune rester mijoter 45 min en Brassant souvent car cette sauce colle facilement",
+      "Enlever feuille Laurier",
+      "Mettre en purée",
+      "Aplatir côtelettes de porc bien tendres avec un maillet à viande entre 2 feuilles de papier ciré",
+      "Assaisonner avec sel poivre",
+      "Tremper dans la farine assaisonnée mêler avec fécule",
+      "Ensuite dans les œufs",
+      "Ensuite chapelure",
+      "Chauffer l'huile - Saisir côtelettes des 2 côtés"
+    ],
+    "notes": null
+  },
+  {
+    "id": 75,
+    "numberLabel": "Recette nº 75",
+    "title": "Rôti de bœuf à l'étouffée",
+    "ingredients": [
+      "1 sachet soupe à l'oignon",
+      "3 lbs de rôti pour cuisson à l'étouffée comme côtes croisées ou palette",
+      "6 petites pommes de terre pelées",
+      "1 tasse carottes tranchées en diagonale",
+      "1 tasse navet en dés (rutabaga)",
+      "1/2 tasse céleri en diagonale",
+      "1 feuille laurier",
+      "Thym",
+      "3/4 tasse de jus de pomme"
+    ],
+    "steps": [
+      "Aucune instruction de préparation fournie."
+    ],
+    "notes": null
+  },
+  {
+    "id": 76,
+    "numberLabel": "Recette nº 76",
+    "title": "Viande en papillote",
+    "ingredients": [
+      "Viande",
+      "Sauge",
+      "légumes",
+      "liquide"
+    ],
+    "steps": [
+      "Frotter la viande avec de la sauge.",
+      "Mettre les légumes.",
+      "Verser le liquide sur la viande.",
+      "Couvrir.",
+      "Cuire à 350° pendant 2 heures ou jusqu'à ce qu'elle soit bien tendre."
+    ],
+    "notes": null
+  },
+  {
+    "id": 77,
+    "numberLabel": "Recette nº 77",
+    "title": "Pain de Viande",
+    "ingredients": [
+      "2 lb Steak haché mi-maigre",
+      "1/2 T oignon fin",
+      "1 tasse de chapelure de pain",
+      "1 oeuf",
+      "sel",
+      "poivre",
+      "un peu de lait"
+    ],
+    "steps": [
+      "Verser dans moule à pain",
+      "Ajouter sur le dessus 1 bte de crème tomate et 1/2 bte jus Tomate pour commencer",
+      "Si au cours de cuisson moins de sauce, rajouter encore un peu de jus Tomate et crème Tomate",
+      "Cuire à 350° F Environ 50 min"
+    ],
+    "notes": "Pour humecter."
+  },
+  {
+    "id": 78,
+    "numberLabel": "Recette nº 78",
+    "title": "Pâté Chinois Version Maman",
+    "ingredients": [
+      "steak haché",
+      "beurre",
+      "huile",
+      "oignon",
+      "1 boîte de crème de maïs",
+      "patate pilée"
+    ],
+    "steps": [
+      "Faire revenir le steak haché dans une poêle avec du beurre, de l'huile et un peu d'oignon.",
+      "Ajouter la boîte de crème de maïs et mélanger.",
+      "Servir le mélange avec de la patate pilée (purée de pommes de terre)."
+    ],
+    "notes": null
+  },
+  {
+    "id": 82,
+    "numberLabel": "Recette nº 82",
+    "title": "Pizza vite faite des enfants",
+    "ingredients": [
+      "1 pain Hamburger",
+      "De la sauce",
+      "Pepperoni",
+      "piment",
+      "Fromage"
+    ],
+    "steps": [
+      "Préchauffer le four à 400°F.",
+      "Enfourner la pizza pendant 10 à 15 minutes ou jusqu'à ce qu'elle soit dorée."
+    ],
+    "notes": null
+  },
+  {
+    "id": 83,
+    "numberLabel": "Recette nº 83",
+    "title": "Boeuf Mexicain",
+    "ingredients": [
+      "2 lbs de bœuf en cubes (longue cuisson)",
+      "1 bte 28 onces de Tomate - meilleur",
+      "1 bte de champignons égouttés",
+      "2 branches de céleri",
+      "1/2 c à thé sel",
+      "1/4 c à thé de poivre",
+      "1 piment vert en morceaux",
+      "1/3 T de cassonade",
+      "1/4 T vinaigre de vin",
+      "1 c à thé sauce Worcestershire"
+    ],
+    "steps": [
+      "Revenir dans beurre - bœuf - Oignon - ajouter le reste",
+      "Cuire au four avec couvercle à 350°F",
+      "Laisser cuire 2 à 3 heures jusqu'à ce que le bœuf soit cuit"
+    ],
+    "notes": null
+  },
+  {
+    "id": 84,
+    "numberLabel": "Recette nº 84",
+    "title": "Poulet en Papillotes",
+    "ingredients": [
+      "4 cuisses ou 2 poitrines de poulet",
+      "1/4 T Ketchup",
+      "1/4 T vinaigre",
+      "1/4 T cassonade",
+      "1/4 T beurre fondu",
+      "1 c à thé paprika",
+      "1 c à thé poudre de chili",
+      "1 c à thé moutarde sèche",
+      "2 c à thé poudre de bouillon poulet diluée dans 1/2 Tasse eau bouillante"
+    ],
+    "steps": [
+      "Enlever la peau",
+      "Verser la sauce sur le poulet",
+      "Envelopper le poulet dans du papier aluminium",
+      "Cuire à 350°F pendant 1h30 ou jusqu'à cuisson"
+    ],
+    "notes": null
+  },
+  {
+    "id": 86,
+    "numberLabel": "Recette nº 86",
+    "title": "Poulet Kentucky maison",
+    "ingredients": [
+      "poulet",
+      "peau",
+      "sac en plastique",
+      "eau très chaude",
+      "1 œuf",
+      "1/4 tasse de lait",
+      "chapelure"
+    ],
+    "steps": [
+      "Couper le poulet en morceaux, enlever la peau, mettre les morceaux dans un sac en plastique et attacher, faire tremper le sac dans l'eau très chaude 8 à 10 min.",
+      "Battre 1 œuf et 1/4 tasse de lait.",
+      "Tremper le poulet dans ce mélange avant d'enrober de la chapelure que l'on prépare elle aussi dans un sac de plastique."
+    ],
+    "notes": null
+  },
+  {
+    "id": 89,
+    "numberLabel": "Recette nº 89",
+    "title": "Chop Suey",
+    "ingredients": [
+      "2 c à Table huile végétale",
+      "1 oignon haché",
+      "2 branches de céleri",
+      "1 Tasse de steak mince en languette revenu de beurre ou 1 tasse de bœuf haché cuit",
+      "2 Tasses de fèves germées crues",
+      "Piment vert",
+      "Champignon frais",
+      "4 c à Table soya",
+      "un peu d'ail"
+    ],
+    "steps": [
+      "Couper le céleri et l'oignon",
+      "Revenir à l'huile",
+      "Ajouter le bœuf en languette revenu dans beurre ou des Steak haché",
+      "Nettoyer les fèves en les passant à l'eau froide avec une passoire puis ajouter au mélange légumes et viande",
+      "Ajouter l'eau à égalité",
+      "Incorporer la sauce soya et un peu de bouillon",
+      "Mijoter 30 à 45 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 90,
+    "numberLabel": "Recette nº 90",
+    "title": "Boeuf Marguerite",
+    "ingredients": [
+      "1 lb bœuf haché",
+      "1 oignon fin coupé",
+      "1/4 Tasse Ketchup (Heinz)",
+      "3/4 tasse crème de champignons",
+      "1/4 c à thé sel",
+      "1/4 c à thé poivre",
+      "2 1/4 Tasse farine"
+    ],
+    "steps": [
+      "Mélanger tous les ingrédients et cuire à feu moyen jusqu'à ce que le bœuf soit bien cuit."
+    ],
+    "notes": null
+  },
+  {
+    "id": 92,
+    "numberLabel": "Recette nº 92",
+    "title": "Parmesan",
+    "ingredients": [
+      "1 gousse d'ail émincé",
+      "beaucoup de persil frais haché",
+      "2 tasses de sauce tomate",
+      "de 1 à 1 1/2 tasse de sauce béchamel",
+      "fromage mozzarella partiellement écrémé pour gratiner"
+    ],
+    "steps": [
+      "Faire cuire les saucisses.",
+      "Laisser refroidir et passer au robot.",
+      "Ajouter les fromages, l'ail et le persil à la chair de saucisse.",
+      "Bien mélanger."
+    ],
+    "notes": null
+  },
+  {
+    "id": 93,
+    "numberLabel": "Recette nº 93",
+    "title": "Poitrine",
+    "ingredients": [
+      "poitrine",
+      "sel",
+      "un peu de farce",
+      "un peu d'huile",
+      "un peu de beurre",
+      "votre Tomate favorite",
+      "sauce béchamelle",
+      "mozzarella râpé",
+      "nouilles moyennes",
+      "frites"
+    ],
+    "steps": [
+      "Prendre, saler légèrement les roulades, déposer sur chacune d'elles un peu de farce et rouler de façon à emprisonner la farce et former une belle roulade.",
+      "Faire fondre un peu d'huile et de beurre dans une poêle puis y faire dorer uniformément les roulades.",
+      "Les placer dans un plat allant au four et les arroser de votre Tomate favorite, puis bien couvrir avec un couvercle ou une feuille d'aluminium.",
+      "Mettre au four préchauffé à 375°F pendant 35 à 40 minutes environ.",
+      "Entre-temps, préparer votre sauce béchamelle.",
+      "Une fois les roulades cuites, y verser la sauce béchamelle et recouvrir le tout de mozzarella râpé.",
+      "Placer au four cette fois-ci à 400°F pour bien gratiner le fromage.",
+      "Servir avec des nouilles moyennes (et des frites)."
+    ],
+    "notes": null
+  },
+  {
+    "id": 96,
+    "numberLabel": "Recette nº 96",
+    "title": "Vite faite (très bonne et rapide)",
+    "ingredients": [
+      "1 1/2 lb bœuf haché",
+      "1 piment vert",
+      "1 oignon",
+      "1/2 Tasse carottes rapées",
+      "2 branches céleri coupé fin",
+      "1 btte 5 onces pâte de tomate",
+      "1 btte 10 onces sauce Tomate",
+      "1 btte 19 onces Tomate en dés",
+      "1/3 Tasse Sauce Chili Heinz",
+      "1 c à thé sucre",
+      "1/2 c à thé piment rouge broyé",
+      "sel",
+      "poivre au goût",
+      "1 boîte de légume macédoine égouttée",
+      "pain croûté",
+      "beurre",
+      "Sauce aux poivres"
+    ],
+    "steps": [
+      "Mêler bœuf, piment, oignon, carotte, céleri.",
+      "Cuire 6 à 7 min à Maximum.",
+      "Émietter viande.",
+      "Ajouter autres ingrédients.",
+      "Cuire.",
+      "Ajouter 1 boîte de légume macédoine égouttée.",
+      "Enlever la mie d'un pain croûté.",
+      "Remplir du mélange.",
+      "Badigeonner pain de beurre.",
+      "Envelopper de papier aluminium.",
+      "Cuire à 350° F 20 min.",
+      "Servir avec Sauce aux poivres."
+    ],
+    "notes": null
+  },
+  {
+    "id": 97,
+    "numberLabel": "Recette nº 97",
+    "title": "Côtes levées B.B. Barn",
+    "ingredients": [
+      "2 longes de côtes de dos de porc pas de flanc",
+      "1 tasse de purée de pommes non sucrée",
+      "1/2 T de Ketchup",
+      "1 1/2 Tasse de cassonade",
+      "2 c à thé jus citron",
+      "1 c à thé sel",
+      "1 c à thé paprika",
+      "1 c à thé poudre d'ail",
+      "1 c à thé cannelle"
+    ],
+    "steps": [
+      "Bouillir 30 à 60 min les côtes dans l'eau",
+      "Amener les ingrédients de la sauce à ébullition",
+      "Recouvrir les côtes"
+    ],
+    "notes": null
+  },
+  {
+    "id": 99,
+    "numberLabel": "Recette nº 99",
+    "title": "Poulet à l'abricot de ma cousine (délicieux)",
+    "ingredients": [
+      "Des poitrines de poulet sans peau désossées (9)",
+      "1 petite bouteille de vinaigrette Kraft Catalina",
+      "1 petit pot de confiture d'abricot",
+      "1 pot d'eau (prendre le pot vide de confiture d'abricot, facultatif)",
+      "1 sachet de soupe à l'oignon"
+    ],
+    "steps": [
+      "Cuire à 350°F jusqu'à cuisson complète.",
+      "Environ 1 heure 1/2 ou un peu plus selon l'épaisseur des poitrines."
+    ],
+    "notes": "J'ai déjà oublié l'eau et c'était très bon mais plus épais meilleur sans eau."
+  },
+  {
+    "id": 102,
+    "numberLabel": "Recette nº 102",
+    "title": "Jarret de veau",
+    "ingredients": [
+      "8 Tranches de gros jarret de Veau",
+      "Farine - 2 c à Table",
+      "Huile - 3 c à Table",
+      "Beurre",
+      "sel",
+      "poivre",
+      "1 oignon",
+      "3 céleri Tranché",
+      "4 gousses d'ail haché",
+      "2 carottes Tranchées",
+      "1/2 lb champignon",
+      "1 boîte 19 onces Tomates en dés",
+      "1 Tasse de Vin Rouge ou 2 Tasses de bouillon de Poulet",
+      "2 feuilles de Laurier",
+      "1/2 T de persil frais haché",
+      "1 c à thé Thym séché",
+      "1/2 tasse crème 15% épaisse"
+    ],
+    "steps": [
+      "Cuit 1 1/2 heures au four à 350°F",
+      "Beurre et huile : La moitié pour rôtir pour colorer les jarrets",
+      "Sel, poivre des 2 côtés",
+      "Dans le fond ajouter le reste du beurre avec légumes, oignon, champignon, céleri"
+    ],
+    "notes": "Se sert avec fettuccine ou Riz ou Patate pilée"
+  },
+  {
+    "id": 103,
+    "numberLabel": "Recette nº 103",
+    "title": "Filets de truite en croûte",
+    "ingredients": [
+      "4 filets de truite",
+      "Huile d'olive",
+      "Sel",
+      "Poivre",
+      "Fines herbes hachées",
+      "Zeste de citron",
+      "Parmesan",
+      "Chapelure",
+      "Gousse d'ail hachée",
+      "Quartier de citron",
+      "Salade"
+    ],
+    "steps": [
+      "Préchauffer le four à 375°F.",
+      "Couvrir de papier alu une tôle à biscuit.",
+      "Déposer les 4 filets de truite. Éponger avec essuie-tout.",
+      "Saler, poivrer et verser un filet d'huile d'olive sur le dessus de chacun.",
+      "Dans un bol mélanger les fines herbes hachées finement, le zeste de citron, le parmesan, chapelure et la gousse d'ail hachée.",
+      "Recouvrir chaque filet de ce mélange (ce qui formera une croûte).",
+      "Verser un filet d'huile encore sur les filets, mettre au four 7 à 8 min pour bien gratiner.",
+      "Servir avec quartier de citron.",
+      "Accompagner d'une salade."
+    ],
+    "notes": null
+  },
+  {
+    "id": 203,
+    "numberLabel": "Recette nº 203",
+    "title": "Gratin dauphinois",
+    "ingredients": [
+      "1 kg de pommes de terre",
+      "50 cl de crème fraîche liquide",
+      "2 gousses d'ail",
+      "sel",
+      "poivre",
+      "noix de muscade",
+      "beurre pour le plat"
+    ],
+    "steps": [
+      "Éplucher et laver les pommes de terre.",
+      "Les couper en fines rondelles.",
+      "Frotter un plat à gratin avec les gousses d'ail coupées en deux.",
+      "Beurrer le plat.",
+      "Disposer les pommes de terre en couches.",
+      "Saler, poivrer, ajouter une pincée de muscade.",
+      "Verser la crème.",
+      "Cuire au four à 180°C pendant 1 heure."
+    ],
+    "notes": null
+  },
+  {
+    "id": 209,
+    "numberLabel": "Recette nº 209",
+    "title": "Pizza à ma sœur (3 gros)",
+    "ingredients": [
+      "1 2/3 Tasse eau tiède",
+      "4 1/2 T de farine",
+      "1 cà thé sel",
+      "2 cà table de sucre",
+      "Lait en poudre ou ordinaire c'est à dire 2 cà table",
+      "2 cà table de graisse",
+      "2 cà thé de levure à pain"
+    ],
+    "steps": [
+      "Séparer en 3",
+      "Laisser reposer 15 min à la Sortie",
+      "Four 425° jusqu'à cuit"
+    ],
+    "notes": null
+  },
+  {
+    "id": 213,
+    "numberLabel": "Recette nº 213",
+    "title": "Boulettes secours Top Recette",
+    "ingredients": [
+      "2 lbs boeuf haché",
+      "1 1/2 T chapelure",
+      "1/2 T lait",
+      "1/4 T oignon haché fin",
+      "2 oeufs",
+      "Un peu de sel"
+    ],
+    "steps": [
+      "Mêler tous les ingrédients.",
+      "Former 3 dz de boulettes de 1 po 1/2 environ.",
+      "Mettre au four sur tôle avec rebord à 375° 25 à 30 min.",
+      "Ajouter à n'importe quelle sauce préférée."
+    ],
+    "notes": "Ma meilleure recette de boulettes. À ne pas changer très tendre. (Se congèle très bien réchauffer dans la sauce 15 min). Chapelure italienne meilleure dans cette recette."
+  },
+  {
+    "id": 214,
+    "numberLabel": "Recette nº 214",
+    "title": "Piment Farci",
+    "ingredients": [
+      "1 T de riz cuit (1/3 T cru)",
+      "4 piment vert ou rouge (Rouge meilleur plus sucré)",
+      "2 c à Table huile",
+      "1 gousse ail haché",
+      "1/2 T oignon fin",
+      "3/4 lb de boeuf haché",
+      "1 bte crème tomate"
+    ],
+    "steps": [
+      "Bouillir piment evidé 10 min",
+      "Égoutter salé l'intérieur",
+      "Cuire Oignon, ail, Viande",
+      "Ajouter le riz cuit",
+      "farcir",
+      "Four 400 F 20 min avec 1 bte crème Tomate et du jus de Tomate 1 boite",
+      "On peut mettre sur chaque piment 1 tranche de fromage Kraft"
+    ],
+    "notes": "persil-sel"
+  },
+  {
+    "id": 215,
+    "numberLabel": "Recette nº 215",
+    "title": "Côtelettes de Porc Hawaiienne Super",
+    "ingredients": [
+      "6 à 8 côtelettes de porc",
+      "1 bte de 14 onces sauce Tomate",
+      "1/2 bte ananas en cubes (19 onces)",
+      "1/2 T cassonade",
+      "1 piment Vert fin",
+      "3 c à Table vinaigre"
+    ],
+    "steps": [
+      "Rôtir côtelettes avec sel - poivre",
+      "Mêler sauce Tomate - cassonade",
+      "Ananas - Piment Vert - Vinaigre",
+      "Verser sur côtelettes de Porc",
+      "à 350° F 1 heure"
+    ],
+    "notes": null
+  },
+  {
+    "id": 216,
+    "numberLabel": "Recette nº 216",
+    "title": "Steak Délicieux",
+    "ingredients": [
+      "1/2 lb champignon",
+      "3 c à table beurre",
+      "1 piment vert",
+      "2 oignons",
+      "1 1/3 tasse Ketchup",
+      "3/4 tasse café fort - liquide",
+      "1 tranche pointe de surlonge 2 po. épais"
+    ],
+    "steps": [
+      "Rotir champignon - ensuite oignons en rondelles",
+      "Verser Ketchup et café fort",
+      "Mijoter 5 min",
+      "Saisir le steak dans poêle des 2 côtés",
+      "Placer dans plat allant au four",
+      "Arroser de sauce",
+      "Cuire à 350°F 15 à 20 min pour steak saignant ou plus pour steak médium"
+    ],
+    "notes": null
+  },
+  {
+    "id": 217,
+    "numberLabel": "Recette nº 217",
+    "title": "Mes Coquilles ST Jacques de moi même",
+    "ingredients": [
+      "2 litres de lait",
+      "2 sac pétoncles Sea Quest 350 g. (pas imitation)",
+      "2 sac crevette Caravelle 400 g.",
+      "8 c à table beurre fondu",
+      "8 c à table farine",
+      "20 patates",
+      "une brique de fromage mozzarella (grosse) 750 g.",
+      "Soya",
+      "1 c. à soupe fécule de maïs",
+      "1 c. à soupe huile",
+      "1 gousse d'ail haché",
+      "Oignons verts en Tronçons",
+      "6 1/2 onces de Pois mange tout",
+      "6 1/2 onces de germe de soya"
+    ],
+    "steps": [
+      "ajouter",
+      "ensuite le lait",
+      "Les fruits de mer doivent être égouttés à la perfection pas d'eau dedans",
+      "essuyer les bien"
+    ],
+    "notes": "c'est le secret de réussite - J-"
+  },
+  {
+    "id": 218,
+    "numberLabel": "Recette nº 218",
+    "title": "Porc & légumes au Four d'une amie",
+    "ingredients": [
+      "5 grosses pommes de terre crues - pelées et tranchées",
+      "3 oignons moyens en rondelles",
+      "1 cube OXO au bœuf",
+      "1/2 T eau bouillante",
+      "6 côtelettes de porc",
+      "3 c. à Table de graisse",
+      "1 recette de sauce Vinaigrette"
+    ],
+    "steps": [
+      "Rissoler les côtelettes dans la graisse.",
+      "Mettre dans un plat au four en intercalant des couches de pommes de terre et oignons.",
+      "Arroser de sauce Vinaigrette.",
+      "Mélanger avec le cube OXO au bœuf dissous dans l'eau bouillante.",
+      "Couvrir de papier aluminium.",
+      "Cuire 1 heure à 350° F."
+    ],
+    "notes": null
+  },
+  {
+    "id": 221,
+    "numberLabel": "Recette nº 221",
+    "title": "Pain de viande Suisse (fantastique d'une cliente)",
+    "ingredients": [
+      "2 lbs bœuf haché maigre",
+      "2 œufs battus",
+      "1 Tasse chapelure italienne",
+      "2 1/2 Tasse de lait",
+      "1/2 T piment vert",
+      "1 1/2 Tasse fromage suisse en dés (Marque les Côteaux)",
+      "1/2 c. à thé de sel de céleri ou céleri",
+      "1/2 Tasse oignon fin",
+      "sel - poivre - paprika"
+    ],
+    "steps": [
+      "Cuire 1 heure 1/2 à 350° avec 3 tranches de bacon sur le dessus",
+      "Servir avec une bonne sauce brune"
+    ],
+    "notes": null
+  },
+  {
+    "id": 105,
+    "numberLabel": "Recette nº 105",
+    "title": "Les meilleurs biscuits de votre enfance.",
+    "ingredients": [
+      "1/2 T de beurre",
+      "1/4 T cassonade",
+      "1 jaune d'œuf battu",
+      "1 tasse de farine",
+      "1 c. à thé p à pâte",
+      "un peu de sel",
+      "confiture fraise, framboise ou gelée de pomme",
+      "1 blanc d'œuf",
+      "4 c à table de sucre",
+      "quelques gouttes essence vanille ou amande",
+      "2 c à table amandes broyées (facultatif)"
+    ],
+    "steps": [
+      "Crémer le beurre avec la cassonade et le jaune d'œuf.",
+      "Tamiser farine - ajouter p à pâte et sel.",
+      "Incorporer au premier mélange.",
+      "Rouler des petits morceaux de pâte en boules et placer sur une tôle à pâtisserie légèrement graissée.",
+      "Faire un creux au centre avec le doigt.",
+      "Cuire 10 min à 400 F.",
+      "Enfoncer de nouveau la cavité et remplir de confiture ou gelée.",
+      "Recouvrir de meringue et dorer."
+    ],
+    "notes": "Meringue = - 1 blanc d'œuf - 4 c à table de sucre - quelques gouttes essence vanille ou amande - 2 c à table amandes broyées (facultatif)"
+  },
+  {
+    "id": 106,
+    "numberLabel": "Recette nº 106",
+    "title": "Biscuit au beurre garni de confiture",
+    "ingredients": [
+      "2 T farine",
+      "1 c à thé p à pâte",
+      "1/2 c à thé soda",
+      "1/2 c à thé sel",
+      "3/4 T beurre et margarine mêlé ensemble (au total) pas plus",
+      "1 T cassonade",
+      "2 œufs",
+      "1/4 T lait",
+      "1 c à thé vanille",
+      "1 c à thé zeste de citron (facultatif)",
+      "1/4 T confiture fraises ou framboises"
+    ],
+    "steps": [
+      "Mêler la margarine, beurre, cassonade.",
+      "Ajouter les œufs un à la fois.",
+      "Incorporer le lait et ingrédients secs.",
+      "Laisser tomber pâte par cuillère à table sur tôles.",
+      "Faire un creux au centre de chaque biscuit et remplir de confiture.",
+      "Recouvrir de 1 c à thé de pâte pour cacher la confiture.",
+      "Cuire au four à 375°F 12 à 15 min."
+    ],
+    "notes": null
+  },
+  {
+    "id": 107,
+    "numberLabel": "Recette nº 107",
+    "title": "Biscuit Ermite",
+    "ingredients": [
+      "2 œufs",
+      "1 T sucre",
+      "3/4 T beurre ou margarine",
+      "3/4 Tasse lait sûr (ajouter 1 c à thé vinaigre au lait pour le faire sûr)",
+      "3/4 c à thé soda (petite vache)",
+      "1/2 c à thé cannelle",
+      "1 1/2 T farine",
+      "1 1/2 T de gruau",
+      "1/2 T raisins ou dattes hachés",
+      "1 T noix hachées"
+    ],
+    "steps": [
+      "Dresser par cuillerée sur tôle graissée.",
+      "Cuire 375°F."
+    ],
+    "notes": "Ils doivent gonfler comme des biscuits au beurre jusqu'à doré légèrement."
+  },
+  {
+    "id": 109,
+    "numberLabel": "Recette nº 109",
+    "title": "Biscuit au sucre",
+    "ingredients": [
+      "2 T farine",
+      "1 1/2 c. à thé p. à pâte",
+      "1/2 c. à thé sel",
+      "1/4 c. à thé muscade",
+      "3/4 T beurre ou margarine",
+      "1 T de sucre blanc",
+      "2 œufs",
+      "1 c. à thé vanille"
+    ],
+    "steps": [
+      "Laisser refroidir la pâte au réfrigérateur 2 heures ou 1 nuit",
+      "Abaisser la pâte à 1/8 po d'épais",
+      "Tailler à l'emporte pièce enfariné",
+      "Cuire à 375°F 8 à 10 min.",
+      "Décorer au goût"
+    ],
+    "notes": "Même procédé que biscuit précédent. il n'y a pas de lait."
+  },
+  {
+    "id": 111,
+    "numberLabel": "Recette nº 111",
+    "title": "Biscuit à la Compote de pommes",
+    "ingredients": [
+      "1 3/4 T farine",
+      "1/2 c. à thé sel",
+      "1 c. à thé Vanille",
+      "1/2 c. à thé muscade",
+      "1/2 c. à thé clou de girofle moulu",
+      "1 T sucre",
+      "1/2 T graisse",
+      "1 œuf",
+      "1 T de compote de pommes",
+      "1 c. à thé soda",
+      "1 T raisins secs",
+      "1 T de gruau"
+    ],
+    "steps": [
+      "Déposer la farine par cuillerée dans une tasse à mesurer, l'égaliser au bord de la tasse et verser sur papier ciré.",
+      "Ajouter sel, épices et remuer.",
+      "Défaire en crème graisse, sucre et œuf dans un bol.",
+      "Dans un autre bol, mêler compote et soda.",
+      "Ajouter à la préparation en crème en alternant avec ingrédients secs.",
+      "Ajouter raisins secs et gruau.",
+      "Déposer par cuillerée sur tôles graissées en espaçant de 2 po.",
+      "Cuire à 350°F pendant 20 minutes ou jusqu'à ce que doré."
+    ],
+    "notes": null
+  },
+  {
+    "id": 112,
+    "numberLabel": "Recette nº 112",
+    "title": "Biscuit aux carottes",
+    "ingredients": [
+      "1 T cassonade",
+      "1/2 T sucre",
+      "1/2 T de graisse",
+      "1 c à thé Vanille",
+      "1 œuf",
+      "1 T carottes cuites et pilées",
+      "2 Tasse farine",
+      "1/2 c à thé sel",
+      "1/2 c à thé soda",
+      "1 c à thé p à pâte",
+      "1/4 T raisins secs (facultatif)",
+      "jus de 1 orange et zeste",
+      "1 1/2 T sucre en poudre"
+    ],
+    "steps": [
+      "Mêler le Tout",
+      "par cuillerée sur tôle graissée",
+      "Cuire 350 °F 12 à 15 min",
+      "Mêler très bien et glacer les biscuits lorsqu'encore Tiède."
+    ],
+    "notes": null
+  },
+  {
+    "id": 113,
+    "numberLabel": "Recette nº 113",
+    "title": "Biscuit Frigidaire",
+    "ingredients": [
+      "1 T beurre",
+      "1/2 T cassonade",
+      "1 œuf battu",
+      "1/2 T sucre blanc",
+      "2 c à thé Vanille",
+      "2 1/2 T farine Tout usage",
+      "1/2 c à thé de soda",
+      "1/4 c à thé sel",
+      "1/2 c à thé de p à pâte"
+    ],
+    "steps": [
+      "Bien mêler",
+      "Rouler dans papier ciré et congeler 8 hrs.",
+      "Couper en tranche et cuire au four 350 °F 10 à 12 min.",
+      "Avant de cuire on peut mettre une cerise comme garniture ou dans le mélange si désiré ajouter des noix hachées"
+    ],
+    "notes": null
+  },
+  {
+    "id": 114,
+    "numberLabel": "Recette nº 114",
+    "title": "Biscuit aux noix de Lise Derosiers",
+    "ingredients": [
+      "1 T beurre",
+      "2 T cassonade",
+      "1 pincée sel",
+      "2 œufs bien battus",
+      "1/2 c à thé soda",
+      "2 1/2 Tasse farine",
+      "2 c à Table amandes émincées"
+    ],
+    "steps": [
+      "Mettre en crème et y ajouter",
+      "Poser à la douille gros comme un 25¢ sur tôle à biscuits et garnir de cerise et de noix.",
+      "Four 350°F jusqu'à doré."
+    ],
+    "notes": null
+  },
+  {
+    "id": 115,
+    "numberLabel": "Recette nº 115",
+    "title": "Biscuit aux bananes à Maman",
+    "ingredients": [
+      "3/4 T beurre ou margarine",
+      "1/4 T cassonade",
+      "1 c à thé vanille",
+      "1/2 c à thé soda",
+      "1 c à thé cannelle",
+      "2 1/4 T farine",
+      "1/2 T sucre",
+      "2 œufs",
+      "2 c à thé p à pâte",
+      "1/2 c à thé sel",
+      "1 T de bananes mûres en purée"
+    ],
+    "steps": [
+      "Four 350°F.",
+      "Par cuillerée sur tôle non graissée.",
+      "Cuire 12 à 15 min.",
+      "Donne 36 à 42 biscuits."
+    ],
+    "notes": null
+  },
+  {
+    "id": 116,
+    "numberLabel": "Recette nº 116",
+    "title": "Biscuit à l'Orange",
+    "ingredients": [
+      "4 œufs",
+      "2 T sucre",
+      "1 T jus Orange",
+      "5 T farine",
+      "8 c à thé p à pâte",
+      "1/2 livre de graisse",
+      "Essence Orange"
+    ],
+    "steps": [
+      "Battre œuf - sucre - graisse - ajouter jus orange",
+      "Farine avec p à pâte - essence orange",
+      "350° F 12 à 15 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 117,
+    "numberLabel": "Recette nº 117",
+    "title": "Biscuit Beurre d'Arachide",
+    "ingredients": [
+      "1/2 T sucre",
+      "1/2 T cassonade",
+      "1 T farine",
+      "1 œuf",
+      "3/4 T beurre arachide",
+      "1/2 c à thé Vanille",
+      "1/2 c à thé soda"
+    ],
+    "steps": [
+      "Mélanger graisse - cassonade",
+      "mousser avec l'œuf - Vanille - Beurre arachide",
+      "Mettre ingrédients secs",
+      "Par cuillerée sur tôle",
+      "Ecraser avec une fourchette le mélange",
+      "Four 350 12 à 15 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 80,
+    "numberLabel": "Recette nº 80",
+    "title": "Gâteau au yaourt",
+    "ingredients": [
+      "1 yaourt",
+      "2 œufs",
+      "1/2 verre d'huile",
+      "1 sachet de levure",
+      "1 pincée de sel",
+      "2 verres de farine"
+    ],
+    "steps": [
+      "Mélanger le tout.",
+      "Ajouter 2 verres de farine.",
+      "Mettre dans un moule beurré.",
+      "Cuire à four moyen."
+    ],
+    "notes": null
+  },
+  {
+    "id": 81,
+    "numberLabel": "Recette nº 81",
+    "title": "Gâteau aux pommes",
+    "ingredients": [
+      "3 pommes",
+      "3 œufs",
+      "100 g de sucre",
+      "100 g de farine",
+      "50 g de beurre fondu",
+      "1 sachet de levure"
+    ],
+    "steps": [
+      "Peler et couper les pommes en dés.",
+      "Battre les œufs avec le sucre.",
+      "Ajouter la farine, la levure et le beurre.",
+      "Incorporer les pommes.",
+      "Cuire 40 min à 180°."
+    ],
+    "notes": null
+  },
+  {
+    "id": 110,
+    "numberLabel": "Recette nº 110",
+    "title": "Bouchées aux dattes (Un délice)",
+    "ingredients": [
+      "1 T sucre blanc",
+      "1 T dattes hachées",
+      "1/2 T beurre",
+      "1 œuf",
+      "1 c. à thé vanille",
+      "2 tasses de Rice Krispies",
+      "1/2 T noix hachées"
+    ],
+    "steps": [
+      "Mettre dans un bain-marie",
+      "Bien mêler - jusqu'à épaississement",
+      "Ajouter 1 c. à thé vanille",
+      "Laisser refroidir",
+      "Rouler dans du coconut"
+    ],
+    "notes": null
+  },
+  {
+    "id": 118,
+    "numberLabel": "Recette nº 118",
+    "title": "Pouding Chômeurs à Grand Maman Louise",
+    "ingredients": [
+      "1 1/3 T de farine",
+      "3/4 T sucre",
+      "3 c à thé poudre à pâte",
+      "1/3 c à thé sel",
+      "1/4 T graisse molle",
+      "1 œuf légèrement battu",
+      "3/4 Tasses de lait",
+      "2 T cassonade",
+      "1 Tasse eau",
+      "2 c à thé de beurre"
+    ],
+    "steps": [
+      "Mélanger ensemble le sucre, la graisse et l'œuf à la mixette.",
+      "Ajouter la farine, la poudre à pâte et le sel.",
+      "Ajouter le lait.",
+      "Chauffer un peu le sirop.",
+      "Mettre le sirop dans un moule à pain beurré.",
+      "Déposer la pâte sur le dessus.",
+      "Cuire à 375°F pendant 30 à 35 minutes.",
+      "Servir chaud ou froid."
+    ],
+    "notes": null
+  },
+  {
+    "id": 120,
+    "numberLabel": "Recette nº 120",
+    "title": "Super gâteau maison",
+    "ingredients": [
+      "1 3/4 T farine",
+      "3 c à thé poudre à pâte",
+      "3 œufs",
+      "1 1/2 T sucre",
+      "1/2 T huile",
+      "1 T lait"
+    ],
+    "steps": [
+      "Ingrédients sec ensemble",
+      "ensuite liquide ensemble",
+      "Four 350 F",
+      "40 min",
+      "Faire à la mijoteuse"
+    ],
+    "notes": null
+  },
+  {
+    "id": 121,
+    "numberLabel": "Recette nº 121",
+    "title": "Gâteau à l'érable à Maman",
+    "ingredients": [
+      "1/2 T beurre",
+      "1/2 T sucre",
+      "2 œufs",
+      "2 1/2 T farine",
+      "1/2 c à thé de soda",
+      "2 c à thé poudre à pâte",
+      "1/2 c à thé gingembre",
+      "1 T Sirop Érable",
+      "1/2 T eau chaude"
+    ],
+    "steps": [
+      "Crème de beurre",
+      "ajouter sucre",
+      "les œufs battre parfaitement",
+      "Tamiser farine",
+      "mesurer ajouter le soda",
+      "poudre à pâte et gingembre",
+      "Ajouter les ingrédients secs avec sirop & eau",
+      "Verser dans un moule tubulaire",
+      "Cuire au four 350° F 50 à 60 min",
+      "Garnir de glace à la cassonade lorsque gâteau froid"
+    ],
+    "notes": null
+  },
+  {
+    "id": 123,
+    "numberLabel": "Recette nº 123",
+    "title": "Gâteau Chiffon au Chocolat",
+    "ingredients": [
+      "1/2 Tasse de cacao",
+      "3/4 T eau bouillante",
+      "1 T farine",
+      "3 c à thé poudre à pâte",
+      "1 c à thé de sel",
+      "2/3 Tasse sucre"
+    ],
+    "steps": [
+      "Remuer jusqu'à consistance lisse et laisser refroidir 1/2 Tasse de cacao et 3/4 T eau bouillante",
+      "Tamiser ensemble 1 T farine - 3 c à thé poudre à pâte - 1 c à thé de sel - 2/3 Tasse sucre -"
+    ],
+    "notes": "mon meilleur gâteau chocolat"
+  },
+  {
+    "id": 124,
+    "numberLabel": "Recette nº 124",
+    "title": "Gâteau Maison de ma chère Lise",
+    "ingredients": [
+      "4 œufs",
+      "2 T sucre",
+      "2 T farine",
+      "2 c à thé poudre à pâte",
+      "1/4 c à thé de sel",
+      "1 T lait chaud",
+      "2 c à soupe de beurre"
+    ],
+    "steps": [
+      "Fondre le beurre dans le lait",
+      "Cuis. à 350°F 35 à 40 min ou plus selon votre moule"
+    ],
+    "notes": "(Très gros gâteau)"
+  },
+  {
+    "id": 125,
+    "numberLabel": "Recette nº 125",
+    "title": "Gâteau à la jeannette",
+    "ingredients": [
+      "1 1/2 T farine",
+      "1/2 T beurre",
+      "1 T sucre",
+      "2 œufs",
+      "2 1/2 c à thé poudre à pâte",
+      "pincée de sel",
+      "essence de vanille",
+      "3/4 T lait"
+    ],
+    "steps": [
+      "Four 375°F jusqu'à doré"
+    ],
+    "notes": "Meilleur Gâteau Jeannette, Mon premier gâteau de jeunesse, il est délicieux Recette simple !"
+  },
+  {
+    "id": 126,
+    "numberLabel": "Recette nº 126",
+    "title": "Gâteau Minute de ma chère Andrée (Gâteau Panais)",
+    "ingredients": [
+      "1 3/4 Tasse de farine",
+      "3 c à thé de poudre à pâte",
+      "1/2 c à thé sel",
+      "2/3 Tasse sucre",
+      "1/3 T de graisse",
+      "1 œuf",
+      "1/2 c à thé vanille",
+      "1 Tasse de Lait",
+      "2 c à Table de beurre fondu",
+      "3/4 T cassonade",
+      "1 c à thé Cannelle"
+    ],
+    "steps": [
+      "Mélanger la graisse, l'œuf et le sucre au mixeur.",
+      "Incorporer les ingrédients secs.",
+      "Ajouter le lait et la vanille.",
+      "Mêler cassonade et cannelle.",
+      "Ajouter le beurre fondu et déposer sur le gâteau.",
+      "Cuire à 375° f pendant 30 à 35 min."
+    ],
+    "notes": "(spécial pour collation)"
+  },
+  {
+    "id": 127,
+    "numberLabel": "Recette nº 127",
+    "title": "Gâteau épicée de Grand Maman Lauque",
+    "ingredients": [
+      "1 1/2 T farine",
+      "1 T sucre",
+      "1/2 Tasse de graisse fondue",
+      "1/2 T crème",
+      "1 T de lait",
+      "1 T raisins",
+      "1/2 T noix hachées",
+      "3 œufs",
+      "1/4 c à thé cannelle",
+      "1/4 c à thé clou de girofle moulu",
+      "1/4 c à thé muscade",
+      "1 c à thé vanille",
+      "1 c à thé poudre à pâte comble (débordant)",
+      "1/2 c à thé sel"
+    ],
+    "steps": [
+      "350°F 40 à 45 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 128,
+    "numberLabel": "Recette nº 128",
+    "title": "Gâteau Blanc vite fait de Grand-Maman Louise",
+    "ingredients": [
+      "1 1/2 T farine",
+      "1 T de sucre",
+      "2 œufs",
+      "2 c à thé poudre à pâte",
+      "1/2 c à thé sel",
+      "1/2 T lait bouillant",
+      "1 c à soupe beurre",
+      "1/2 c à thé vanille"
+    ],
+    "steps": [
+      "Cuire 350°F - 30 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 129,
+    "numberLabel": "Recette nº 129",
+    "title": "Gâteau Chocolat Maison",
+    "ingredients": [
+      "1 1/2 T farine",
+      "1 T sucre",
+      "1/2 c à thé soda (Arm & Hammer)",
+      "1 c à thé poudre à pâte Magic",
+      "1 œuf",
+      "3/4 T lait",
+      "1/3 T de cacao",
+      "1/3 T graisse"
+    ],
+    "steps": [
+      "350°F 35 min ou jusqu'à cuit"
+    ],
+    "notes": null
+  },
+  {
+    "id": 130,
+    "numberLabel": "Recette nº 130",
+    "title": "Croquant aux Chepits Tante Francine",
+    "ingredients": [
+      "1 paquet bonbons Chepit Chocolat",
+      "1 T Rice Krispies",
+      "1 paquet bonbons chepit Butterscoth",
+      "1 T arachide"
+    ],
+    "steps": [
+      "Fondre au bain-marie les chepits.",
+      "Ajouter à la préparation les céréales et arachides.",
+      "Bien brasser.",
+      "Ajouter avec 2 cuillères sur papier ciré.",
+      "Réfrigérer (24 morceaux)."
+    ],
+    "notes": "N.B. Plus de Rice Krispies moins d'Arachide c'est meilleur."
+  },
+  {
+    "id": 131,
+    "numberLabel": "Recette nº 131",
+    "title": "Miam Miam Nanclette",
+    "ingredients": [
+      "3/4 T beurre ou margarine",
+      "1 1/2 T farine",
+      "2 c à table sucre brun",
+      "4 œufs",
+      "1 T sucre brun",
+      "4 c à table farine",
+      "1 paquet de coco râpé",
+      "10 cerises rouges",
+      "10 cerises vertes",
+      "2 c à thé vanille"
+    ],
+    "steps": [
+      "Défaire beurre en crème.",
+      "Ajouter farine et cassonade.",
+      "Mettre dans un moule rectangulaire.",
+      "Cuire à 350, 15 min ou jusqu'à doré.",
+      "Battre œufs.",
+      "Ajouter le reste",
+      "Étendre sur pâte et cuire jusqu'à doré."
+    ],
+    "notes": null
+  },
+  {
+    "id": 132,
+    "numberLabel": "Recette nº 132",
+    "title": "Carré aux dattes & Ananas",
+    "ingredients": [
+      "1 T beurre ou margarine",
+      "1 T de sucre brun",
+      "1 1/2 T farine",
+      "1 cà thé poudre à pâte",
+      "1/4 cà thé sel",
+      "1 1/2 T farine d'avoine (gruau)",
+      "1 1/4 T de dattes sèches dénoyautées",
+      "1 T ananas broyé avec le jus"
+    ],
+    "steps": [
+      "Mêler Dattes & ananas - Cuire 4 min à Max non couvert",
+      "Battre jusqu'à consistance crémeux",
+      "Préparer la pâte",
+      "Placer la moitié de la préparation dans un plat 8x8",
+      "Ajouter dattes & remettre l'autre moitié",
+      "Presser le tout & placer dans le micro-onde 7 à 9 min à Max",
+      "Si Micro-Onde plus de 800 de puissance 7 min Suffit"
+    ],
+    "notes": null
+  },
+  {
+    "id": 133,
+    "numberLabel": "Recette nº 133",
+    "title": "Carré de Rêves",
+    "ingredients": [
+      "1/2 T beurre",
+      "3 Jaunes d'œufs",
+      "1 c à thé poudre à pâte",
+      "1 T sucre",
+      "1 T farine",
+      "1 Tasse dattes hachées",
+      "1 T noix haché",
+      "3 blancs d'œufs",
+      "1 c à thé Vanille"
+    ],
+    "steps": [
+      "Étendre dans une lèchefrite",
+      "Cuire à 350°F 10 à 15 min"
+    ],
+    "notes": "bien; 2e préparation"
+  },
+  {
+    "id": 135,
+    "numberLabel": "Recette nº 135",
+    "title": "La bûche de Noël ou Gâteau Roulé",
+    "ingredients": [
+      "4 œufs",
+      "1/2 T de sucre",
+      "1 c à thé essence Vanille",
+      "3/4 Tasse de farine",
+      "1 c à thé poudre à pâte",
+      "Environ 1 Tasse de garniture de tarte aux cerises aux framboises ou aux fraises",
+      "1/2 t crème 35% fouettée fermement",
+      "1 œuf",
+      "6 c à thé fécule maïs",
+      "1 1/4 T de lait",
+      "1/4 T de sucre",
+      "1 c à thé Vanille",
+      "1/4 T de cacao en poudre",
+      "125 g de beurre mou"
+    ],
+    "steps": [
+      "Dans un bol du batteur, placer les œufs et le sucre.",
+      "Fouetter fermement jusqu'à ce que le mélange soit presque blanc (cela peut prendre quelques minutes).",
+      "Ajouter la vanille.",
+      "Ajouter progressivement la farine et la poudre à pâte. Ne pas trop fouetter.",
+      "Graisser ou couvrir une tôle de papier parchemin ou papier ciré.",
+      "Verser la pâte sur la plaque et égaliser avec une spatule.",
+      "Cuire au four 10 minutes à 375°F.",
+      "Ne pas trop cuire pour que le gâteau reste souple (croûte bien fine).",
+      "Sortir du four et retirer le papier parchemin.",
+      "Plier et déposer la pâte sur un linge à vaisselle saupoudré de sucre glace.",
+      "Rouler légèrement serré et laisser reposer 15 minutes.",
+      "Fouetter la crème fouettée à l'orange sucre et Vanille jusqu'à texture onctueuse.",
+      "Réserver.",
+      "Fouetter le beurre jusqu'à ce qu'il soit léger et blanc.",
+      "Incorporer délicatement la crème fouettée au beurre avec une spatule.",
+      "Étaler la garniture à tarte puis la crème fouettée sur le gâteau, en réservant un peu pour les extrémités.",
+      "Dérouler le gâteau.",
+      "Rouler à nouveau.",
+      "Préparer un glaçage au chocolat avec du sucre glace, un peu de lait et du cacao.",
+      "Glacer le roulé.",
+      "Servir avec de la crème fouettée."
+    ],
+    "notes": "Glaçage : Un beau glaçage au chocolat maison avec sucre glace, un peu de lait et cacao. On peut faire aussi le gâteau avec de la confiture et on saupoudre de sucre glace avec une passoire ça fait un roulé aux fraises ou framboise vite fait pour la visite inattendue ou un dessert de tous les jours. C'est délicieux."
+  },
+  {
+    "id": 136,
+    "numberLabel": "Recette nº 136",
+    "title": "Pouding Seig drolle",
+    "ingredients": [
+      "2 tasses farine",
+      "4 c à thé poudre à pâte",
+      "1 c à thé sel",
+      "4 c à table graisse",
+      "3/4 tasse de lait",
+      "un peu de beurre mou",
+      "un petit peu de cassonade",
+      "2 tasses de sirop d'érable",
+      "1 tasse d'eau",
+      "1 c à thé de fécule de maïs délayée dans un peu d'eau"
+    ],
+    "steps": [
+      "Mélanger les ingrédients de la pâte. La pâte sera collante; ajouter un peu de farine avec les doigts jusqu'à ce qu'elle soit assez ferme pour être roulée.",
+      "Rouler la pâte en un rectangle.",
+      "Étaler un peu de beurre mou et saupoudrer un peu de cassonade sur le rectangle de pâte.",
+      "Rouler la pâte en un long rouleau et couper en tranches de 3/4 à 1 pouce d'épaisseur.",
+      "Préparer le sirop: dans une casserole, mélanger le sirop d'érable et l'eau. Ajouter la fécule de maïs délayée et chauffer jusqu'à épaississement.",
+      "Beurrer un moule rectangulaire.",
+      "Verser le sirop chaud dans le moule beurré.",
+      "Disposer les tranches de pâte coupées les unes à côté des autres dans le moule sur le sirop.",
+      "Cuire au four à 350°F jusqu'à ce que le dessus soit doré."
+    ],
+    "notes": "(fantastique)"
+  },
+  {
+    "id": 137,
+    "numberLabel": "Recette nº 137",
+    "title": "Beigne Maison de René et Mon frère",
+    "ingredients": [
+      "1 T sucre",
+      "2 œufs",
+      "2 c à soupe beurre",
+      "3 T farine",
+      "3 c à thé poudre à pâte",
+      "1/2 c à thé sel",
+      "1 tasse lait",
+      "un peu de farine",
+      "huile"
+    ],
+    "steps": [
+      "Battre à le mixette jusqu'à très moussent",
+      "ajouter 3 T farine 3 c à thé poudre à pâte 1/2 c à thé sel et 1 tasse lait",
+      "Rouler la pâte avec rouleau à pâte ajouter un peu de farine pour en faire une boule non collante",
+      "Couper de l'empâte pièce à beigne ou avec 1 verre enfantin et un Trou dans le milieu fait avec un dé à coudre",
+      "Mettre dans de l'huile très chaude mais non fumante",
+      "Lorsque le beigne remonte à la surface laisser dorer le dessus et retourner"
+    ],
+    "notes": null
+  },
+  {
+    "id": 138,
+    "numberLabel": "Recette nº 138",
+    "title": "Gâteau Meringué de ma copine Lorraine (Suzer)",
+    "ingredients": [
+      "3 c à soupe de beurre mou",
+      "3/4 tasse de sucre blanc",
+      "2 jaunes d'œufs",
+      "1 tasse farine",
+      "1 c à soupe poudre à pâte",
+      "1/2 tasse de lait",
+      "blanc d'œuf",
+      "1 pincée de sel",
+      "1 T cassonade",
+      "1 c à thé vanille"
+    ],
+    "steps": [
+      "Mélanger le beurre mou, le sucre blanc et les jaunes d'œufs à la molette jusqu'à ce que le mélange soit très mousseux.",
+      "Ajouter la farine, puis la poudre à pâte et le lait.",
+      "Verser la pâte dans un moule beurré et fariné.",
+      "Battre les blancs d'œufs en neige avec une pincée de sel.",
+      "Incorporer la cassonade et la vanille à la meringue.",
+      "Étaler la meringue sur le dessus de la pâte.",
+      "Cuire au four à 325°F pendant 40 à 45 minutes."
+    ],
+    "notes": null
+  },
+  {
+    "id": 139,
+    "numberLabel": "Recette nº 139",
+    "title": "Gâteau aux carottes et ananas (mon meilleur gâteau carottes-ananas)",
+    "ingredients": [
+      "2 tasses farine",
+      "2 tasses sucre",
+      "2 c à thé poudre à pâte",
+      "3/4 c à thé soda à pâte (Arm & Hammer)",
+      "3/4 c à thé sel",
+      "2 tasses carottes râpées",
+      "1 c à thé cannelle",
+      "1/4 tasse noix hachées",
+      "4 œufs battus",
+      "3/4 tasse d'huile",
+      "1/2 tasse d'ananas broyés"
+    ],
+    "steps": [
+      "Mêler dans un bol - 2 tasses farine - 2 tasses sucre - 2 c à thé poudre à pâte - 3/4 c à thé soda à pâte (Arm & Hammer) - 3/4 c à thé sel - 2 tasses carottes râpées - 1 c à thé cannelle - 1/4 tasse noix hachées",
+      "Mettre dans un bol - 4 œufs battus - 3/4 tasse d'huile - 1/2 tasse d'ananas broyés",
+      "Mêler le premier mélange au 2e mélange et cuire au four à 350° F 1 heure"
+    ],
+    "notes": null
+  },
+  {
+    "id": 140,
+    "numberLabel": "Recette nº 140",
+    "title": "Gâteau aux carottes & betteraves",
+    "ingredients": [
+      "1/2 T huile",
+      "2 jaunes d'œufs battus",
+      "1/2 T de farine",
+      "3/4 tasse de betteraves râpées",
+      "3/4 tasse de carottes râpées",
+      "1 c à thé vanille",
+      "2 c à table eau chaude",
+      "2 c à thé poudre à pâte",
+      "1/2 c à thé cannelle",
+      "2 blancs d'œufs en neige",
+      "Noix raisins datte au goût"
+    ],
+    "steps": [
+      "Meler tous les ingredients ensemble sauf blanc d'œuf en neige à incorporer à la spatule au 1er mélange.",
+      "Temps de cuisson 45 min à 350° F."
+    ],
+    "notes": "Donne un gâteau couleur Rouge - Vin."
+  },
+  {
+    "id": 141,
+    "numberLabel": "Recette nº 141",
+    "title": "Gâteau à l'ananas",
+    "ingredients": [
+      "2 c à thé vanille",
+      "1 bte 19 onces d'ananas broyés avec jus",
+      "2 c à thé poudre à pâte (Arm & Hammer)",
+      "1 1/2 c à thé sel",
+      "1/4 c à thé poudre à pâte",
+      "1 T de suif haché",
+      "œuf",
+      "huile",
+      "sucre",
+      "raisins",
+      "noix"
+    ],
+    "steps": [
+      "Dans un bol à la mixette mêle œuf - huile - sucre - vanille",
+      "Ajouter graduellement raisins - noix et ingrédients secs",
+      "Verser dans 2 moules de 9 x 5",
+      "Cuire à 350°F pendant 1 heure, donne 2 gâteaux"
+    ],
+    "notes": "Se congèle très bien"
+  },
+  {
+    "id": 142,
+    "numberLabel": "Recette nº 142",
+    "title": "Gâteau aux carottes et canneberges",
+    "ingredients": [
+      "1 1/2 T farine",
+      "1 T cassonade",
+      "1 c à thé poudre à pâte",
+      "1 c à thé de soda (Arm & Hammer)",
+      "1/2 c à thé sel",
+      "1/2 c à thé cannelle",
+      "1/2 c à thé muscade",
+      "1 T carottes rapées",
+      "1 T canneberges hachées",
+      "2 œufs",
+      "3/4 T huile végétale",
+      "Sucre à glacer"
+    ],
+    "steps": [
+      "Mêler farine - cassonade - poudre à pâte - soda - sel et épices",
+      "Ajouter carotte - canneberges hachées",
+      "Bien mêler",
+      "Battre œufs et huile",
+      "Incorporer aux ingrédients secs",
+      "Remuer jusqu'à homogène",
+      "Verser pâte dans moule carré de 10 po bien graissé et enfariné",
+      "Cuire à 350°F 40 à 45 min ou jusqu'à ce qu'un cure-dent enfoncé en ressorte propre au milieu du gâteau",
+      "Refroidir",
+      "Saupoudrer de sucre à glacer"
+    ],
+    "notes": "P.S Se congèle Très bien"
+  },
+  {
+    "id": 143,
+    "numberLabel": "Recette nº 143",
+    "title": "Carré aux fraises",
+    "ingredients": [
+      "biscuit Graham",
+      "fraises gelées avec sucre",
+      "fraises avec sucre",
+      "crème fouettée",
+      "fraises"
+    ],
+    "steps": [
+      "1 rang de biscuit Graham",
+      "1 rang de fraises gelées avec sucre",
+      "1 rang de biscuit Graham",
+      "1 rang de fraises avec sucre",
+      "Finir par 1 rang de crème fouettée, décorer avec des fraises",
+      "Réfrigérer 3 heures avant servir"
+    ],
+    "notes": null
+  },
+  {
+    "id": 144,
+    "numberLabel": "Recette nº 144",
+    "title": "Gâteau à la salade de fruits",
+    "ingredients": [
+      "1 bte salade de fruits (19 onces) bien égouttés",
+      "1 T sucre blanc",
+      "1 T de farine",
+      "1 œuf",
+      "1 c à thé soda",
+      "1 pincée sel",
+      "Vanille au goût",
+      "1/2 T de sucre blanc",
+      "1/2 T de lait",
+      "1/2 T margarine"
+    ],
+    "steps": [
+      "Mêler le tout",
+      "Cuire au four 30 min à 350°F",
+      "Bouillir à feu doux 10 min",
+      "Retirer du feu",
+      "Verser sur gâteau chaud"
+    ],
+    "notes": "Voir Gâteau Marsem à la Salade de fruits de Madelaine"
+  },
+  {
+    "id": 145,
+    "numberLabel": "Recette nº 145",
+    "title": "Carrés de Rêves",
+    "ingredients": [
+      "1/2 tasse beurre",
+      "3 jaunes d'œufs",
+      "1 c à thé poudre à pâte",
+      "1 T sucre",
+      "1 T farine",
+      "1 T dattes hachées",
+      "1 T de noix hachées fin",
+      "3 blancs d'œufs montés en neige",
+      "1 c. à thé vanille"
+    ],
+    "steps": [
+      "Étendre dans moule carré et cuire 10 à 15 min à 350°F",
+      "Étendre la deuxième préparation.",
+      "Étendre la meringue.",
+      "Cuire au four 30 min.",
+      "Couper lorsque tiède.",
+      "Refroidir."
+    ],
+    "notes": "(délicieux dessert) genre biscuit"
+  },
+  {
+    "id": 146,
+    "numberLabel": "Recette nº 146",
+    "title": "Gâteau au Chocolat Mae West",
+    "ingredients": [
+      "2 T farine",
+      "1/2 T de cacao Fry en poudre",
+      "1/2 cà thé soda",
+      "1 1/2 cà thé de poudre à pâte",
+      "1 T lait",
+      "1 cà thé Vanille",
+      "1 œuf",
+      "1/2 T graisse",
+      "3/4 T de graisse Crisco",
+      "1/2 pot de guimauve de 8 1/2 onces",
+      "1 Tte sucre en poudre"
+    ],
+    "steps": [
+      "Brasser le tout ensemble.",
+      "Déposer par cuillerée très petites sur une Tole graissée.",
+      "Cuire à 375° F à 10 min."
+    ],
+    "notes": null
+  },
+  {
+    "id": 147,
+    "numberLabel": "Recette nº 147",
+    "title": "Croustade aux pommes de ma sœur Lise",
+    "ingredients": [
+      "8 à 10 pommes",
+      "1/2 T sirop",
+      "2/3 Tasse farine",
+      "2/3 T cassonade",
+      "2/3 T de gruau",
+      "1/2 T beurre mou"
+    ],
+    "steps": [
+      "Mettre morceaux de pommes dans plat Pyrex rectangulaire",
+      "Ajouter sirop érable",
+      "Ensuite mêler ensemble farine - cassonade - gruau et beurre",
+      "ajouter sur les pommes",
+      "cuire à 350°F 35 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 149,
+    "numberLabel": "Recette nº 149",
+    "title": "Micro-Onde (a ne pas changer)",
+    "ingredients": [
+      "5 Tasses de pommes",
+      "1/2 T eau ou jus de pomme (meilleur)",
+      "1 c à table de jus citron (réellement)",
+      "1/3 T de sucre"
+    ],
+    "steps": [
+      "Plat de 2 litres couvert, cuire 8 min à High.",
+      "Ajouter le sucre au goût.",
+      "Si on veut une compote sans morceaux de pomme, passer au robot ou blender.",
+      "Refroidir.",
+      "Congeler dans des sacs à congeler et garder tout l'année."
+    ],
+    "notes": null
+  },
+  {
+    "id": 150,
+    "numberLabel": "Recette nº 150",
+    "title": "Pouding aux fraises (délicieux)",
+    "ingredients": [
+      "3 1/2 tasses de fraises",
+      "3/4 Tasse Sucre",
+      "1/2 T margarine ou beurre",
+      "2 œufs",
+      "1 1/2 T farine",
+      "1 c à table de poudre à pâte",
+      "un peu de sel",
+      "3/4 Tasse de Lait",
+      "Vanille"
+    ],
+    "steps": [
+      "au four 350°F 50 min",
+      "Battre margarine - Sucre - œufs jusqu'à très mousseux",
+      "Ajouter farine - poudre à pâte ensemble - un peu de sel - ajouter au mélange mousseux",
+      "ajouter le lait - vanille",
+      "Mêler fraises et sucre ensemble - Ajouter pâte par dessus et cuire"
+    ],
+    "notes": null
+  },
+  {
+    "id": 151,
+    "numberLabel": "Recette nº 151",
+    "title": "Dessert aux fraises vite fait",
+    "ingredients": [
+      "biscuit Graham",
+      "fraises",
+      "Sucre",
+      "gelée de fraise",
+      "crème fouettée"
+    ],
+    "steps": [
+      "1 rangée biscuit Graham",
+      "1 rangée de fraise pilée avec Sucre",
+      "1 rangée biscuit graham",
+      "1 rangée de fraise gelée",
+      "finir par 1 rang de crème fouettée et de cœur de gelée fraise",
+      "Réfrigérer 3 heures avant de servir"
+    ],
+    "notes": null
+  },
+  {
+    "id": 152,
+    "numberLabel": "Recette nº 152",
+    "title": "Gâteau Boston",
+    "ingredients": [
+      "1 Tasse farine",
+      "1/4 c à thé sel",
+      "2 œufs - séparés jaunes & blanc",
+      "1 c à table d'eau chaude",
+      "1/2 c à thé poudre à pâte",
+      "1/2 c à thé jus citron",
+      "1 t sucre"
+    ],
+    "steps": [
+      "Tamiser farine, poudre à pâte, sel.",
+      "Ajouter le jus citron aux jaunes d'œufs et battre.",
+      "Incorporer le sucre peu à peu aux jaunes d'œufs.",
+      "Ajouter de l'eau chaude.",
+      "Incorporer les ingrédients secs peu à peu.",
+      "Monter les blancs d'œufs en neige ferme.",
+      "Incorporer les blancs en neige au mélange.",
+      "Verser dans 2 moules ronds non graissés et cuire au four à 350°F 30 min ou jusqu'à ce que la dent en sorte propre.",
+      "Retirer du four.",
+      "Renverser sur une grille.",
+      "Refroidir.",
+      "Assembler les 2 gâteaux avec de la crème fouettée aromatisée avec de la vanille.",
+      "Garnir d'une glace au chocolat."
+    ],
+    "notes": null
+  },
+  {
+    "id": 153,
+    "numberLabel": "Recette nº 153",
+    "title": "Glace au Chocolat",
+    "ingredients": [
+      "2 carrés chocolat non sucré",
+      "2 T de sucre en poudre",
+      "1/2 c à thé vanille",
+      "2 c à table beurre fondu",
+      "1 œuf non battu"
+    ],
+    "steps": [
+      "Faire fondre le beurre et le chocolat au bain-marie. Retirer du feu.",
+      "Ajouter 1 tasse de sucre en poudre et l'œuf.",
+      "Bien brasser.",
+      "Ajouter l'autre tasse de sucre en poudre et la vanille, puis battre jusqu'à lisse.",
+      "Garnir le gâteau. Réfrigérer."
+    ],
+    "notes": null
+  },
+  {
+    "id": 154,
+    "numberLabel": "Recette nº 154",
+    "title": "Le Summum des bûches de fête recette extraordinaire",
+    "ingredients": [
+      "4 œufs",
+      "1/4 cà thé sel",
+      "1 1/4 cà thé poudre à pâte",
+      "1 T sucre blanc fin",
+      "1 T farine Brodie XX (empâtant)",
+      "1/2 cà thé vanille",
+      "4 cà table d'eau chaude",
+      "1 1/2 cà thé fécule de maïs"
+    ],
+    "steps": [
+      "Mesurer la farine tamisée, ajouter la pâte, la fécule et le sel.",
+      "Mettre les blancs d'œufs en neige et y ajouter 1/2 T de sucre.",
+      "Battre les jaunes d'œufs dans un autre bol avec l'autre 1/2 T de sucre et l'eau chaude.",
+      "Ajouter la vanille.",
+      "Verser les jaunes sur les blancs en les incorporant délicatement avec une spatule en pliant.",
+      "Saupoudrer la farine sur le mélange en pliant encore.",
+      "Verser dans la plaque à pâtisserie (tôle à biscuit) chemisée de papier ciré ou papier parchemin.",
+      "Cuire 15 à 20 min à 350° F.",
+      "Étendre un linge à vaisselle humide sur le gâteau et le démouler en le roulant.",
+      "Le dérouler et le laisser refroidir avant d'y ajouter la garniture."
+    ],
+    "notes": null
+  },
+  {
+    "id": 155,
+    "numberLabel": "Recette nº 155",
+    "title": "Garniture (le glaçage)",
+    "ingredients": [
+      "2/3 tasse de graisse Crisco - 2/3 T de beurre ou margarine",
+      "2 Tasses 1/3 de sucre en poudre",
+      "2 blancs d'œufs battus en neige",
+      "2 cà thé vanille"
+    ],
+    "steps": [
+      "Monter les blancs en neige et y ajouter les autres ingrédients. Brasser pendant 20 minutes à la batteuse.",
+      "Étendre sur le gâteau une partie et le rouler.",
+      "Avec le reste de garniture, ajouter du cacao et 1 cà thé de café avec une cuillerée d'eau pour en faire un glaçage moka. Glacer le gâteau."
+    ],
+    "notes": "L'idée de faire ce glaçage avec un gros KitchenAid au lieu d'une petite batteuse."
+  },
+  {
+    "id": 156,
+    "numberLabel": "Recette nº 156",
+    "title": "Gâteau Suédois extraordinaire",
+    "ingredients": [
+      "1/4 t de graisse",
+      "1/4 t beurre",
+      "3/4 t de sucre",
+      "3 jaunes d'œufs",
+      "1 t farine",
+      "1 c à thé poudre à pâte",
+      "6 c à soupe lait",
+      "1 c à thé vanille",
+      "sel"
+    ],
+    "steps": [
+      "Défaire en crème beurre - sucre - jaunes d'œufs.",
+      "Tamiser farine - poudre à pâte - sel.",
+      "Alterner avec le lait et commencer et finir par farine.",
+      "Verser dans 2 moules à gâteau et couvrir chaque partie avec mélange suivant : 4 blancs d'œufs battus avec 1 t cassonade.",
+      "Saupoudrer des noix, diviser dans les 2 moules.",
+      "Cuire à 350°F jusqu'à doré. Vérifier avec cure-dent."
+    ],
+    "notes": null
+  },
+  {
+    "id": 157,
+    "numberLabel": "Recette nº 157",
+    "title": "Crème pâtissière",
+    "ingredients": [
+      "1 jaune d'œuf",
+      "1 t lait",
+      "1 c à soupe fécule de maïs",
+      "1/4 tasse de sucre",
+      "vanille"
+    ],
+    "steps": [
+      "Cuire bain-marie jusqu'à épaississement."
+    ],
+    "notes": null
+  },
+  {
+    "id": 158,
+    "numberLabel": "Recette nº 158",
+    "title": "Set in a pan",
+    "ingredients": [
+      "1 tasse de noix de pécan hachées",
+      "1 tasse farine",
+      "3 c à soupe de sucre blanc",
+      "1/2 tasse beurre",
+      "8 onces fromage Philadelphia",
+      "1 tasse sucre en poudre",
+      "4 tasses de crème à fouetter",
+      "2 tasses de lait",
+      "1 paquet (6 onces) de pudding instantané chocolat",
+      "1 paquet (6 onces) de pudding instantané vanille"
+    ],
+    "steps": [
+      "Mêler les 4 premiers ingrédients en miettes et faire cuire dans un plat en pyrex 9x13 pendant 20 minutes. Laisser refroidir.",
+      "Mêler le fromage Philadelphia avec le sucre en poudre et la moitié de la crème fouettée (cela donne 2 tasses)."
+    ],
+    "notes": "Recette americaine ramenée du Texas par une amie après l'avoir fait vous comprendrez que c'est comparable au ...."
+  },
+  {
+    "id": 159,
+    "numberLabel": "Recette nº 159",
+    "title": "Gâteau Miracle Whip",
+    "ingredients": [
+      "1 1/2 T de miracle whip",
+      "2 1/4 tasses de cassonade",
+      "1 1/2 c. à thé de vanille",
+      "6 carrés de chocolat Baker",
+      "2 1/4 tasses de farine",
+      "2 c. à thé de bicarbonate de sodium",
+      "1/2 c. à thé de sel",
+      "1 tasse d'eau bouillante"
+    ],
+    "steps": [
+      "Préparer 2 moules ronds de 9 po avec papier ciré.",
+      "Cuire au four pendant 30 à 35 minutes à 350°F."
+    ],
+    "notes": null
+  },
+  {
+    "id": 191,
+    "numberLabel": "Recette nº 191",
+    "title": "Carré au Butterscotch",
+    "ingredients": [
+      "1/4 Tasse de beurre d'arachide",
+      "2 sacs de chipits aux butterscotch",
+      "3 tasses de mini-guimauves",
+      "farine",
+      "le beurre d'arachide",
+      "les 2 sacs de butterscotch"
+    ],
+    "steps": [
+      "fondre ceux - bain marie - Ajouter",
+      "Faire fondre au bain - marie casserole sur eau chaude - la farine - le beurre d'arachide et les 2 sacs de butterscotch",
+      "Lorsque fondu - Retirer du feu - ajouter les mini-guimauves",
+      "Verser dans moule carré beurré de pyrex",
+      "Réfrigérer couper en morceaux"
+    ],
+    "notes": "P.S. ce sont les carrés avec mini-guimauve et beurre d'arachide"
+  },
+  {
+    "id": 192,
+    "numberLabel": "Recette nº 192",
+    "title": "Macarons blancs",
+    "ingredients": [
+      "2 blancs d'œuf",
+      "2 1/2 T de noix de coco sucrée",
+      "1 c. à thé de vanille",
+      "1/2 T de crème"
+    ],
+    "steps": [
+      "Blancs en neige - Façonner en boule",
+      "Tôle beurrée - 375°F",
+      "15 minutes"
+    ],
+    "notes": null
+  },
+  {
+    "id": 193,
+    "numberLabel": "Recette nº 193",
+    "title": "Carré au Caramel",
+    "ingredients": [
+      "1/2 T de farine",
+      "1/2 c. à thé de poudre à pâte",
+      "1 pincée de sel",
+      "2 c. à table de beurre",
+      "1/2 T de cassonade",
+      "1 œuf",
+      "2 c. à table de lait",
+      "1/4 T de noix hachées",
+      "1/2 c. à thé de vanille",
+      "1/2 lb de guimauves"
+    ],
+    "steps": [
+      "Tamiser farine - poudre à pâte - sel",
+      "Crémer le beurre - ajouter la cassonade - l'œuf - la farine - alterner avec le lait - les noix et la vanille à la muffins",
+      "Moule 8x8 carré beurré cuire à 325°F 20 min",
+      "Au sortir du four - Couvrir de guimauves garnir de sucre préparé"
+    ],
+    "notes": "C'est un gâteau avec une rangée de guimauves fondues et du sucre à crème sur le dessus qu'on coupe en carrés."
+  },
+  {
+    "id": 194,
+    "numberLabel": "Recette nº 194",
+    "title": "Sucre préparée",
+    "ingredients": [
+      "1/3 Tasse de beurre",
+      "1 T cassonade",
+      "1/4 T de Lait",
+      "1 1/2 T de sucre en poudre à la vanille",
+      "guimauve"
+    ],
+    "steps": [
+      "Fondre 1/3 Tasse de beurre.",
+      "Ajouter 1 T cassonade.",
+      "Brasser jusqu'à ébullition.",
+      "Caraméliser 2 minutes.",
+      "Ajouter 1/4 T de Lait.",
+      "Ramener à ébullition.",
+      "Retirer du feu.",
+      "Refroidir un peu.",
+      "Ajouter 1 1/2 T de sucre en poudre à la vanille.",
+      "Étendre rapidement sur les guimauve.",
+      "Refroidir.",
+      "Couper en carrés."
+    ],
+    "notes": null
+  },
+  {
+    "id": 195,
+    "numberLabel": "Recette nº 195",
+    "title": "Carré aux pépites de Caramel",
+    "ingredients": [
+      "1 t de biscuit Ritz écrasé",
+      "1 t de Lait condensé sucré Eagle Brand",
+      "1 sac de pépites de caramel SKor"
+    ],
+    "steps": [
+      "On mélange ensemble le biscuit, la boîte de Eagle Brand et le 3/4 du sac de pépites de caramel.",
+      "On garde le 1/4 qui reste pour le dessus.",
+      "On cuit dans un moule Pyrex chemisé à 350° F 25 minutes."
+    ],
+    "notes": null
+  },
+  {
+    "id": 212,
+    "numberLabel": "Recette nº 212",
+    "title": "Grosses Gaufres",
+    "ingredients": [
+      "6 T farine",
+      "1 T sucre",
+      "7 c à table poudre à pâte",
+      "1 pincée sel",
+      "12 œufs séparés (jaunes et blancs)",
+      "6 tasses de Lait",
+      "1 T beurre fondu (12 gaufres)"
+    ],
+    "steps": [
+      "Blancs montés en neige c'est à dire à la mixette jusqu'à mousseux et ferme"
+    ],
+    "notes": "4 grosses gaufres (doubler pour 8). Cette pâte se garde 3 jours avec saran wrap dessus."
+  },
+  {
+    "id": 235,
+    "numberLabel": "Recette nº 235",
+    "title": "Sucre à la crème infaillible",
+    "ingredients": [
+      "1/2 lb de beurre",
+      "3 tasses de cassonade",
+      "4 T de sucre en poudre (sucre à glacer)",
+      "160 ml ou 2/3 tasse de lait carnation (c'est la petite boîte)"
+    ],
+    "steps": [
+      "Mêler beurre, cassonade, lait carnation et cuire au micro-ondes pendant 8 minutes à haute puissance.",
+      "Retirer du micro-ondes, ajouter le sucre en poudre et battre au malaxeur.",
+      "C'est très important pour ne pas avoir de grumeaux, mettre dans un plat carré de pyrex beurré."
+    ],
+    "notes": null
+  },
+  {
+    "id": 236,
+    "numberLabel": "Recette nº 236",
+    "title": "Fudge au Tollerone",
+    "ingredients": [
+      "1/2 tasse de sucre",
+      "1/2 tasse de beurre",
+      "3/4 tasse de lait évaporé carnation",
+      "1 barre de 400 g de chocolat au lait suisse Tollerone en morceaux"
+    ],
+    "steps": [
+      "Tapisser un moule carré de pyrex de papier parchemin en laissant dépasser le papier de 14"
+    ],
+    "notes": null
+  },
+  {
+    "id": 88,
+    "numberLabel": "Recette nº 88",
+    "title": "Pâté au Saumon Maison",
+    "ingredients": [
+      "lait",
+      "beurre",
+      "patate pelée",
+      "1 grosse boîte de saumon égoutté",
+      "2 petites boîtes de saumon égoutté",
+      "1 oignon en dés",
+      "2 pâtes de tarte cuites",
+      "sauce béchamel",
+      "œufs cuits durs",
+      "ketchup"
+    ],
+    "steps": [
+      "Ajouter le lait et le beurre.",
+      "Ajouter la patate pelée et 1 grosse boîte de saumon égoutté (ou 2 petites).",
+      "Faire revenir l'oignon en dés dans le beurre, puis l'ajouter aux pommes de terre.",
+      "Placer la préparation entre deux pâtes de tarte cuites.",
+      "Enfourner jusqu'à ce que le dessus soit doré.",
+      "Servir avec de la sauce béchamel, des œufs cuits durs ou du ketchup."
+    ],
+    "notes": null
+  },
+  {
+    "id": 108,
+    "numberLabel": "Recette nº 108",
+    "title": "Feuillantine aux confitures",
+    "ingredients": [
+      "2 œufs",
+      "1 T cassonade",
+      "1 T beurre ou margarine",
+      "6 c à table sirop érable",
+      "2 c à thé (petites) soda",
+      "1 c à thé essence vanille ou citron",
+      "2 1/2 T farine environ pour rouler pâte molle"
+    ],
+    "steps": [
+      "Rouler pâte mince",
+      "couper les biscuits à l'emporte-pièce",
+      "cuire 350 à 375 °F surveiller jusqu’à légèrement doré",
+      "Disposez les encore chaud l'un sur l'autre en les soudant avec de la gelée ou de la confiture ou marmelade au choix"
+    ],
+    "notes": "Ne pas avoir peur d’enfariner votre planche et le rouleau pour empêcher de coller."
+  },
+  {
+    "id": 134,
+    "numberLabel": "Recette nº 134",
+    "title": "Pizza aux fruits Mère à Nathalie",
+    "ingredients": [
+      "1 T farine",
+      "1/4 T sucre",
+      "1/4 T beurre",
+      "2 œufs battus",
+      "2 c à thé poudre à pâte",
+      "1 c à thé essence d'Amande"
+    ],
+    "steps": [
+      "Étendre dans assiette à Pizza non graissé",
+      "Cuire à 350°F 15 min",
+      "Refroidir",
+      "Étendre des fruits en conserve et fruits frais simplement ajoutés triés",
+      "avoir 2 tasses de jus égoutté",
+      "ajouter 1/2 T sucre - 3 c à thé de fécule de maïs",
+      "bouillir - épaissir",
+      "Étendre sur les fruits",
+      "Refroidir avec Saran Wrap 2 h au réfrigérateur"
+    ],
+    "notes": null
+  },
+  {
+    "id": 148,
+    "numberLabel": "Recette nº 148",
+    "title": "Croustade de pomme de ma cousine Raymonde Carle",
+    "ingredients": [
+      "1 1/2 T farine",
+      "1 c à table p à pâte",
+      "1 c à thé sel",
+      "1/2 T beurre ou margarine",
+      "1 œuf",
+      "3 pommes en fins morceaux",
+      "1 c à thé jus citron",
+      "1/2 T sucre blanc",
+      "1 1/4 Tasse d'eau bouillante"
+    ],
+    "steps": [
+      "Mélanger beurre et œuf ensemble jusqu'à légèrement mousseux ajouter farine - p à pâte sel",
+      "Mêler avec un couteau - pâte",
+      "Mettre dans plat pyrex légèrement beurré la moitié de cette pâte ensuite",
+      "Faire Sauce aux pommes - (3 pommes en fins morceaux - 1 c à thé jus citron - 1/2 T sucre blanc - 1 1/4 Tasse d'eau bouillante mêler le tout - ajouter sur la pâte)",
+      "Ensuite ajouter le reste de pâte par dessus",
+      "cuire à 350° F 35 à 40 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 160,
+    "numberLabel": "Recette nº 160",
+    "title": "Pâte à tarte maison",
+    "ingredients": [
+      "5 tasses de farine",
+      "1 c. à thé de sel",
+      "1 1/2 tasse de graisse Tenderflake",
+      "1 tasse d'eau",
+      "1 œuf",
+      "1 c. à table de vinaigre"
+    ],
+    "steps": [
+      "Je casse un œuf dans une tasse.",
+      "J'y ajoute le vinaigre.",
+      "Je bats à la fourchette.",
+      "J'ajoute l'eau.",
+      "Je mélange la farine et la graisse que je coupe avec un coupe-pâte.",
+      "On peut le faire avec les doigts jusqu'à obtenir une chapelure fine.",
+      "Je fais un trou au milieu de la pâte et je vide la tasse d'eau.",
+      "Je mélange avec les doigts. S'il n'y a pas assez d'eau, j'en rajoute encore 1/4 tasse jusqu'à ce que se forme une belle boule qui aura pris toute la farine du bol.",
+      "Je mets de la farine sur une planche.",
+      "Je coupe ma pâte en petite boule.",
+      "Je roule sans peser sur le rouleau à pâte et je fais des morceaux de pâte."
+    ],
+    "notes": "Ma pâte à tarte donne 3 à 4 tartes doubles."
+  },
+  {
+    "id": 161,
+    "numberLabel": "Recette nº 161",
+    "title": "Tarte à la rhubarbe et sucre",
+    "ingredients": [
+      "1 tasse de crème 35 %",
+      "1/4 tasse de farine",
+      "1 tasse de cassonade",
+      "1 bâton de rhubarbe"
+    ],
+    "steps": [
+      "Tapisser le fond de la tarte de rhubarbe.",
+      "Dans une casserole, réchauffer les trois premiers ingrédients.",
+      "Jeter sur la rhubarbe, ajouter la pâte sur le dessus.",
+      "Cuire à 425°F pendant 10 minutes, puis à 350°F pendant 20 minutes."
+    ],
+    "notes": "Préféré de Frédéric"
+  },
+  {
+    "id": 162,
+    "numberLabel": "Recette nº 162",
+    "title": "Tarte au butterscotch Maud'ette",
+    "ingredients": [
+      "1 tasse de sucre brun",
+      "1 c. à soupe de farine",
+      "gros comme un œuf de beurre",
+      "2 jaunes d'œuf",
+      "1 tasse de lait",
+      "1 c. à thé de vanille"
+    ],
+    "steps": [
+      "Cuire le tout à feu doux.",
+      "Lorsqu'il a épaissi, retirer du feu.",
+      "Laisser refroidir.",
+      "Ajouter à une croûte à tarte cuite.",
+      "Recouvrir d'une meringue et retourner au four pour faire dorer."
+    ],
+    "notes": null
+  },
+  {
+    "id": 163,
+    "numberLabel": "Recette nº 163",
+    "title": "Tarte aux fraises d'été",
+    "ingredients": [
+      "1 croûte à tarte cuite",
+      "1 mélange de pouding à la vanille"
+    ],
+    "steps": [
+      "Ajouter par-dessus des fraises fraîches.",
+      "Faire fondre de la gelée de fraise, de pommette ou de groseille jusqu'à ce qu'elle soit liquide mais tiède.",
+      "Napper les fraises.",
+      "Laisser prendre au réfrigérateur."
+    ],
+    "notes": null
+  },
+  {
+    "id": 164,
+    "numberLabel": "Recette nº 164",
+    "title": "Tarte au sucre Grand-Maman Gourgues",
+    "ingredients": [
+      "6 c. à table beurre",
+      "6 c. à table de farine comble",
+      "2 tasses de cassonade",
+      "1 3/4 tasse de lait",
+      "1 c. à thé vanille"
+    ],
+    "steps": [
+      "Fondre beurre et farine.",
+      "Ajouter cassonade.",
+      "Caraméliser sur un feu moyen.",
+      "Ajouter du lait.",
+      "Remettre à cuire jusqu'à épaississement.",
+      "Ajouter vanille.",
+      "Mettre dans pâte à tarte non cuite.",
+      "Recouvrir de dessus pâte cuire à 425°F 30 à 45 min."
+    ],
+    "notes": null
+  },
+  {
+    "id": 165,
+    "numberLabel": "Recette nº 165",
+    "title": "Tarte au sirop d'érable (Un petit velour)",
+    "ingredients": [
+      "1 1/2 Tasse sirop érable",
+      "1 Tasse de crème 35%",
+      "3 c à table de fécule de maïs dilué dans un peu d'eau froide"
+    ],
+    "steps": [
+      "Ajouter le sirop et la crème.",
+      "Mêler.",
+      "Ajouter la fécule de maïs dilué dans un peu d'eau froide.",
+      "Cuire en brassant 2 min et bouillir.",
+      "Refroidir.",
+      "Mettre dans une croûte cuite."
+    ],
+    "notes": null
+  },
+  {
+    "id": 166,
+    "numberLabel": "Recette nº 166",
+    "title": "Tarte au sucre des Darust",
+    "ingredients": [
+      "1 1/2 T cassonade",
+      "2 c à table farine comble",
+      "6 onces de Lait Carna",
+      "l'œuf",
+      "Gros comme un œuf de beurre"
+    ],
+    "steps": [
+      "Mêler la cassonade avec la farine comble.",
+      "Ajouter le lait avec l'œuf.",
+      "Mêler le tout & cuire.",
+      "Ajouter gros comme un œuf de beurre.",
+      "Tiédir mettre dans croûte cuite."
+    ],
+    "notes": null
+  },
+  {
+    "id": 167,
+    "numberLabel": "Recette nº 167",
+    "title": "Tarte aux bleuets",
+    "ingredients": [
+      "1 T sucre",
+      "1/4 T amidon de maïs (corn starch)",
+      "4 à 4 1/2 tasses de bleuets congelés",
+      "1 c à thé jus citron",
+      "2 c à table beurre"
+    ],
+    "steps": [
+      "Four 425° 15 min puis baisser à 350°F 50 à 60 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 168,
+    "numberLabel": "Recette nº 168",
+    "title": "Tarte aux pêches",
+    "ingredients": [
+      "4 Tasses de pêches fraîches",
+      "3/4 tasse sucre",
+      "1 1/2 c. à thé fécule de maïs"
+    ],
+    "steps": [
+      "Cuire jusqu’à épaississement.",
+      "Refroidir.",
+      "Mettre dans croûte à tarte double et cuire jusqu’à doré."
+    ],
+    "notes": null
+  },
+  {
+    "id": 169,
+    "numberLabel": "Recette nº 169",
+    "title": "Marielle",
+    "ingredients": [
+      "1 T sirop érable",
+      "1/2 T d'eau froide",
+      "1 c à table fécule de maïs",
+      "1 T raisins secs",
+      "l'abaisse de pâte cuite"
+    ],
+    "steps": [
+      "Mêler fécule (corn starch) eau froide ajouter sirop - raisins -",
+      "Amener à ébullition 5 min en brassant constamment",
+      "Refroidir - verser dans l'abaisse",
+      "Cuire 425°F 20 min ou jusqu'à pâte cuite"
+    ],
+    "notes": null
+  },
+  {
+    "id": 170,
+    "numberLabel": "Recette nº 170",
+    "title": "Tarte aux fraises",
+    "ingredients": [
+      "6 Tasses de fraises",
+      "1 T sucre",
+      "3 c à soupe corn starch",
+      "1/3 T eau",
+      "1/4 c à thé sel"
+    ],
+    "steps": [
+      "Mêler les fraises, le sucre et le corn starch.",
+      "Ajouter l'eau.",
+      "Chauffer jusqu'à épaississement.",
+      "Retirer du feu.",
+      "Ajouter un peu de vanille (facultatif).",
+      "Refroidir.",
+      "Mettre dans 2 croûtes à tarte double.",
+      "Cuire jusqu'à doré."
+    ],
+    "notes": null
+  },
+  {
+    "id": 171,
+    "numberLabel": "Recette nº 171",
+    "title": "Tarte à la Rhubarbe",
+    "ingredients": [
+      "1 œuf",
+      "1 tasse de sucre",
+      "2 T rhubarbe",
+      "1 c à table de Tapioca minute"
+    ],
+    "steps": [
+      "Battre l'œuf",
+      "Mêler au sucre",
+      "Ajouter rhubarbe et Tapioca",
+      "Verser dans croûte non cuite et recouvrir d'une autre abaisse",
+      "Four 400°F 20 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 172,
+    "numberLabel": "Recette nº 172",
+    "title": "Tarte aux Corn Flakes",
+    "ingredients": [
+      "4 Tasses de Corn Flakes",
+      "1/3 T de sucre",
+      "2/3 Tasse de beurre",
+      "2 jaunes d'œufs",
+      "2 T lait",
+      "1/2 T de sucre",
+      "1 c à Table fécule maïs",
+      "Un peu d'eau",
+      "1/2 c à Thé sel",
+      "2 blancs d'œufs battu en neige",
+      "flocon de maïs (corn Flake) émietté"
+    ],
+    "steps": [
+      "Bien Mêler avec les mains les 3 premiers ingrédients - Etendre le mélange dans une assiette à tarte en tapissant bien le fond et les bord de l'assiette -",
+      "Faire cuire au bain-marie les jaunes d'œufs battus - Lait - sucre épaissir avec la fécule de maïs (corn starch) délayé dans un peu d'eau et 1/2 c à thé sel -",
+      "Laisser refroidir légèrement - Verser dans croûte à tarte préparée avec le corn flakes - Couvrir avec les blancs d'œufs battus en neige -",
+      "Saupoudrer de flocons de maïs émietté Dorer au four."
+    ],
+    "notes": null
+  },
+  {
+    "id": 173,
+    "numberLabel": "Recette nº 173",
+    "title": "Tarte aux fraises des fermières",
+    "ingredients": [
+      "3 1/2 Tasses de fraises fraîches",
+      "3/4 T sucre",
+      "2 c à table corn starch",
+      "1/4 c à thé sel",
+      "1 Tasse d'eau"
+    ],
+    "steps": [
+      "Remplir de fraises une croûte à tarte cuite.",
+      "Mêler le sucre, le corn starch, le sel et l'eau.",
+      "Cuire lentement sur feu doux afin d'obtenir un sirop épais et lisse (environ 10 à 15 minutes).",
+      "Verser le sirop sur les fraises.",
+      "Refroidir.",
+      "Au moment de servir, couvrir de crème fouettée et de fraises fraîches."
+    ],
+    "notes": null
+  },
+  {
+    "id": 174,
+    "numberLabel": "Recette nº 174",
+    "title": "Tarte Mousse aux fraises",
+    "ingredients": [
+      "Croûte Graham déjà faite",
+      "1 tasse d'eau bouillante",
+      "1 paquet de jello (petit)",
+      "2 t. crème glacée vanille ou fraise"
+    ],
+    "steps": [
+      "Dissoudre le jello dans l'eau bouillante, puis laisser refroidir au réfrigérateur jusqu'à ce que le mélange commence à prendre.",
+      "Ajouter 2 t. crème glacée vanille ou fraise avec malaxeur.",
+      "Vider dans croûte.",
+      "Mettre au réfrigérateur jusqu'à ce que pris."
+    ],
+    "notes": "de jello (c'est-à-dire pas de vrai four)"
+  },
+  {
+    "id": 175,
+    "numberLabel": "Recette nº 175",
+    "title": "Tarte aux pacanes",
+    "ingredients": [
+      "1/2 tasse de beurre",
+      "1 T cassonade",
+      "3 œufs battus",
+      "1 T de sirop de maïs (Corn Brand)",
+      "1 T de pacanes entières",
+      "1 c à thé Vanille"
+    ],
+    "steps": [
+      "Défaire beurre et cassonade en crème",
+      "ajouter le reste des ingrédients",
+      "Verser dans une croûte à tarte non cuite. Ne pas couvrir.",
+      "Cuire à 375°F 40 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 176,
+    "numberLabel": "Recette nº 176",
+    "title": "Ma Tarte aux pommes",
+    "ingredients": [
+      "6 à 8 pommes pelées et tranchées en morceaux (quartiers)",
+      "1 tasse de sucre",
+      "2 c à thé farine",
+      "1 pincée de muscade",
+      "1/2 c à thé cannelle",
+      "2 c à soupe de beurre"
+    ],
+    "steps": [
+      "Mêler pommes et sucre",
+      "Ajouter la farine et les épices, puis disposer des morceaux de beurre sur le dessus de la tarte.",
+      "Cuire la tarte avec une pâte double à 400°F pendant 45 minutes."
+    ],
+    "notes": null
+  },
+  {
+    "id": 177,
+    "numberLabel": "Recette nº 177",
+    "title": "Tarte aux raisins",
+    "ingredients": [
+      "3/4 T de sucre",
+      "2 c à Table farine",
+      "2 T eau",
+      "2 c à Table vinaigre",
+      "1 T de raisins à tarte (au goût)"
+    ],
+    "steps": [
+      "Mêler le sucre et la farine, puis délayer avec l'eau et le vinaigre.",
+      "Couvrir le fond d'une abaisse d'une couche de raisins.",
+      "Verser la préparation sur les raisins.",
+      "Couvrir d'une autre abaisse.",
+      "Cuire au four à 350°F pendant 40 minutes."
+    ],
+    "notes": null
+  },
+  {
+    "id": 178,
+    "numberLabel": "Recette nº 178",
+    "title": "Tarte au citron maison de ta marraine (Remplissage)",
+    "ingredients": [
+      "1/2 T sucre",
+      "1/4 tasse de fécule de maïs (CornStarch)",
+      "1 pincée de sel",
+      "1 T eau",
+      "1 œuf battu légèrement",
+      "2 c à Table de jus de citron",
+      "le zeste de 1 citron",
+      "2 c à Table de beurre"
+    ],
+    "steps": [
+      "Combiner le sucre, la fécule et le sel avec l'eau dans une casserole et chauffer à feu moyen en remuant avec un fouet jusqu'à ce que le mélange épaississe.",
+      "Tempere l'œuf en versant un peu du mélange chaud dans l'œuf, puis remettre le tout dans la casserole et brasser avec le fouet jusqu'à épaississement.",
+      "Mettre dans un bol.",
+      "Ajouter un film alimentaire sur la surface pour empêcher la formation d'une pellicule sur le remplissage.",
+      "Réfrigérer jusqu'à tiède.",
+      "Mettre dans une croûte à tarte cuite.",
+      "Ajouter une meringue d'œufs et cuire jusqu'à ce que le dessus soit doré."
+    ],
+    "notes": null
+  },
+  {
+    "id": 11,
+    "numberLabel": "Recette nº 11",
+    "title": "Vinaigrette",
+    "ingredients": [
+      "1/4 T huile d'olive",
+      "1 c à thé moutarde de dijon",
+      "2 c à thé vinaigre vin",
+      "sel",
+      "poivre",
+      "1 salade romaine (3 tasses)",
+      "1/2 T Tomate en morceaux",
+      "1/4 T de radis en morceaux",
+      "1/4 tasse échalote",
+      "les germes"
+    ],
+    "steps": [
+      "couper 1 salade romaine (3 tasses)",
+      "Ajouter les germs et la Vinaigrette."
+    ],
+    "notes": null
+  },
+  {
+    "id": 44,
+    "numberLabel": "Recette nº 44",
+    "title": "Sauce à pizza Rapide sans cuisson",
+    "ingredients": [
+      "1 bte 19 onces grosse tomate",
+      "1 petite bte de pâte de tomate",
+      "1 c. à table sucre",
+      "1/2 c. à thé sel",
+      "1/4 c. à thé poivre ainsi que poudre d'ail et d'origan",
+      "3 c. à table d'huile",
+      "piment broyé au goût"
+    ],
+    "steps": [
+      "Mélanger tous les ingrédients dans un bol jusqu'à obtenir une sauce homogène."
+    ],
+    "notes": null
+  },
+  {
+    "id": 47,
+    "numberLabel": "Recette nº 47",
+    "title": "La béchamel",
+    "ingredients": [
+      "2 c à Table de beurre",
+      "2 c à Table farine",
+      "2 Tasses de lait"
+    ],
+    "steps": [
+      "Fondre beurre ajouter farine ensuite 2 Tasses de lait - Brasser au fouet",
+      "Refroidir avant de faire omelette au four."
+    ],
+    "notes": null
+  },
+  {
+    "id": 49,
+    "numberLabel": "Recette nº 49",
+    "title": "Mayonnaise",
+    "ingredients": [
+      "1 œuf",
+      "1 cà thé moutarde sèche",
+      "1 cà thé sel",
+      "1 cà table sucre",
+      "2 T huile",
+      "2 cà table vinaigre",
+      "2 cà table d'eau chaude",
+      "un peu de cayenne"
+    ],
+    "steps": [
+      "Battre l'œuf avec les ingrédients secs.",
+      "Ajouter l'huile en filet petit à petit avec un mélangeur électrique, en étant patient.",
+      "Quand le mélange commence à épaissir, ajouter un peu plus d'huile à la fois en alternant avec le vinaigre.",
+      "Tamiser et ajouter l'eau bouillante.",
+      "Cela enlève l'apparence huileuse; ajouter un peu de cayenne."
+    ],
+    "notes": "Pour faire fondre Cheddar: voir bouillon fondu cheddar dans les soupes et potages"
+  },
+  {
+    "id": 53,
+    "numberLabel": "Recette nº 53",
+    "title": "Sauce espagnole",
+    "ingredients": [
+      "2 c. à table de beurre ou margarine ou huile",
+      "1 tasse d'oignon fin",
+      "1 piment en dés",
+      "sel - poivre",
+      "1 feuille de laurier",
+      "2 clous de girofle",
+      "1 boîte de tomates entières (28 onces)",
+      "1 tasse d'eau bouillante",
+      "1 c à thé poudre de bouillon poulet"
+    ],
+    "steps": [
+      "Sauter l'oignon dans le beurre",
+      "Ajouter le reste",
+      "Couvrir - Mijoter 30 min",
+      "Retirer clou & laurier"
+    ],
+    "notes": "Cette sauce est bonne aussi pour Pain de Viande - Hamburg. Omelette espagnole ou poisson frit de mon école"
+  },
+  {
+    "id": 79,
+    "numberLabel": "Recette nº 79",
+    "title": "Sauce moutarde",
+    "ingredients": [
+      "1 cà thé de bouillon de poulet en poudre",
+      "3/4 T eau bouillante",
+      "3/4 Tasse de lait",
+      "2 cà table moutarde en poudre",
+      "2 cà table farine",
+      "1/4 T sucre",
+      "1/4 T vinaigre blanc",
+      "1/2 cà thé sel",
+      "graine de céleri"
+    ],
+    "steps": [
+      "Mélanger le bouillon de poulet en poudre, l'eau bouillante, le lait, la moutarde en poudre, la farine, le sucre, le vinaigre blanc, le sel et la graine de céleri pour obtenir la sauce moutarde."
+    ],
+    "notes": null
+  },
+  {
+    "id": 100,
+    "numberLabel": "Recette nº 100",
+    "title": "Béchamel",
+    "ingredients": [
+      "2 c à table de beurre",
+      "2 c à table de farine",
+      "2 tasses de lait chauffé"
+    ],
+    "steps": [
+      "Brasser au fouet jusqu'à ce que la sauce soit très épaisse.",
+      "Refroidir par la suite"
+    ],
+    "notes": null
+  },
+  {
+    "id": 122,
+    "numberLabel": "Recette nº 122",
+    "title": "Glace à la cassonade (Sauce à la crème)",
+    "ingredients": [
+      "1/3 T beurre",
+      "2/3 T cassonade bien tassée",
+      "3 c. à table lait",
+      "1 à 1 1/2 t sucre à glacer"
+    ],
+    "steps": [
+      "Tamiser.",
+      "Dans une casserole, mêler beurre & cassonade.",
+      "Amener à ébullition à feu doux 2 min en remuant constamment.",
+      "Ajouter le lait - Amener de nouveau à ébullition.",
+      "Retirer du feu - Tiédir.",
+      "Incorporer sucre à glacer.",
+      "S'il devient trop épais chauffer légèrement."
+    ],
+    "notes": "glace gâteau Rapidement -"
+  },
+  {
+    "id": 179,
+    "numberLabel": "Recette nº 179",
+    "title": "Mon Ketchup aux fruits (à ne pas changer)",
+    "ingredients": [
+      "4 Pêches",
+      "4 Poires",
+      "4 Pommes",
+      "12 Tomates (Très grosses)",
+      "2 oignons",
+      "3 hanches de céleri",
+      "2 Tasses de cassonade",
+      "2 c à table épices à marinade mettre dans coton à fromage (Mousseline)",
+      "1 1/2 Tasse Vinaigre",
+      "2 c à thé de sel"
+    ],
+    "steps": [
+      "Blanchir à l'eau bouillante pour peler la peau des pêches et tomates.",
+      "Peler les poires et pommes.",
+      "Couper les légumes et fruits en gros dés.",
+      "Mettre dans un plat inoxydable pour ne pas altérer la couleur.",
+      "Déposer dans la marmite et ajouter la cassonade, le vinaigre et le sel.",
+      "Déposer les épices du coton à fromage avec les autres ingrédients.",
+      "Cuire environ 1 heure, parfois un peu plus si les tomates sont trop liquides.",
+      "Brasser de temps à autre pour empêcher de coller.",
+      "Enlever les épices.",
+      "Refroidir un peu.",
+      "Mettre dans des pots stérilisés."
+    ],
+    "notes": "Ça épaissit un peu en refroidissant. P.S Les pots doivent être chaud le Ketchup tiède pour bien réussir"
+  },
+  {
+    "id": 183,
+    "numberLabel": "Recette nº 183",
+    "title": "Sauce à l'Espagnole",
+    "ingredients": [
+      "2 c à Table beurre",
+      "2 c à Table farine",
+      "1/4 c à thé sel",
+      "Oignon",
+      "persil",
+      "Poivre"
+    ],
+    "steps": [
+      "Ajouter 1 Tasse de jus de légumes (V8)"
+    ],
+    "notes": null
+  },
+  {
+    "id": 184,
+    "numberLabel": "Recette nº 184",
+    "title": "Sauce moutarde et miel des 3 acres",
+    "ingredients": [
+      "Du miel",
+      "huile d'olive",
+      "moutarde préparée",
+      "sel de mer",
+      "eau"
+    ],
+    "steps": [
+      "Mêler au fouet"
+    ],
+    "notes": "cette sauce est idéale pour badigeonner le poulet sans peau avant de cuire au four."
+  },
+  {
+    "id": 185,
+    "numberLabel": "Recette nº 185",
+    "title": "Sauce crème",
+    "ingredients": [
+      "1 tasse de béchamelle moyenne",
+      "1/4 tasse de crème épaisse champêtre"
+    ],
+    "steps": [
+      "ajouter"
+    ],
+    "notes": null
+  },
+  {
+    "id": 186,
+    "numberLabel": "Recette nº 186",
+    "title": "Sauce B.B.Q. de l'Ouest",
+    "ingredients": [
+      "1 c. à table de beurre (margarine ou huile)",
+      "3/4 tasse d'oignon fin",
+      "1 tasse de ketchup",
+      "1 tasse d'eau bouillante",
+      "1 cube Oxo de bœuf",
+      "1/2 tasse de mélasse",
+      "1/4 tasse de cassonade",
+      "2/3 tasse de vinaigre",
+      "2 c. à thé de moutarde en poudre",
+      "1/2 c. à thé de sel",
+      "poivre",
+      "pincée de poivre de Cayenne"
+    ],
+    "steps": [
+      "Sauter l'oignon.",
+      "Dissoudre le cube dans l'eau.",
+      "Ajouter les autres ingrédients.",
+      "Couvrir et mijoter 20 minutes."
+    ],
+    "notes": null
+  },
+  {
+    "id": 187,
+    "numberLabel": "Recette nº 187",
+    "title": "Sauce B.B.Q. pour côtes levées",
+    "ingredients": [
+      "1/2 tasse de compote de pomme",
+      "1/2 tasse de ketchup Heinz",
+      "2 tasses de sucre brun",
+      "2 c. à table de jus de citron",
+      "2 c. à thé de moutarde de Dijon",
+      "1 c. à thé de sauce Worcestershire",
+      "1/2 c. à thé de sel",
+      "1/2 c. à thé de poivre",
+      "1/2 c. à thé de paprika",
+      "1/2 c. à thé de cannelle",
+      "1/2 c. à thé de poudre d'ail"
+    ],
+    "steps": [
+      "Mélanger et faire bouillir 5 minutes. (Pour badigeonner les côtes levées)"
+    ],
+    "notes": null
+  },
+  {
+    "id": 188,
+    "numberLabel": "Recette nº 188",
+    "title": "Sauce Dijon de l'Académie Culinaire",
+    "ingredients": [
+      "1/4 tasse d'oignon",
+      "1 c. à table de beurre",
+      "1/4 tasse de vin blanc",
+      "2 c. à table de vinaigre blanc",
+      "1 tasse de sauce demi-glace Knorr",
+      "1 c. à table de moutarde de Dijon"
+    ],
+    "steps": [
+      "Suer l'oignon dans le beurre à moyen.",
+      "Mouiller avec vin blanc et vinaigre.",
+      "Réduire de moitié.",
+      "Ajouter la demi-glace et laisser à feu doux pendant 5 minutes.",
+      "Assaisonner au goût, puis hors du feu ajouter la moutarde et brasser avec un fouet."
+    ],
+    "notes": "Se sert avec du porc et de la volaille."
+  },
+  {
+    "id": 189,
+    "numberLabel": "Recette nº 189",
+    "title": "Sauce Caramel écossais",
+    "ingredients": [
+      "1 tasse de cassonade",
+      "1 c. à soupe de farine",
+      "1/4 T de lait",
+      "2 c. à soupe de sirop de maïs",
+      "2 onces de beurre",
+      "muscade râpée un peu"
+    ],
+    "steps": [
+      "Mêler cassonade - farine",
+      "Incorporer le lait - sirop puis beurre",
+      "Cuire 2 à 4 min à découvert à High jusqu'à ébullition",
+      "Remuer bien",
+      "Cuire 3 min 1/2 de plus à High",
+      "Ajouter muscade",
+      "Servir chaud avec gâteau maison ou crème glacée"
+    ],
+    "notes": null
+  },
+  {
+    "id": 190,
+    "numberLabel": "Recette nº 190",
+    "title": "Sauce Chaude au chocolat",
+    "ingredients": [
+      "1/2 T de sucre",
+      "1/2 T de cassonade",
+      "2 c. à soupe de cacao",
+      "1 c. à soupe de farine",
+      "1 pincée de sel",
+      "150 ml de lait",
+      "1 c. à soupe de sirop de maïs",
+      "1/2 once de beurre",
+      "extrait de vanille"
+    ],
+    "steps": [
+      "Mêler sucre - cassonade - cacao - sel",
+      "Incorporer le lait - sirop puis beurre",
+      "Chauffer 2 à 4 min à découvert à Max",
+      "Chauffer 3 à 5 min de plus",
+      "Remuer à 1 min 1/2 de chaque côté"
+    ],
+    "notes": null
+  },
+  {
+    "id": 219,
+    "numberLabel": "Recette nº 219",
+    "title": "Sauce Vinaigrette",
+    "ingredients": [
+      "1 cube OXO à l'oignon",
+      "3/4 T eau bouillante",
+      "1/2 cà thé gingembre moulu",
+      "1 cà thé sel",
+      "un peu de poivre",
+      "2 gousses d'ail haché fin",
+      "fèves germées"
+    ],
+    "steps": [
+      "Couper fèves germées finement et ajouter aux autres ingrédients."
+    ],
+    "notes": null
+  },
+  {
+    "id": 220,
+    "numberLabel": "Recette nº 220",
+    "title": "Sauce à Spaghetti de Marinette",
+    "ingredients": [
+      "2 cà table huile olive",
+      "2 lbs de bœuf haché",
+      "4 gousses d'ail",
+      "1 gros oignon",
+      "1 petit piment vert en dés",
+      "1/2 tasse de céleri",
+      "1 bte de 6 onces de pâte de tomate",
+      "1 bte soupe Campbell Tomate",
+      "2 btes 28 onces de Tomate",
+      "1 1/2 cà thé sel",
+      "1 cà thé sucre",
+      "1 cà thé moutarde en poudre",
+      "1 feuille de laurier",
+      "1/4 cà thé poivre",
+      "2 cà thé poudre de chili",
+      "1 cà thé origan",
+      "1/4 cà thé marjolaine",
+      "1/4 cà thé thym",
+      "1/4 cà thé de romarin",
+      "1/4 cà thé clou de girofle"
+    ],
+    "steps": [
+      "Cuire dans l'huile le bœuf haché enlever.",
+      "Cuire légèrement les légumes rajouter à la viande avec le reste.",
+      "Couvrir cuire au four à 300 F 2 hr avec couvercle 1 hr sans couvercle.",
+      "Cuire 25 à 27 min à 70 % et non à High Certains micro-ondes c'est puissance 7 brasser 3 à 4 fois durant cuisson.",
+      "Laisser reposer 10 min avant de servir."
+    ],
+    "notes": null
+  },
+  {
+    "id": 223,
+    "numberLabel": "Recette nº 223",
+    "title": "Sauce aux fraises",
+    "ingredients": [
+      "2 c à soupe fécule maïs",
+      "2 c à soupe sucre",
+      "10 onces ou 300 g de fraises dégelées jus réservé",
+      "1 c à soupe de jus de citron"
+    ],
+    "steps": [
+      "Mêler fécule avec sucre et jus de fraises.",
+      "Incorporer fraises chauffer 3 à 5 min à découvert à High.",
+      "Remuer chaque min.",
+      "Incorporer jus citron.",
+      "Servir tiède ou froid."
+    ],
+    "notes": null
+  },
+  {
+    "id": 224,
+    "numberLabel": "Recette nº 224",
+    "title": "Sauce au Sucre au beurre",
+    "ingredients": [
+      "1/2 T cassonade",
+      "4 onces (125 g) beurre en cubes",
+      "2 c à soupe eau"
+    ],
+    "steps": [
+      "Chauffer 1 ou 2 min à High jusqu'à beurre fondu.",
+      "Remuer à la cuillère de bois jusqu'à bien léger.",
+      "Chauffer 1 1/2 à 2 1/2 min de plus à Med.",
+      "Bouillir 1 min.",
+      "Servir chaud."
+    ],
+    "notes": null
+  },
+  {
+    "id": 225,
+    "numberLabel": "Recette nº 225",
+    "title": "Sauce Choco Guimauve",
+    "ingredients": [
+      "4 onces 125 g pépites chocolat",
+      "2 onces ou 50 g guimauve hachées",
+      "1/4 T lait"
+    ],
+    "steps": [
+      "Chauffer 2 1/2 à 4 1/2 min.",
+      "Remuer à chaque min.",
+      "Si Trop épais ajouter du lait pour obtenir consistance désirée."
+    ],
+    "notes": null
+  },
+  {
+    "id": 226,
+    "numberLabel": "Recette nº 226",
+    "title": "Sauce chaude aux fruits",
+    "ingredients": [
+      "1/2 t de cassonade",
+      "1 c à soupe fécule de maïs",
+      "1 T jus orange",
+      "1 once de beurre",
+      "zeste râpé de 2 grosses orange",
+      "2 c à soupe jus citron",
+      "1 bte mandarine égouttées",
+      "4 onces (125g) ananas en morceaux frais ou en boîte",
+      "2 bananes tranchées"
+    ],
+    "steps": [
+      "Mêler cassonade et fécule.",
+      "Ajouter jus orange et beurre.",
+      "Chauffer 4 à 5 min à High jusqu'à sauce claire et épaisse.",
+      "Ajouter zeste et jus citron.",
+      "Incorporer les fruits.",
+      "On peut préparer sauce à l'avance puis réchauffer avant d'ajouter les fruits."
+    ],
+    "notes": null
+  },
+  {
+    "id": 227,
+    "numberLabel": "Recette nº 227",
+    "title": "Sauce crème sure",
+    "ingredients": [
+      "1/2 T cassonade",
+      "150 ml crème sure"
+    ],
+    "steps": [
+      "Mêler cassonade et crème sure.",
+      "Chauffer 1 1/2 à 2 min à Médium jusqu'à chaud et cassonade fondue.",
+      "Remuer après 1 min pour dissoudre uniformément.",
+      "Ne pas laisser bouillir, sinon la crème risque de se séparer.",
+      "Servir chaud ou tiède sur gâteau Pouding - crème glacée."
+    ],
+    "notes": null
+  },
+  {
+    "id": 228,
+    "numberLabel": "Recette nº 228",
+    "title": "Sauce Butterscotch",
+    "ingredients": [
+      "1 c. à Table fécule maïs",
+      "1 1/4 T cassonade tassée",
+      "1/4 T lait",
+      "1/4 T crème",
+      "2 c. à Table sirop maïs",
+      "1/8 c. à thé sel",
+      "1/4 Tasse beurre",
+      "1 c. à thé Vanille"
+    ],
+    "steps": [
+      "Mêler fécule - cassonade dans plat de 1 1/2 pinte allant au micro-onde.",
+      "Ajouter Lait - crème - sirop - sel.",
+      "Brasser",
+      "Ajouter beurre",
+      "Cuire à High 3 1/2 à 4 1/2 min.",
+      "Brasser au 2 min.",
+      "Ajouter Vanille",
+      "Servir chaud."
+    ],
+    "notes": "Donne 1 1/2 Tasse."
+  },
+  {
+    "id": 229,
+    "numberLabel": "Recette nº 229",
+    "title": "Sauce au Sucre et cannelle",
+    "ingredients": [
+      "1/2 T sucre",
+      "1 1/2 c. à Table fécule",
+      "1 c. à thé cannelle",
+      "1 T eau chaude",
+      "2 c. à Table beurre"
+    ],
+    "steps": [
+      "Mêler sucre - fécule - cannelle et l'eau.",
+      "Couvrir à High pendant 3 à 4 min brasser après 1m 1/2",
+      "Ajouter beurre",
+      "Servir chaud"
+    ],
+    "notes": "(Donne 1 1/2 T)"
+  },
+  {
+    "id": 230,
+    "numberLabel": "Recette nº 230",
+    "title": "Sauce au citron",
+    "ingredients": [
+      "1/2 T sucre",
+      "1 1/2 c à Table fécule",
+      "1 T eau chaude",
+      "1 c à Table jus citron",
+      "1 à 2 c à thé zeste de citron fin râpé"
+    ],
+    "steps": [
+      "Couvrir cuire 3 à 4 min à High"
+    ],
+    "notes": null
+  },
+  {
+    "id": 231,
+    "numberLabel": "Recette nº 231",
+    "title": "Sauce Guimauve",
+    "ingredients": [
+      "2 pots (7 onces chaque de guimauve en crème)",
+      "2 c à Table de Lait"
+    ],
+    "steps": [
+      "Cuire à Médium 2 à 3 min pour crème glacée au chocolat"
+    ],
+    "notes": null
+  },
+  {
+    "id": 232,
+    "numberLabel": "Recette nº 232",
+    "title": "Sauce aux cerises",
+    "ingredients": [
+      "jus de 2 boîtes (16 onces chacune) de cerises noires sucrées",
+      "3 c à table de fécule de maïs",
+      "1 c à table de jus de citron",
+      "1 c à thé de zeste de citron",
+      "3/4 T de sucre",
+      "cerises"
+    ],
+    "steps": [
+      "Verser le jus de 2 boîtes (16 onces chacune) de cerises noires sucrées dans une cocotte de 2 pintes.",
+      "Ajouter 3 c à table de fécule de maïs.",
+      "Ajouter 1 c à table de jus de citron.",
+      "Ajouter 1 c à thé de zeste de citron et 3/4 T de sucre.",
+      "Cuire à feu vif pendant 5 à 7 minutes.",
+      "Brasser au bout de 3 minutes et ajouter les cerises."
+    ],
+    "notes": null
+  },
+  {
+    "id": 233,
+    "numberLabel": "Recette nº 233",
+    "title": "Sauce à la menthe",
+    "ingredients": [
+      "1 paquet (6 1/2 onces) de menthe enrobée de chocolat (After Eight)",
+      "1/4 T crème à fouetter"
+    ],
+    "steps": [
+      "Mettre les ingrédients dans un plat allant au micro-ondes.",
+      "Cuire à puissance moyenne pendant 2 à 3 minutes."
+    ],
+    "notes": "Pour crème glacée et gâteau des anges."
+  },
+  {
+    "id": 234,
+    "numberLabel": "Recette nº 234",
+    "title": "Sauce Caramel",
+    "ingredients": [
+      "1/2 T cassonade",
+      "1/2 T sucre blanc",
+      "1 tasse eau bouillante",
+      "2 c à thé farine",
+      "2 c à thé beurre",
+      "1/2 c à thé Vanille"
+    ],
+    "steps": [
+      "Mêler cassonade, sucre, farine, beurre.",
+      "Laisser fondre et brunir jusqu'à couleur caramel.",
+      "Ajouter l'eau jusqu'à épaississement.",
+      "Brasser souvent."
+    ],
+    "notes": null
+  },
+  {
+    "id": 74,
+    "numberLabel": "Recette nº 74",
+    "title": "Farine assaisonnée pour toutes sortes de viandes",
+    "ingredients": [
+      "2 Tasses farine",
+      "2 cà thé sel fin",
+      "1 cà table sel de céleri",
+      "2 cà table moutarde sèche",
+      "3 à 4 cà table paprika",
+      "2 cà table poudre d'ail",
+      "3 cà table glutamate de Montréal",
+      "1 cà thé gingembre",
+      "1/2 cà thé Thym",
+      "1/2 cà thé basilic",
+      "1/2 cà thé origan"
+    ],
+    "steps": [
+      "Garder la farine assaisonnée dans un plat de plastique au garde-manger."
+    ],
+    "notes": null
+  },
+  {
+    "id": 87,
+    "numberLabel": "Recette nº 87",
+    "title": "Chapelure spéciale Kentucky",
+    "ingredients": [
+      "1 Tasse farine",
+      "1/2 T corn flakes émietté",
+      "1/4 c à thé sel oignon",
+      "1/4 c à thé de persil",
+      "1/4 c à thé romarin",
+      "1/4 c à thé Thym",
+      "1/4 c à thé paprika",
+      "1/4 c à thé sarriette",
+      "1/4 c à thé marjolaine",
+      "1/4 c à thé basilic"
+    ],
+    "steps": [
+      "Passer les morceaux dans cette chapelure.",
+      "Chauffer de l'huile ou la graisse à 400 dans une friteuse ou une marmite épaisse.",
+      "Déposer les morceaux de poulet.",
+      "Les retourner une fois."
+    ],
+    "notes": null
+  },
+  {
+    "id": 95,
+    "numberLabel": "Recette nº 95",
+    "title": "Epices",
+    "ingredients": [
+      "1 c à thé sarriette",
+      "1 c à thé de persil",
+      "1 c à thé Thym",
+      "1 c à thé basilic",
+      "1 c à thé piment broyé",
+      "1 c à thé assaisonnement italien",
+      "3 feuilles de Laurier",
+      "2 c à thé sucre",
+      "2 c à thé sel",
+      "2 c à thé poivre",
+      "beurre",
+      "oignon",
+      "ail",
+      "viande",
+      "boîtes de tomates"
+    ],
+    "steps": [
+      "Dans une grosse marmite, mettre un peu de beurre et dorer oignon et ail.",
+      "Cuire la viande.",
+      "Quand la viande est cuite, ajouter toutes les boîtes de tomates et épices.",
+      "Mettre à feu très doux pendant au moins 4 heures et brasser régulièrement pour éviter que ça colle au fond.",
+      "Ou mettre au four à 300 F 2 heures avec couvercle, puis 1 heure sans couvercle."
+    ],
+    "notes": null
+  },
+  {
+    "id": 182,
+    "numberLabel": "Recette nº 182",
+    "title": "Mes Herbes Salées",
+    "ingredients": [
+      "1 Tasse de ciboulette",
+      "1 Tasse de persil",
+      "1 T poireau (partie verte)",
+      "1 Tasse d'échalotes",
+      "2 Tasses de feuilles de céleri",
+      "1 T sarriette au goût",
+      "1/4 tasse de sauge au goût",
+      "2 Tasses de gros sel",
+      "1 carotte",
+      "1 morceau de Navet"
+    ],
+    "steps": [
+      "Laver - Essorer - Hacher les herbes finement.",
+      "Meler herbes - légumes et sel.",
+      "Mettre dans pot mason stérilisé.",
+      "Garder au réfrigérateur."
+    ],
+    "notes": "Pour mettre dans la soupe - Dans des sauces - * Se conserve dans des pots stérilisés 2 ans au réfrigérateur. Donne 4 pots mason régulier. P.S. Attendre un mois avant de s'en servir."
+  },
+  {
+    "id": 196,
+    "numberLabel": "Recette nº 196",
+    "title": "La Meilleure Recette d'Épice à steak du monde faite maison",
+    "ingredients": [
+      "4 cà soupe (60ml) de mélange de 4 poivres en grains",
+      "1/2 à 1 cà soupe (7.5 à 15ml) piment rouge broyé",
+      "1 cà soupe (15ml) romarin sec",
+      "1 cà soupe (15ml) de grains de moutarde",
+      "1 cà soupe (15ml) de grains de cumin",
+      "2 cà soupe (30ml) de grains de coriandre",
+      "2 cà soupe (30ml) de flocons d'ail déshydratés",
+      "3 cà soupe (45ml) de flocons d'oignon déshydratés",
+      "2 cà soupe (30ml) de graines d'aneth",
+      "1 cà soupe (15ml) persil sec",
+      "5 cà soupe (75ml) sel de mer"
+    ],
+    "steps": [
+      "Broyez dans un moulin à café ces ingrédients (ne pas moudre finement).",
+      "Mêler ensemble : 2 cà soupe (30ml) de flocons d'ail déshydratés, 3 cà soupe (45ml) de flocons d'oignon déshydratés, 2 cà soupe (30ml) de graines d'aneth, 1 cà soupe (15ml) de persil sec, 5 cà soupe (75ml) de sel de mer.",
+      "Ajouter ce reste aux épices moulues et brasser ensemble."
+    ],
+    "notes": "Donne 1 1/4 Tasse. Garder à l'abri de l'humidité."
+  },
+  {
+    "id": 197,
+    "numberLabel": "Recette nº 197",
+    "title": "Sel Gomasio (Gamasio)",
+    "ingredients": [
+      "1/2 t de graines de sésame grillées",
+      "1/2 t de sel de mer fin"
+    ],
+    "steps": [
+      "Réduire en poudre"
+    ],
+    "notes": null
+  },
+  {
+    "id": 198,
+    "numberLabel": "Recette nº 198",
+    "title": "Épice Cajun",
+    "ingredients": [
+      "2 piments forts broyés",
+      "1 cà soupe de paprika",
+      "1 gousse d'ail",
+      "1 cà thé de sel",
+      "1 cà thé de thym",
+      "1 cà thé de cajun",
+      "1 cà thé de graines de fenouil"
+    ],
+    "steps": [
+      "Réduire en purée"
+    ],
+    "notes": null
+  },
+  {
+    "id": 199,
+    "numberLabel": "Recette nº 199",
+    "title": "Sel de Céleri",
+    "ingredients": [
+      "sel de mer fin",
+      "graine de céleri"
+    ],
+    "steps": [
+      "Moudre au moulin"
+    ],
+    "notes": "Utiliser des portions égales de chaque ingrédient."
+  },
+  {
+    "id": 201,
+    "numberLabel": "Recette nº 201",
+    "title": "Sangria au Vin Blanc S.T.Q",
+    "ingredients": [
+      "2 litres (8 tasses) de Vin blanc",
+      "2 litres (8 tasses) de jus de canneberge blanche",
+      "250 ml (1 Tasse) de Sucre",
+      "250 ml (1 Tasse) de liqueur d'orange et Limoncello",
+      "Orange - citron tranchés",
+      "Quelques fraises ou bleuets",
+      "2 Tasses de soda au citron 7up"
+    ],
+    "steps": [
+      "Macérer 24 heures le vin, les fruits frais coupés, le jus de fruit et le sucre dans un saladier au réfrigérateur.",
+      "Ajouter l'eau gazeuse ou la limonade.",
+      "Ajouter les alcools forts et les fruits frais en dernier.",
+      "Transférer dans de jolis pichets et ajouter des feuilles de menthe fraîche.",
+      "Servir très frais avec des glaçons."
+    ],
+    "notes": "Typiquement espagnol. Moitié 7up - moitié Vin Rouge. De même avec vin blanc ou Rosée."
+  },
+  {
+    "id": 204,
+    "numberLabel": "Recette nº 204",
+    "title": "Ma Limonade Maison",
+    "ingredients": [
+      "2 Tasses de Sucre",
+      "2 T d'eau",
+      "Zeste de 3 citrons"
+    ],
+    "steps": [
+      "Bouillir 5 min",
+      "Tamiser",
+      "Ajouter 7 à 8 citrons fraîchement pressés",
+      "garder au froid",
+      "Remplir d'eau ou 7up ou soda",
+      "Ajouter 2 minces tranches de citron"
+    ],
+    "notes": "Pour Servir - feuille de menthe - glaçon - Sirop - citron"
+  },
+  {
+    "id": 205,
+    "numberLabel": "Recette nº 205",
+    "title": "Limonade Ricardo",
+    "ingredients": [
+      "Jus de 4 citrons",
+      "1/3 T de sucre",
+      "3 Tasses d'eau",
+      "1 cà thé de gingembre frais râpé",
+      "1/2 T de citron - 2 limes Tranchées",
+      "1 1/2 T de soda tonique (Tonic Water)",
+      "Glaçon - feuille de menthe fraîche"
+    ],
+    "steps": [
+      "filtrer après quelques heures pour retirer le gingembre"
+    ],
+    "notes": "Sauf Soda Tonique et glaçon au moment de servir"
+  },
+  {
+    "id": 206,
+    "numberLabel": "Recette nº 206",
+    "title": "Ma Slush",
+    "ingredients": [
+      "26 onces de rhum blanc ou vodka",
+      "1 bte de limonade et 1 bte de jus d'orange concentré congelé non dilué (Cep Minute Maid)",
+      "1 Tasse de sucre",
+      "7 Tasses d'eau chaude",
+      "2 tasses de thé fort"
+    ],
+    "steps": [
+      "Congeler dans 2 grands plats de plastique rectangulaires non couverts pour laisser prendre",
+      "Lorsque pris, on ajoute un couvercle ou du papier aluminium double épaisseur",
+      "Servir dans des verres à long col",
+      "Remplir de glace pilée",
+      "Ajouter 4 à 5 c à soupe de sirop",
+      "Remplir de 7up jusqu'en haut du verre",
+      "Ajouter 1/2 c à thé de jus de grenadine",
+      "Décorer avec 1 tranche de citron et d'orange et une cerise rouge"
+    ],
+    "notes": "Pour adulte : grossir la recette. Se congèle très bien, se garde 3 mois. La recette peut être convertie. On peut changer la grenadine par d'autres sirops et aux pêches ou à la menthe non alcoolisée."
+  },
+  {
+    "id": 207,
+    "numberLabel": "Recette nº 207",
+    "title": "Thé à la Mangue",
+    "ingredients": [
+      "6 Tasses d'eau chaude",
+      "6 sachets de thé noir",
+      "2 tasses de nectar de mangue",
+      "un peu de sucre"
+    ],
+    "steps": [
+      "Laisser refroidir",
+      "Réfrigérer"
+    ],
+    "notes": null
+  },
+  {
+    "id": 3,
+    "numberLabel": "Recette nº 3",
+    "title": "Brioche Nanterre",
+    "ingredients": [
+      "500 g de farine",
+      "10 g de sel",
+      "60 g de sucre",
+      "20 g de levure",
+      "6 œufs",
+      "250 g de beurre",
+      "un peu de lait"
+    ],
+    "steps": [
+      "Délayer la levure dans un peu de lait tiède.",
+      "Mettre la farine, le sel, le sucre, les œufs et la levure délayée dans un saladier.",
+      "Pétrir pendant 10 minutes.",
+      "Incorporer le beurre mou petit à petit.",
+      "Continuer à pétrir jusqu'à ce que la pâte se décolle des bords.",
+      "Laisser lever 1 heure dans un endroit tiède.",
+      "Dégazer la pâte et la mettre au frigo toute une nuit.",
+      "Former des boules et les mettre dans des moules à cake.",
+      "Laisser lever à nouveau 2 heures.",
+      "dorer au jaune d'œuf",
+      "Enfourner à 180° (th. 6) pendant 20 à 25 min."
+    ],
+    "notes": null
+  },
+  {
+    "id": 34,
+    "numberLabel": "Recette nº 34",
+    "title": "Pain aux herbes",
+    "ingredients": [
+      "1 pain français tranché épais",
+      "1/2 T beurre mou",
+      "1/2 c. à thé de paprika",
+      "marjolaine et romarin",
+      "2 c. à soupe persil frais"
+    ],
+    "steps": [
+      "Mêler ensemble",
+      "Beurrer les tranches",
+      "Reconstituer le pain",
+      "Recouvrir de papier aluminium cuire à 350°F 10 à 15 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 37,
+    "numberLabel": "Recette nº 37",
+    "title": "Miche de pain fourré (fantastique) (Top Recette)",
+    "ingredients": [
+      "2 Tasse de crème sure",
+      "2 Tasses de mayonnaise Hellman légère",
+      "1 enveloppe patate aux poireaux Knorr",
+      "1 paquet épinard frais ébouillanté - égoutté - haché fin",
+      "échalote vertes"
+    ],
+    "steps": [
+      "Préparer le pain : enlever la calotte et le milieu du pain rond, garder un rebord de 1 po tout le tour.",
+      "Préparer la trempette : mélanger 2 tasses de crème sure, 2 tasses de mayonnaise Hellman légère, 1 enveloppe de patate aux poireaux Knorr, 1 paquet d'épinard frais ébouillanté, égoutté et haché fin, et des échalotes vertes.",
+      "Laisser la trempette reposer au moins 1 heure et demie à l'avance (idéalement la veille).",
+      "Juste avant de servir, mettre la trempette dans le pain préparé.",
+      "Servir : les gens coupent le pain tout autour pour tremper dans la trempette ou trempent des légumes (piment, radis, concombre, champignon, céleri, carotte)."
+    ],
+    "notes": null
+  },
+  {
+    "id": 38,
+    "numberLabel": "Recette nº 38",
+    "title": "Spectaculaire à l'œil et délicieux",
+    "ingredients": [
+      "1 pain blanc à sandwich de 14 pouces de longueur non coupé (à couper en 5 tranches)",
+      "3 paquets de 8 onces de Fromage Philadelphia",
+      "1/2 tasse de Miracle Whip fouettée",
+      "margarine",
+      "fromage à la crème ramolli",
+      "Miracle Whip (pour glacer)",
+      "Tomate",
+      "carottes",
+      "radis",
+      "grains de maïs",
+      "persil",
+      "ciboulette",
+      "échalote",
+      "1 1/2 tasse de jambon cuit haché",
+      "1/3 tasse de cornichons hachés fin",
+      "1/2 tasse de Miracle Whip",
+      "1 c. à table de moutarde",
+      "1 boîte de saumon (7 3/4 onces)",
+      "1/3 tasse d'olives noires tranchées",
+      "1/4 tasse de sauce à salade Miracle Whip",
+      "6 œufs cuits durs hachés"
+    ],
+    "steps": [
+      "Préparer les garnitures en mélangeant délicatement les ingrédients.",
+      "Enlever la croûte du pain.",
+      "Couper le pain en 5 tranches dans le sens de la longueur.",
+      "Sur chaque tranche, étaler de la margarine et une des garnitures.",
+      "Superposer les tranches.",
+      "Réfrigérer.",
+      "Bien mélanger le fromage à la crème ramolli et le Miracle Whip.",
+      "Glacer le sandwich avec ce mélange.",
+      "Décorer avec des tomates, carottes, radis, grains de maïs, persil et ciboulette, en faisant des fleurs (tiges d'échalote, feuilles de persil, fleurs avec les légumes).",
+      "Préparer la garniture de jambon : mélanger 1 1/2 tasse de jambon cuit haché, 1/3 tasse de cornichons hachés fin, 1/2 tasse de Miracle Whip et 1 c. à table de moutarde.",
+      "Préparer la garniture au saumon : mélanger le saumon égoutté et déchiqueté, 1/3 tasse d'olives noires tranchées et 1/4 tasse de sauce à salade Miracle Whip.",
+      "Préparer la garniture aux œufs : mélanger 6 œufs cuits durs hachés."
+    ],
+    "notes": null
+  },
+  {
+    "id": 42,
+    "numberLabel": "Recette nº 42",
+    "title": "Pâte à Pizza Maison à Maman",
+    "ingredients": [
+      "1 enveloppe de Levure",
+      "1 T eau Tiède",
+      "1 cà thé sucre",
+      "1/4 Tasse d'huile",
+      "1 cà thé sel",
+      "1 œuf",
+      "3 Tasses farine"
+    ],
+    "steps": [
+      "Dissoudre le sucre dans l'eau Tiède",
+      "Saupoudrer la levure sur l'eau",
+      "Reposer 10 min",
+      "Dans un bol, mélanger 1/4 Tasse d'huile et 1 cà thé de sel",
+      "Ajouter 1 œuf",
+      "Brasser ensemble",
+      "Ajouter 3 Tasses de farine",
+      "Pétrir la pâte 10 min",
+      "Reposer 10 min",
+      "Puis pétrir à nouveau"
+    ],
+    "notes": null
+  },
+  {
+    "id": 85,
+    "numberLabel": "Recette nº 85",
+    "title": "Couronne de Jambon Novicky",
+    "ingredients": [
+      "1 Pâte croissant Pillsbury",
+      "1 Tasse jambon en cube (4oz de jambon à sandwich)",
+      "1 T brocoli cuit haché",
+      "1 T carotte cuite en cube",
+      "1 Tasse de Fromage Brick râpé",
+      "1 c à soupe moutarde",
+      "2 c à soupe mayonnaise",
+      "2 c à soupe oignon haché",
+      "2 c à soupe persil haché",
+      "1 c à soupe margarine",
+      "1 c à soupe jus citron"
+    ],
+    "steps": [
+      "Mêler le Tout",
+      "Beurrer un moule rond à gâteau",
+      "Mettre les croissants parties larges dans l'assiette - Laisser dépasser les pointes",
+      "Ajouter le mélange",
+      "Rabattre les pointes sur le dessus",
+      "Cuire à 350°F jusqu'à doré"
+    ],
+    "notes": null
+  },
+  {
+    "id": 119,
+    "numberLabel": "Recette nº 119",
+    "title": "L'Érable Tante Claudette",
+    "ingredients": [
+      "1 1/2 T sirop érable",
+      "2 T eau",
+      "2 1/4 T farine",
+      "4 c à thé poudre à pâte",
+      "2 c à table sucre",
+      "1 c à thé sel",
+      "1/4 T beurre",
+      "1/4 T eau",
+      "plus 3/4 T lait"
+    ],
+    "steps": [
+      "Laisser sur feu jusqu'à très chaud.",
+      "Faire des boules de la grosseur d'une balle de golf",
+      "Mettre dans le sirop pas graisse",
+      "cuillère à Table (grosseur de balle de golf)",
+      "Couvrir - Baisser le feu à moyen",
+      "15 min sans lever le couvercle",
+      "Servir chaud."
+    ],
+    "notes": null
+  },
+  {
+    "id": 208,
+    "numberLabel": "Recette nº 208",
+    "title": "Pain de ma soeur Francine Blanc",
+    "ingredients": [
+      "1 1/2 T eau tiède",
+      "4 tasses de farine",
+      "2 cà soupe de sucre",
+      "1 cà thé de sel",
+      "1 cà soupe de beurre",
+      "1 cà thé de levure"
+    ],
+    "steps": [
+      "cuire à machine à pain",
+      "cuit 3 heures 24"
+    ],
+    "notes": "En ordre - eau tiède - sel - sucre - beurre; pain moyen 3 livres; farine et levure en dernier"
+  },
+  {
+    "id": 210,
+    "numberLabel": "Recette nº 210",
+    "title": "Brioche (18) à ma sœur",
+    "ingredients": [
+      "1 1/2 T eau tiède",
+      "4 1/2 Tasse de farine",
+      "1 1/2 c à thé sel",
+      "1/3 T beurre ramolli",
+      "2 œufs",
+      "2 c à thé levure à pain"
+    ],
+    "steps": [
+      "Repos 30 min"
+    ],
+    "notes": null
+  },
+  {
+    "id": 211,
+    "numberLabel": "Recette nº 211",
+    "title": "Pain Blé Multigrain",
+    "ingredients": [
+      "1 1/4 Tasse eau tiède",
+      "Yogourt 1/3 Tasse",
+      "Beurre 3 c à Table",
+      "Cassonade 2 c à Table tassée",
+      "1 1/2 c à thé sel",
+      "2 T de farine blanche à pain",
+      "2 T de farine blé entier",
+      "Flocons de Céréales 7 grains 2 2/3 Tasse",
+      "Muesli 2 1/2 c à thé"
+    ],
+    "steps": [
+      "Mode Blé entier Méd - 2 livres"
+    ],
+    "notes": null
+  },
+  {
+    "id": 222,
+    "numberLabel": "Recette nº 222",
+    "title": "Pain croûté farci de viande",
+    "ingredients": [
+      "patate pilée cuite",
+      "bœuf haché cuit",
+      "oignon",
+      "champignons"
+    ],
+    "steps": [
+      "Revenir"
+    ],
+    "notes": "Spéciale comme présentation - Délicieux"
+  }
+]
