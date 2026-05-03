@@ -41,6 +41,139 @@
     return String(n).padStart(3, "0");
   }
 
+  // Format minutes (number) into French short form: 25 -> "25 min", 90 -> "1 h 30",
+  // 60 -> "1 h", 75 -> "1 h 15". Returns null for non-numbers.
+  function formatMinutes(n) {
+    if (typeof n !== "number" || !isFinite(n) || n <= 0) return null;
+    const h = Math.floor(n / 60);
+    const m = n % 60;
+    if (h === 0) return `${m} min`;
+    if (m === 0) return `${h} h`;
+    return `${h} h ${String(m).padStart(2, "0")}`;
+  }
+
+  // Storage key for "checked" ingredients persisted per-recipe in localStorage.
+  function checkedKey(recipeId) {
+    return `cdr.checked.${recipeId}`;
+  }
+  function loadChecked(recipeId) {
+    try {
+      const raw = localStorage.getItem(checkedKey(recipeId));
+      if (!raw) return new Set();
+      const arr = JSON.parse(raw);
+      return new Set(Array.isArray(arr) ? arr : []);
+    } catch (_) {
+      return new Set();
+    }
+  }
+  function saveChecked(recipeId, set) {
+    try {
+      localStorage.setItem(checkedKey(recipeId), JSON.stringify([...set]));
+    } catch (_) {
+      /* quota / private mode — silently ignore */
+    }
+  }
+
+  // ---------- category icons ----------
+  // Hand-drawn line-art SVGs, single-color (currentColor), 48x48 viewBox.
+  const CATEGORY_ICONS = {
+    "les-buffet-et-hors-d-oeuvres": `
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M5 34h38"/>
+        <path d="M9 34a15 15 0 0 1 30 0"/>
+        <circle cx="24" cy="14" r="2" fill="currentColor"/>
+        <path d="M24 16v3"/>
+        <circle cx="16" cy="22" r="1.5" fill="currentColor"/>
+        <circle cx="32" cy="22" r="1.5" fill="currentColor"/>
+      </svg>`,
+    "les-soupes": `
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M18 16c0-3 3-3 3-6s-3-3-3-6"/>
+        <path d="M24 18c0-3 3-3 3-6s-3-3-3-6"/>
+        <path d="M30 16c0-3 3-3 3-6s-3-3-3-6"/>
+        <path d="M7 24h34"/>
+        <path d="M9 24a15 15 0 0 0 30 0"/>
+      </svg>`,
+    "brunch-et-dejeuner": `
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M18 10c0-2 2-2 2-4s-2-2-2-4"/>
+        <path d="M24 10c0-2 2-2 2-4s-2-2-2-4"/>
+        <path d="M30 10c0-2 2-2 2-4s-2-2-2-4"/>
+        <path d="M8 18h26v12a8 8 0 0 1-8 8H16a8 8 0 0 1-8-8z"/>
+        <path d="M34 22h4a4 4 0 0 1 0 8h-4"/>
+        <path d="M6 42h32"/>
+      </svg>`,
+    "les-mets-principaux": `
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="24" cy="26" r="11"/>
+        <circle cx="24" cy="26" r="6"/>
+        <path d="M8 6v10a2 2 0 0 0 2 2v26"/>
+        <path d="M10 6v10"/>
+        <path d="M12 6v10a2 2 0 0 1-2 2"/>
+        <path d="M40 6c-2 0-3 4-3 8v6h3z"/>
+        <path d="M40 20v22"/>
+      </svg>`,
+    "biscuits": `
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="24" cy="24" r="16"/>
+        <circle cx="18" cy="18" r="1.6" fill="currentColor"/>
+        <circle cx="30" cy="20" r="1.6" fill="currentColor"/>
+        <circle cx="22" cy="29" r="1.6" fill="currentColor"/>
+        <circle cx="31" cy="30" r="1.6" fill="currentColor"/>
+        <circle cx="14" cy="26" r="1.6" fill="currentColor"/>
+      </svg>`,
+    "desserts": `
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M8 40 L24 12 L40 40 Z"/>
+        <path d="M14 28 q3 -3 6 0 t6 0 t6 0"/>
+        <circle cx="24" cy="9" r="2.2"/>
+        <path d="M24 7 q1 -3 4 -3"/>
+      </svg>`,
+    "tartes": `
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="24" cy="24" r="16"/>
+        <circle cx="24" cy="24" r="13" stroke-dasharray="2 2"/>
+        <path d="M11 24h26"/>
+        <path d="M24 11v26"/>
+        <path d="M14 14l20 20"/>
+        <path d="M34 14L14 34"/>
+      </svg>`,
+    "les-sauces": `
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M8 22h28l-3 12a4 4 0 0 1-4 3H15a4 4 0 0 1-4-3z"/>
+        <path d="M36 22l6-4-3 9"/>
+        <path d="M8 24c-3 0-3 6 0 6"/>
+        <path d="M40 14l2 -3"/>
+      </svg>`,
+    "les-epices": `
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M8 26h32"/>
+        <path d="M10 26a14 14 0 0 0 28 0"/>
+        <line x1="22" y1="28" x2="38" y2="8"/>
+        <circle cx="38" cy="8" r="3" fill="currentColor"/>
+        <circle cx="18" cy="34" r="1" fill="currentColor"/>
+        <circle cx="24" cy="36" r="1" fill="currentColor"/>
+        <circle cx="30" cy="34" r="1" fill="currentColor"/>
+      </svg>`,
+    "drinks": `
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M14 6h20l-2 14a8 8 0 0 1-16 0z"/>
+        <line x1="24" y1="28" x2="24" y2="40"/>
+        <line x1="14" y1="42" x2="34" y2="42"/>
+      </svg>`,
+  };
+
+  const DEFAULT_CATEGORY_ICON = `
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M8 40h32"/>
+      <path d="M12 40v-8a12 12 0 0 1 24 0v8"/>
+      <circle cx="24" cy="14" r="2" fill="currentColor"/>
+    </svg>`;
+
+  function categoryIcon(slug) {
+    return CATEGORY_ICONS[slug] || DEFAULT_CATEGORY_ICON;
+  }
+
   // ---------- data ----------
   let recipes = [];
   let categories = [];
@@ -176,6 +309,7 @@
                   <section class="toc-section">
                     <div class="toc-cat-head">
                       <a href="#/categorie/${encodeURIComponent(slug)}" class="toc-cat-link">
+                        <span class="toc-cat-icon">${categoryIcon(slug)}</span>
                         <h2 class="toc-cat-name">${escapeHtml(cat.name)}</h2>
                       </a>
                       <span class="toc-cat-count">${items.length} recettes</span>
@@ -235,6 +369,62 @@
     `;
   }
 
+  // Render the info strip (prep / cook / servings) below the recipe title.
+  // Each badge only renders if its value is present, so recipes with no
+  // metadata fall back gracefully to the original ornament-only header.
+  function renderInfoStrip(meta) {
+    if (!meta) return "";
+    const items = [];
+    const prep = formatMinutes(meta.prepMinutes);
+    const cook = formatMinutes(meta.cookMinutes);
+    const serv = typeof meta.servings === "number" ? meta.servings : null;
+    if (prep) items.push({ label: "Préparation", value: prep, icon: "knife" });
+    if (cook) items.push({ label: "Cuisson", value: cook, icon: "clock" });
+    if (serv !== null) {
+      items.push({
+        label: serv > 1 ? "Portions" : "Portion",
+        value: String(serv),
+        icon: "people",
+      });
+    }
+    if (items.length === 0) return "";
+    return `
+      <div class="info-strip" role="list">
+        ${items
+          .map(
+            (it) => `
+              <div class="info-badge" role="listitem">
+                ${INFO_ICONS[it.icon]}
+                <div class="info-text">
+                  <span class="info-label">${escapeHtml(it.label)}</span>
+                  <span class="info-value">${escapeHtml(it.value)}</span>
+                </div>
+              </div>
+            `,
+          )
+          .join("")}
+      </div>
+    `;
+  }
+
+  // Hand-drawn line-art icons matching the cahier aesthetic (24x24, currentColor).
+  const INFO_ICONS = {
+    clock: `<svg class="info-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="9"/>
+              <polyline points="12 7 12 12 15 14"/>
+            </svg>`,
+    knife: `<svg class="info-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M3 17l11-11a4 4 0 0 1 5.7 5.7L8.7 22.7a1 1 0 0 1-1.4 0L1.3 16.7a1 1 0 0 1 0-1.4z" transform="translate(1 -2)"/>
+              <line x1="13" y1="8" x2="18" y2="13"/>
+            </svg>`,
+    people: `<svg class="info-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M16 19v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/>
+              <circle cx="9" cy="7" r="3.2"/>
+              <path d="M22 19v-2a4 4 0 0 0-3-3.9"/>
+              <path d="M16 4.2a3.2 3.2 0 0 1 0 6.2"/>
+            </svg>`,
+  };
+
   function viewRecette(id) {
     const r = recipesById.get(id);
     if (!r) {
@@ -253,6 +443,7 @@
     const prev = idx > 0 ? recipes[idx - 1] : null;
     const next = idx < recipes.length - 1 ? recipes[idx + 1] : null;
     const cleanedNote = stripEmoji(r.notes);
+    const checkedSet = loadChecked(r.id);
 
     return `
       <section class="recipe-page">
@@ -275,6 +466,7 @@
               </svg>
               <div class="line"></div>
             </div>
+            ${renderInfoStrip(r.meta)}
           </div>
         </header>
 
@@ -288,16 +480,22 @@
                     <h2>Ingrédients</h2>
                     <span class="count">${(r.ingredients || []).length}</span>
                   </div>
-                  <ul class="ingredients-list">
+                  <ul class="ingredients-list" data-recipe-id="${r.id}">
                     ${(r.ingredients || [])
-                      .map(
-                        (it) => `
-                          <li>
-                            <span class="dot"></span>
+                      .map((it, i) => {
+                        const checked = checkedSet.has(i);
+                        return `
+                          <li class="${checked ? "is-checked" : ""}" data-ing-idx="${i}">
+                            <button type="button" class="ing-check" role="checkbox" aria-checked="${checked}" aria-label="Cocher l'ingrédient">
+                              <span class="dot"></span>
+                              <svg class="check" width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                                <polyline points="2 6 5 9 10 3"></polyline>
+                              </svg>
+                            </button>
                             <span class="text">${escapeHtml(it)}</span>
                           </li>
-                        `,
-                      )
+                        `;
+                      })
                       .join("")}
                   </ul>
                 </div>
@@ -383,7 +581,8 @@
               <circle cx="11" cy="11" r="8"></circle>
               <path d="M21 21l-4.3-4.3"></path>
             </svg>
-            <input id="search-input" class="search-input" type="search" placeholder="Rechercher une recette ou un ingrédient..." autofocus />
+            <input id="search-input" class="search-input" type="search" placeholder="Rechercher (ex. : carotte sel poivre)..." autofocus />
+            <span class="search-hint">Plusieurs mots = recettes contenant <strong>tous</strong> les termes</span>
           </div>
           <div id="search-results" class="search-results"></div>
         </div>
@@ -391,14 +590,30 @@
     `;
   }
 
+  function normalizeText(s) {
+    return String(s ?? "")
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[̀-ͯ]/g, "");
+  }
+
+  function parseSearchTerms(q) {
+    // Split on whitespace, commas, "+", and treat "et"/"and" as separators.
+    return normalizeText(q)
+      .split(/[\s,+]+/)
+      .map((t) => t.trim())
+      .filter((t) => t && t !== "et" && t !== "and");
+  }
+
   function searchRecipes(q) {
-    const term = q.trim().toLowerCase();
-    if (!term) return [];
+    const terms = parseSearchTerms(q);
+    if (terms.length === 0) return [];
     return recipes.filter((r) => {
-      if (r.title.toLowerCase().includes(term)) return true;
-      if ((r.ingredients || []).some((i) => i.toLowerCase().includes(term)))
-        return true;
-      return false;
+      const title = normalizeText(r.title);
+      const ingredients = (r.ingredients || []).map(normalizeText);
+      return terms.every(
+        (t) => title.includes(t) || ingredients.some((i) => i.includes(t)),
+      );
     });
   }
 
@@ -472,6 +687,32 @@
           clearTimeout(timer);
           const v = e.target.value;
           timer = setTimeout(() => renderSearchResults(v), 120);
+        });
+      }
+    }
+
+    // Recipe page: wire up checkable ingredients with localStorage persistence.
+    if (route.name === "recette") {
+      const list = $(".ingredients-list[data-recipe-id]", root);
+      if (list) {
+        const recipeId = parseInt(list.getAttribute("data-recipe-id"), 10);
+        list.addEventListener("click", (ev) => {
+          const btn = ev.target.closest(".ing-check");
+          if (!btn) return;
+          const li = btn.closest("li[data-ing-idx]");
+          if (!li) return;
+          const idx = parseInt(li.getAttribute("data-ing-idx"), 10);
+          const set = loadChecked(recipeId);
+          if (set.has(idx)) {
+            set.delete(idx);
+            li.classList.remove("is-checked");
+            btn.setAttribute("aria-checked", "false");
+          } else {
+            set.add(idx);
+            li.classList.add("is-checked");
+            btn.setAttribute("aria-checked", "true");
+          }
+          saveChecked(recipeId, set);
         });
       }
     }

@@ -14,7 +14,12 @@
     "steps": [
       "Mélanger tous les ingrédients dans un saladier et servir frais."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 2,
@@ -33,7 +38,12 @@
     "steps": [
       "Mêler tous les ingrédients"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 4,
@@ -54,7 +64,12 @@
       "Ajouter le céleri, les olives, l'échalote et la mayonnaise",
       "Mettre au réfrigérateur jusqu'à ce que froid"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 6,
@@ -74,7 +89,12 @@
       "Cuire 2 tasses de carottes en petites rondelles les cuire à l'eau ou 8 à 12 minutes au four micro-onde",
       "Mêler le Tout et servir refroidi (Se garde 3 Semaines)"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 7,
@@ -95,7 +115,12 @@
     "steps": [
       "Laver égoutter"
     ],
-    "notes": "pour 10 à 12 personnes Recette santé cette salade est miroité - spectaclaire et super délicieuse Cette quantité n'est pas une erreur."
+    "notes": "pour 10 à 12 personnes Recette santé cette salade est miroité - spectaclaire et super délicieuse Cette quantité n'est pas une erreur.",
+    "meta": {
+      "servings": 11,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 8,
@@ -113,7 +138,12 @@
     "steps": [
       "Mélanger tous les ingrédients dans un saladier pour préparer la salade."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 9,
@@ -132,7 +162,12 @@
       "Mêler carotte et raisins - Mêler le reste ensemble - Verser sur carotte",
       "refrigérer au moins 2 heures"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 125,
+      "prepMinutes": null
+    }
   },
   {
     "id": 10,
@@ -149,7 +184,12 @@
       "Bouillir lentement 10 min, puis retirer du feu, laisser reposer quelques minutes et enlever les épices.",
       "Ajouter la fleur de pétoncles et mijoter 2 min, puis égoutter le jus."
     ],
-    "notes": "Les pétoncles peuvent être préparés la veille."
+    "notes": "Les pétoncles peuvent être préparés la veille.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 12,
@@ -170,7 +210,12 @@
       "Faire vinaigrette 2 hrs à l'avance.",
       "Ajouter à la salade 1/2 heure avant de servir."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 13,
@@ -187,7 +232,12 @@
       "Couvrir de fromage râpé",
       "Cuire 5 min au four"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 15,
@@ -203,7 +253,12 @@
     "steps": [
       "Cuire au four garni 20 minutes à 350°F"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 16,
@@ -234,7 +289,12 @@
       "Ajouter 4 demi-tranches de concombre et parmesan d'origan vert (échalote).",
       "Verser la vinaigrette et servir."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 35,
@@ -259,7 +319,12 @@
       "Se congèle très bien - P.S. On peut faire plusieurs petits plats et congelé",
       "Variante : Au lieu des crevettes on peut ajouter imitation de crabe (sea leg)"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 39,
@@ -286,7 +351,12 @@
       "Laisser prendre au réfrigérateur",
       "(Pour démouler passer le moule en dessous de l'eau Tiède)"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 40,
@@ -308,7 +378,12 @@
       "Mettre au four 15 min à 350° F",
       "Servir tiède sur biscottes ou pain"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 41,
@@ -329,7 +404,12 @@
       "Remettre le brie au four 5 minutes supplémentaires.",
       "Servir avec un pain baguette."
     ],
-    "notes": "À préparer 48 heures d'avance au réfrigérateur."
+    "notes": "À préparer 48 heures d'avance au réfrigérateur.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 45,
@@ -348,7 +428,12 @@
     "steps": [
       "Mélanger tous les ingrédients et servir."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 63,
@@ -371,7 +456,12 @@
       "Réfrigérer",
       "Couvrir lorsqu'il est froid"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 91,
@@ -408,7 +498,12 @@
       "Baisser le feu & mijoter 10 min",
       "Servir chaud ou froid"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 94,
@@ -435,7 +530,12 @@
       "Ajouter les autres ingrédients",
       "Bien mêler"
     ],
-    "notes": "P.S On peut substituer au poulet du jambon - des crevettes ou du homard"
+    "notes": "P.S On peut substituer au poulet du jambon - des crevettes ou du homard",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 98,
@@ -455,7 +555,12 @@
       "Cuire à 350°F pendant 1 heure sans la sauce, en arrosant souvent de sauce.",
       "Dorer sous le gril (broil) quelques minutes."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 360,
+      "prepMinutes": null
+    }
   },
   {
     "id": 101,
@@ -482,7 +587,12 @@
       "Rabattre les pointes dans le moule",
       "Cuire à 350°F jusqu'à ce que ce soit doré."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 104,
@@ -506,7 +616,12 @@
       "Enlever un peu de mie dans chaque pain pour libérer de l'espace pour la farce",
       "Farcir de mélange - Refermer avec la croûte"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 180,
@@ -523,7 +638,12 @@
       "Pots Stérilisé - Betterave cuite",
       "Vinaigre chaud - Empoter."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 181,
@@ -554,7 +674,12 @@
       "Sceller.",
       "Donne environ 3 chopines."
     ],
-    "notes": "(Recette fantastique et délicieuse)"
+    "notes": "(Recette fantastique et délicieuse)",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 180,
+      "prepMinutes": null
+    }
   },
   {
     "id": 17,
@@ -575,7 +700,12 @@
       "Déposer le toast et la mozzarella sur la soupe.",
       "Mettre sous le gril jusqu'à ce que le fromage soit doré."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 18,
@@ -592,7 +722,12 @@
     "steps": [
       "Aucune étape de préparation spécifiée."
     ],
-    "notes": "Au lieu de l'eau 8T de bouillon poulet maison c'est meilleure"
+    "notes": "Au lieu de l'eau 8T de bouillon poulet maison c'est meilleure",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 19,
@@ -609,7 +744,12 @@
       "Ajouter au liquide un peu de concentré de poulet (environ 4 c. à thé).",
       "Ajouter un peu de marjolaine et de menthe, ainsi qu'un peu de crème. Servir."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 20,
@@ -632,7 +772,12 @@
       "Ajouter 3 tasses de bouillon de poulet et 2 tasses de lait.",
       "Ajouter 1/4 c. à thé de muscade, 1 tasse de poulet en dés, du sel, du persil, et 1/4 tasse de crème 35% en fin de cuisson."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 21,
@@ -649,7 +794,12 @@
     "steps": [
       "Mijoter 1 h 1/2 environ"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 22,
@@ -675,7 +825,12 @@
       "Ensuite ajouter 3 carottes",
       "Cuire 30 minutes de plus."
     ],
-    "notes": "C'est une bonne soupe repas"
+    "notes": "C'est une bonne soupe repas",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 23,
@@ -691,7 +846,12 @@
     "steps": [
       "Aucune étape de préparation spécifiée."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 24,
@@ -716,7 +876,12 @@
       "Assaisonner.",
       "Cuire 45 minutes (pour 6 personnes)."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": 6,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 25,
@@ -738,7 +903,12 @@
       "Épaissir avec farine et beurre",
       "Servir"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 26,
@@ -758,7 +928,12 @@
       "épaissir si désiré",
       "ou ajouter crème pour plus velouté"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 27,
@@ -779,7 +954,12 @@
       "Laisser mijoter 1 1/2 h à 2 heures",
       "couler et ajouter 1 c à table de concentré de poulet en poudre"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 28,
@@ -797,7 +977,12 @@
     "steps": [
       "Préparer les ingrédients."
     ],
-    "notes": "Instructions de cuisson non fournies dans le texte original."
+    "notes": "Instructions de cuisson non fournies dans le texte original.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 29,
@@ -829,7 +1014,12 @@
       "Servir garni d'une pincée de persil, ou varier avec un peu d'échalote ou de morceaux de concombre frais.",
       "Peut se servir chaud ou froid, mais meilleur chaud."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 30,
@@ -850,7 +1040,12 @@
       "Mijoter 20 à 25 min.",
       "Passer au blender."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 25,
+      "prepMinutes": null
+    }
   },
   {
     "id": 31,
@@ -867,7 +1062,12 @@
       "Ajouter les ingrédients.",
       "Mijoter - Couvert 1 heure."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 32,
@@ -887,7 +1087,12 @@
       "Revenir oignon et légumes hachés dans beurre.",
       "Ajouter liquide."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 33,
@@ -907,7 +1112,12 @@
       "Fondre beurre, ajouter farine puis crème, ensuite purée d'artichaut, laisser cuire 5 min",
       "Servir chaud avec pain aux herbes"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 202,
@@ -933,7 +1143,12 @@
       "Verser dans des bols, ajouter une tranche de pain et du gruyère.",
       "Passer sous le gril du four quelques minutes."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 200,
@@ -953,7 +1168,12 @@
       "Ajouter le beurre fondu et le sel,",
       "Laisser reposer 1 heure."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 5,
@@ -973,7 +1193,12 @@
       "Échalote - sel poivre",
       "mayonnaise Helman au goût"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 14,
@@ -989,7 +1214,12 @@
       "Entourer de bacon",
       "Four 375° F, 8 à 10 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 36,
@@ -1012,7 +1242,12 @@
       "P.S. l'idéal est de cuire ceci dans poêle de fonte et je la fais cuire 1/2 hr.",
       "Se congèle très bien"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 43,
@@ -1028,7 +1263,12 @@
       "Déposer sur la pâte non cuite la sauce à pizza - poivrons piment vert - champignons - fromage mozzarella",
       "Cuire 400 °F 20 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 46,
@@ -1043,7 +1283,12 @@
       "Brasser avec fourchette ou au fouet les œufs et ajouter la béchamel.",
       "plat beurré rectangulaire ou corning ware 350 F jusqu'à doré à peu près 30 à 45 min."
     ],
-    "notes": "Ne pas faire à la Mijotte"
+    "notes": "Ne pas faire à la Mijotte",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 48,
@@ -1068,7 +1313,12 @@
       "Incorporer les fruits de mer coupés en petits morceaux, farcir de pommes de terre pelées, ajouter les coquilles Saint-Jacques et saupoudrer le tout de paprika",
       "Cuire au four à 350°F jusqu'à ce que le plat soit doré"
     ],
-    "notes": "1. On peut réduire pour petite omelette à 1 Tasse béchamel - 6 œufs - 1/2 c à thé comble p à pâte - Même Température plat carré -\n2. Réduire béchamel à 1 T lait - 1 c à table B & farine\nles presses aussi dans une passoire et je pèse dessus - en plus de les essuyer.\nFaites chauffer le lait y ajouter beurre et farine (doit faire une béchamel assez épaisse) -\nEnsuite des fruits de mer coupés en petits morceaux on farci de pomme de terre pelée le Tous des coquilles St Jacques et au milieu les fruits de mer saupoudrer de paprika - Cuire au four à 350°F jusqu'à doré"
+    "notes": "1. On peut réduire pour petite omelette à 1 Tasse béchamel - 6 œufs - 1/2 c à thé comble p à pâte - Même Température plat carré -\n2. Réduire béchamel à 1 T lait - 1 c à table B & farine\nles presses aussi dans une passoire et je pèse dessus - en plus de les essuyer.\nFaites chauffer le lait y ajouter beurre et farine (doit faire une béchamel assez épaisse) -\nEnsuite des fruits de mer coupés en petits morceaux on farci de pomme de terre pelée le Tous des coquilles St Jacques et au milieu les fruits de mer saupoudrer de paprika - Cuire au four à 350°F jusqu'à doré",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 50,
@@ -1091,7 +1341,12 @@
       "Couper les saucisses en moitié",
       "Chauffer dans la sauce pendant 20 minutes."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 51,
@@ -1115,7 +1370,12 @@
       "Mêler les 9 premiers ingrédients en 6 croquettes",
       "Faire brunir dans l'huile très chaude"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 52,
@@ -1132,7 +1392,12 @@
       "Couvrir - Cuire 45 min - Découvrir et cuire encore 5 à 10 min -",
       "Décorer de persil"
     ],
-    "notes": "recette de sauce espagnole"
+    "notes": "recette de sauce espagnole",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 54,
@@ -1153,7 +1418,12 @@
       "Verser sur la viande",
       "Couvrir jusqu'à ce que la viande soit tendre dans un papier aluminium"
     ],
-    "notes": "Recette d'école lorsque j'avais 14 ans"
+    "notes": "Recette d'école lorsque j'avais 14 ans",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 55,
@@ -1180,7 +1450,12 @@
       "Vérifier souvent ajouter peu à peu le jus des pois au besoin",
       "Servir avec des pois chauds et des patates gelées"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 56,
@@ -1202,7 +1477,12 @@
       "Ajouter le Brandy",
       "Verser la sauce sur le steak"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 57,
@@ -1222,7 +1502,12 @@
       "Jus d'ananas : laisser bouillir, ajouter les raisins. Placer le jambon dans un plat allant au four, verser le sirop, cuire à 350°F pendant 1 heure.",
       "Pour servir, décorer avec des tranches d'ananas."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 58,
@@ -1248,7 +1533,12 @@
       "Dans cette sauce, ajouter les légumes, les oignons, le poulet, l'assaisonnement, et mélanger délicatement.",
       "Cuire à 350°F pendant 40 minutes jusqu'à ce que ce soit doré."
     ],
-    "notes": "Donne environ 3 pâtés aux poulets qu'on peut congeler (Ne pas changer)"
+    "notes": "Donne environ 3 pâtés aux poulets qu'on peut congeler (Ne pas changer)",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 40,
+      "prepMinutes": null
+    }
   },
   {
     "id": 59,
@@ -1284,7 +1574,12 @@
       "Cuire à 400 F 45 min",
       "Servir avec Sauce aux légumes 1/8 épaisse avec fécule de Maïs délayé dans un peu d'eau ou Sauce brune"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 60,
@@ -1311,7 +1606,12 @@
       "Sauter champignons dans beurre",
       "Ajouter à la fin de la cuisson avec un peu de persil - Se congèle bien"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 61,
@@ -1334,7 +1634,12 @@
       "Déposer dans la poêle ensuite un peu de moutarde forte de Dijon - De la crème 35% - Du consommé lié avec beurre et farine (qu'on appelle beurre manié)",
       "Ajouter 1 noix de beurre - Servir"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 62,
@@ -1361,7 +1666,12 @@
       "Ajouter le Vin blanc",
       "Cuire partiellement couvert 10 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 64,
@@ -1389,7 +1699,12 @@
       "Mélanger les champignons ajoutés à la crème de champignon",
       "Ajouter le lait"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 65,
@@ -1419,7 +1734,12 @@
       "Cuire à 375° F ou 190 C pendant 20 min",
       "Découvrir - Cuire encore 10 min de plus (Servir chaud)"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 66,
@@ -1454,7 +1774,12 @@
       "Y ajouter pois mijoter 10 min",
       "Retirer feuille de laurier"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 90,
+      "prepMinutes": null
+    }
   },
   {
     "id": 67,
@@ -1489,7 +1814,12 @@
       "Goûter et rectifier l'assaisonnement.",
       "Servir avec de la purée de pommes de terre et des légumes vapeur."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 180,
+      "prepMinutes": null
+    }
   },
   {
     "id": 68,
@@ -1518,7 +1848,12 @@
       "Pour une cuisson bien cuite, prolonger la cuisson.",
       "Servir avec de la purée de pommes de terre, du riz ou des pommes de terre en robe des champs."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 69,
@@ -1548,7 +1883,12 @@
       "Ajouter épices",
       "Cuire à 350° F pendant 1 heure ou jusqu'à ce que très tendre"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 70,
@@ -1572,7 +1912,12 @@
       "Ajouter 3 c à s de farine - 1/2 T de crème sure - Mijoter à couvert 15 min",
       "Servir avec riz ou nouilles."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 71,
@@ -1601,7 +1946,12 @@
       "Mijoter 5 min",
       "Servir sur riz bouilli"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 72,
@@ -1625,7 +1975,12 @@
       "Ensuite l'autre dessus de pâte",
       "Cuire jusqu'à ce que doré comme une tarte"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 73,
@@ -1664,7 +2019,12 @@
       "Ensuite chapelure",
       "Chauffer l'huile - Saisir côtelettes des 2 côtés"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 75,
@@ -1684,7 +2044,12 @@
     "steps": [
       "Aucune instruction de préparation fournie."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 76,
@@ -1703,7 +2068,12 @@
       "Couvrir.",
       "Cuire à 350° pendant 2 heures ou jusqu'à ce qu'elle soit bien tendre."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 77,
@@ -1724,7 +2094,12 @@
       "Si au cours de cuisson moins de sauce, rajouter encore un peu de jus Tomate et crème Tomate",
       "Cuire à 350° F Environ 50 min"
     ],
-    "notes": "Pour humecter."
+    "notes": "Pour humecter.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 50,
+      "prepMinutes": null
+    }
   },
   {
     "id": 78,
@@ -1743,7 +2118,12 @@
       "Ajouter la boîte de crème de maïs et mélanger.",
       "Servir le mélange avec de la patate pilée (purée de pommes de terre)."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 82,
@@ -1760,7 +2140,12 @@
       "Préchauffer le four à 400°F.",
       "Enfourner la pizza pendant 10 à 15 minutes ou jusqu'à ce qu'elle soit dorée."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 83,
@@ -1783,7 +2168,12 @@
       "Cuire au four avec couvercle à 350°F",
       "Laisser cuire 2 à 3 heures jusqu'à ce que le bœuf soit cuit"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 180,
+      "prepMinutes": null
+    }
   },
   {
     "id": 84,
@@ -1806,7 +2196,12 @@
       "Envelopper le poulet dans du papier aluminium",
       "Cuire à 350°F pendant 1h30 ou jusqu'à cuisson"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 90,
+      "prepMinutes": null
+    }
   },
   {
     "id": 86,
@@ -1826,7 +2221,12 @@
       "Battre 1 œuf et 1/4 tasse de lait.",
       "Tremper le poulet dans ce mélange avant d'enrober de la chapelure que l'on prépare elle aussi dans un sac de plastique."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 89,
@@ -1852,7 +2252,12 @@
       "Incorporer la sauce soya et un peu de bouillon",
       "Mijoter 30 à 45 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 90,
@@ -1870,7 +2275,12 @@
     "steps": [
       "Mélanger tous les ingrédients et cuire à feu moyen jusqu'à ce que le bœuf soit bien cuit."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 92,
@@ -1889,7 +2299,12 @@
       "Ajouter les fromages, l'ail et le persil à la chair de saucisse.",
       "Bien mélanger."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 93,
@@ -1917,7 +2332,12 @@
       "Placer au four cette fois-ci à 400°F pour bien gratiner le fromage.",
       "Servir avec des nouilles moyennes (et des frites)."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 40,
+      "prepMinutes": null
+    }
   },
   {
     "id": 96,
@@ -1956,7 +2376,12 @@
       "Cuire à 350° F 20 min.",
       "Servir avec Sauce aux poivres."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 97,
@@ -1978,7 +2403,12 @@
       "Amener les ingrédients de la sauce à ébullition",
       "Recouvrir les côtes"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 99,
@@ -1995,7 +2425,12 @@
       "Cuire à 350°F jusqu'à cuisson complète.",
       "Environ 1 heure 1/2 ou un peu plus selon l'épaisseur des poitrines."
     ],
-    "notes": "J'ai déjà oublié l'eau et c'était très bon mais plus épais meilleur sans eau."
+    "notes": "J'ai déjà oublié l'eau et c'était très bon mais plus épais meilleur sans eau.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 102,
@@ -2026,7 +2461,12 @@
       "Sel, poivre des 2 côtés",
       "Dans le fond ajouter le reste du beurre avec légumes, oignon, champignon, céleri"
     ],
-    "notes": "Se sert avec fettuccine ou Riz ou Patate pilée"
+    "notes": "Se sert avec fettuccine ou Riz ou Patate pilée",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 90,
+      "prepMinutes": null
+    }
   },
   {
     "id": 103,
@@ -2056,7 +2496,12 @@
       "Servir avec quartier de citron.",
       "Accompagner d'une salade."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 203,
@@ -2081,7 +2526,12 @@
       "Verser la crème.",
       "Cuire au four à 180°C pendant 1 heure."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 209,
@@ -2101,7 +2551,12 @@
       "Laisser reposer 15 min à la Sortie",
       "Four 425° jusqu'à cuit"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 213,
@@ -2121,7 +2576,12 @@
       "Mettre au four sur tôle avec rebord à 375° 25 à 30 min.",
       "Ajouter à n'importe quelle sauce préférée."
     ],
-    "notes": "Ma meilleure recette de boulettes. À ne pas changer très tendre. (Se congèle très bien réchauffer dans la sauce 15 min). Chapelure italienne meilleure dans cette recette."
+    "notes": "Ma meilleure recette de boulettes. À ne pas changer très tendre. (Se congèle très bien réchauffer dans la sauce 15 min). Chapelure italienne meilleure dans cette recette.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 214,
@@ -2145,7 +2605,12 @@
       "Four 400 F 20 min avec 1 bte crème Tomate et du jus de Tomate 1 boite",
       "On peut mettre sur chaque piment 1 tranche de fromage Kraft"
     ],
-    "notes": "persil-sel"
+    "notes": "persil-sel",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 215,
@@ -2166,7 +2631,12 @@
       "Verser sur côtelettes de Porc",
       "à 350° F 1 heure"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 65,
+      "prepMinutes": null
+    }
   },
   {
     "id": 216,
@@ -2190,7 +2660,12 @@
       "Arroser de sauce",
       "Cuire à 350°F 15 à 20 min pour steak saignant ou plus pour steak médium"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 217,
@@ -2218,7 +2693,12 @@
       "Les fruits de mer doivent être égouttés à la perfection pas d'eau dedans",
       "essuyer les bien"
     ],
-    "notes": "c'est le secret de réussite - J-"
+    "notes": "c'est le secret de réussite - J-",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 218,
@@ -2241,7 +2721,12 @@
       "Couvrir de papier aluminium.",
       "Cuire 1 heure à 350° F."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 221,
@@ -2262,7 +2747,12 @@
       "Cuire 1 heure 1/2 à 350° avec 3 tranches de bacon sur le dessus",
       "Servir avec une bonne sauce brune"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 105,
@@ -2291,7 +2781,12 @@
       "Enfoncer de nouveau la cavité et remplir de confiture ou gelée.",
       "Recouvrir de meringue et dorer."
     ],
-    "notes": "Meringue = - 1 blanc d'œuf - 4 c à table de sucre - quelques gouttes essence vanille ou amande - 2 c à table amandes broyées (facultatif)"
+    "notes": "Meringue = - 1 blanc d'œuf - 4 c à table de sucre - quelques gouttes essence vanille ou amande - 2 c à table amandes broyées (facultatif)",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 106,
@@ -2319,7 +2814,12 @@
       "Recouvrir de 1 c à thé de pâte pour cacher la confiture.",
       "Cuire au four à 375°F 12 à 15 min."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 107,
@@ -2341,7 +2841,12 @@
       "Dresser par cuillerée sur tôle graissée.",
       "Cuire 375°F."
     ],
-    "notes": "Ils doivent gonfler comme des biscuits au beurre jusqu'à doré légèrement."
+    "notes": "Ils doivent gonfler comme des biscuits au beurre jusqu'à doré légèrement.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 109,
@@ -2364,7 +2869,12 @@
       "Cuire à 375°F 8 à 10 min.",
       "Décorer au goût"
     ],
-    "notes": "Même procédé que biscuit précédent. il n'y a pas de lait."
+    "notes": "Même procédé que biscuit précédent. il n'y a pas de lait.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 111,
@@ -2394,7 +2904,12 @@
       "Déposer par cuillerée sur tôles graissées en espaçant de 2 po.",
       "Cuire à 350°F pendant 20 minutes ou jusqu'à ce que doré."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 112,
@@ -2421,7 +2936,12 @@
       "Cuire 350 °F 12 à 15 min",
       "Mêler très bien et glacer les biscuits lorsqu'encore Tiède."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 113,
@@ -2444,7 +2964,12 @@
       "Couper en tranche et cuire au four 350 °F 10 à 12 min.",
       "Avant de cuire on peut mettre une cerise comme garniture ou dans le mélange si désiré ajouter des noix hachées"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 114,
@@ -2464,7 +2989,12 @@
       "Poser à la douille gros comme un 25¢ sur tôle à biscuits et garnir de cerise et de noix.",
       "Four 350°F jusqu'à doré."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 115,
@@ -2489,7 +3019,12 @@
       "Cuire 12 à 15 min.",
       "Donne 36 à 42 biscuits."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": 42,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 116,
@@ -2509,7 +3044,12 @@
       "Farine avec p à pâte - essence orange",
       "350° F 12 à 15 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 117,
@@ -2532,7 +3072,12 @@
       "Ecraser avec une fourchette le mélange",
       "Four 350 12 à 15 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 80,
@@ -2552,7 +3097,12 @@
       "Mettre dans un moule beurré.",
       "Cuire à four moyen."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 81,
@@ -2573,7 +3123,12 @@
       "Incorporer les pommes.",
       "Cuire 40 min à 180°."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 40,
+      "prepMinutes": null
+    }
   },
   {
     "id": 110,
@@ -2595,7 +3150,12 @@
       "Laisser refroidir",
       "Rouler dans du coconut"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 118,
@@ -2623,7 +3183,12 @@
       "Cuire à 375°F pendant 30 à 35 minutes.",
       "Servir chaud ou froid."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 35,
+      "prepMinutes": null
+    }
   },
   {
     "id": 120,
@@ -2644,7 +3209,12 @@
       "40 min",
       "Faire à la mijoteuse"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 40,
+      "prepMinutes": null
+    }
   },
   {
     "id": 121,
@@ -2673,7 +3243,12 @@
       "Cuire au four 350° F 50 à 60 min",
       "Garnir de glace à la cassonade lorsque gâteau froid"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 123,
@@ -2691,7 +3266,12 @@
       "Remuer jusqu'à consistance lisse et laisser refroidir 1/2 Tasse de cacao et 3/4 T eau bouillante",
       "Tamiser ensemble 1 T farine - 3 c à thé poudre à pâte - 1 c à thé de sel - 2/3 Tasse sucre -"
     ],
-    "notes": "mon meilleur gâteau chocolat"
+    "notes": "mon meilleur gâteau chocolat",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 124,
@@ -2710,7 +3290,12 @@
       "Fondre le beurre dans le lait",
       "Cuis. à 350°F 35 à 40 min ou plus selon votre moule"
     ],
-    "notes": "(Très gros gâteau)"
+    "notes": "(Très gros gâteau)",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 40,
+      "prepMinutes": null
+    }
   },
   {
     "id": 125,
@@ -2729,7 +3314,12 @@
     "steps": [
       "Four 375°F jusqu'à doré"
     ],
-    "notes": "Meilleur Gâteau Jeannette, Mon premier gâteau de jeunesse, il est délicieux Recette simple !"
+    "notes": "Meilleur Gâteau Jeannette, Mon premier gâteau de jeunesse, il est délicieux Recette simple !",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 126,
@@ -2756,7 +3346,12 @@
       "Ajouter le beurre fondu et déposer sur le gâteau.",
       "Cuire à 375° f pendant 30 à 35 min."
     ],
-    "notes": "(spécial pour collation)"
+    "notes": "(spécial pour collation)",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 35,
+      "prepMinutes": null
+    }
   },
   {
     "id": 127,
@@ -2781,7 +3376,12 @@
     "steps": [
       "350°F 40 à 45 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 128,
@@ -2800,7 +3400,12 @@
     "steps": [
       "Cuire 350°F - 30 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 129,
@@ -2819,7 +3424,12 @@
     "steps": [
       "350°F 35 min ou jusqu'à cuit"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 35,
+      "prepMinutes": null
+    }
   },
   {
     "id": 130,
@@ -2838,7 +3448,12 @@
       "Ajouter avec 2 cuillères sur papier ciré.",
       "Réfrigérer (24 morceaux)."
     ],
-    "notes": "N.B. Plus de Rice Krispies moins d'Arachide c'est meilleur."
+    "notes": "N.B. Plus de Rice Krispies moins d'Arachide c'est meilleur.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 131,
@@ -2865,7 +3480,12 @@
       "Ajouter le reste",
       "Étendre sur pâte et cuire jusqu'à doré."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 132,
@@ -2890,7 +3510,12 @@
       "Presser le tout & placer dans le micro-onde 7 à 9 min à Max",
       "Si Micro-Onde plus de 800 de puissance 7 min Suffit"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 133,
@@ -2911,7 +3536,12 @@
       "Étendre dans une lèchefrite",
       "Cuire à 350°F 10 à 15 min"
     ],
-    "notes": "bien; 2e préparation"
+    "notes": "bien; 2e préparation",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 135,
@@ -2956,7 +3586,12 @@
       "Glacer le roulé.",
       "Servir avec de la crème fouettée."
     ],
-    "notes": "Glaçage : Un beau glaçage au chocolat maison avec sucre glace, un peu de lait et cacao. On peut faire aussi le gâteau avec de la confiture et on saupoudre de sucre glace avec une passoire ça fait un roulé aux fraises ou framboise vite fait pour la visite inattendue ou un dessert de tous les jours. C'est délicieux."
+    "notes": "Glaçage : Un beau glaçage au chocolat maison avec sucre glace, un peu de lait et cacao. On peut faire aussi le gâteau avec de la confiture et on saupoudre de sucre glace avec une passoire ça fait un roulé aux fraises ou framboise vite fait pour la visite inattendue ou un dessert de tous les jours. C'est délicieux.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 136,
@@ -2985,7 +3620,12 @@
       "Disposer les tranches de pâte coupées les unes à côté des autres dans le moule sur le sirop.",
       "Cuire au four à 350°F jusqu'à ce que le dessus soit doré."
     ],
-    "notes": "(fantastique)"
+    "notes": "(fantastique)",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 137,
@@ -3010,7 +3650,12 @@
       "Mettre dans de l'huile très chaude mais non fumante",
       "Lorsque le beigne remonte à la surface laisser dorer le dessus et retourner"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 138,
@@ -3037,7 +3682,12 @@
       "Étaler la meringue sur le dessus de la pâte.",
       "Cuire au four à 325°F pendant 40 à 45 minutes."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 139,
@@ -3061,7 +3711,12 @@
       "Mettre dans un bol - 4 œufs battus - 3/4 tasse d'huile - 1/2 tasse d'ananas broyés",
       "Mêler le premier mélange au 2e mélange et cuire au four à 350° F 1 heure"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 140,
@@ -3084,7 +3739,12 @@
       "Meler tous les ingredients ensemble sauf blanc d'œuf en neige à incorporer à la spatule au 1er mélange.",
       "Temps de cuisson 45 min à 350° F."
     ],
-    "notes": "Donne un gâteau couleur Rouge - Vin."
+    "notes": "Donne un gâteau couleur Rouge - Vin.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 141,
@@ -3109,7 +3769,12 @@
       "Verser dans 2 moules de 9 x 5",
       "Cuire à 350°F pendant 1 heure, donne 2 gâteaux"
     ],
-    "notes": "Se congèle très bien"
+    "notes": "Se congèle très bien",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 142,
@@ -3141,7 +3806,12 @@
       "Refroidir",
       "Saupoudrer de sucre à glacer"
     ],
-    "notes": "P.S Se congèle Très bien"
+    "notes": "P.S Se congèle Très bien",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 143,
@@ -3162,7 +3832,12 @@
       "Finir par 1 rang de crème fouettée, décorer avec des fraises",
       "Réfrigérer 3 heures avant servir"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 180,
+      "prepMinutes": null
+    }
   },
   {
     "id": 144,
@@ -3187,7 +3862,12 @@
       "Retirer du feu",
       "Verser sur gâteau chaud"
     ],
-    "notes": "Voir Gâteau Marsem à la Salade de fruits de Madelaine"
+    "notes": "Voir Gâteau Marsem à la Salade de fruits de Madelaine",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 145,
@@ -3212,7 +3892,12 @@
       "Couper lorsque tiède.",
       "Refroidir."
     ],
-    "notes": "(délicieux dessert) genre biscuit"
+    "notes": "(délicieux dessert) genre biscuit",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 146,
@@ -3236,7 +3921,12 @@
       "Déposer par cuillerée très petites sur une Tole graissée.",
       "Cuire à 375° F à 10 min."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 147,
@@ -3257,7 +3947,12 @@
       "ajouter sur les pommes",
       "cuire à 350°F 35 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 35,
+      "prepMinutes": null
+    }
   },
   {
     "id": 149,
@@ -3276,7 +3971,12 @@
       "Refroidir.",
       "Congeler dans des sacs à congeler et garder tout l'année."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 150,
@@ -3300,7 +4000,12 @@
       "ajouter le lait - vanille",
       "Mêler fraises et sucre ensemble - Ajouter pâte par dessus et cuire"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 50,
+      "prepMinutes": null
+    }
   },
   {
     "id": 151,
@@ -3321,7 +4026,12 @@
       "finir par 1 rang de crème fouettée et de cœur de gelée fraise",
       "Réfrigérer 3 heures avant de servir"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 180,
+      "prepMinutes": null
+    }
   },
   {
     "id": 152,
@@ -3351,7 +4061,12 @@
       "Assembler les 2 gâteaux avec de la crème fouettée aromatisée avec de la vanille.",
       "Garnir d'une glace au chocolat."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 153,
@@ -3371,7 +4086,12 @@
       "Ajouter l'autre tasse de sucre en poudre et la vanille, puis battre jusqu'à lisse.",
       "Garnir le gâteau. Réfrigérer."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 154,
@@ -3399,7 +4119,12 @@
       "Étendre un linge à vaisselle humide sur le gâteau et le démouler en le roulant.",
       "Le dérouler et le laisser refroidir avant d'y ajouter la garniture."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 155,
@@ -3416,7 +4141,12 @@
       "Étendre sur le gâteau une partie et le rouler.",
       "Avec le reste de garniture, ajouter du cacao et 1 cà thé de café avec une cuillerée d'eau pour en faire un glaçage moka. Glacer le gâteau."
     ],
-    "notes": "L'idée de faire ce glaçage avec un gros KitchenAid au lieu d'une petite batteuse."
+    "notes": "L'idée de faire ce glaçage avec un gros KitchenAid au lieu d'une petite batteuse.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 156,
@@ -3441,7 +4171,12 @@
       "Saupoudrer des noix, diviser dans les 2 moules.",
       "Cuire à 350°F jusqu'à doré. Vérifier avec cure-dent."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 157,
@@ -3457,7 +4192,12 @@
     "steps": [
       "Cuire bain-marie jusqu'à épaississement."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 158,
@@ -3479,7 +4219,12 @@
       "Mêler les 4 premiers ingrédients en miettes et faire cuire dans un plat en pyrex 9x13 pendant 20 minutes. Laisser refroidir.",
       "Mêler le fromage Philadelphia avec le sucre en poudre et la moitié de la crème fouettée (cela donne 2 tasses)."
     ],
-    "notes": "Recette americaine ramenée du Texas par une amie après l'avoir fait vous comprendrez que c'est comparable au ...."
+    "notes": "Recette americaine ramenée du Texas par une amie après l'avoir fait vous comprendrez que c'est comparable au ....",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 159,
@@ -3499,7 +4244,12 @@
       "Préparer 2 moules ronds de 9 po avec papier ciré.",
       "Cuire au four pendant 30 à 35 minutes à 350°F."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 35,
+      "prepMinutes": null
+    }
   },
   {
     "id": 191,
@@ -3520,7 +4270,12 @@
       "Verser dans moule carré beurré de pyrex",
       "Réfrigérer couper en morceaux"
     ],
-    "notes": "P.S. ce sont les carrés avec mini-guimauve et beurre d'arachide"
+    "notes": "P.S. ce sont les carrés avec mini-guimauve et beurre d'arachide",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 192,
@@ -3537,7 +4292,12 @@
       "Tôle beurrée - 375°F",
       "15 minutes"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 193,
@@ -3561,7 +4321,12 @@
       "Moule 8x8 carré beurré cuire à 325°F 20 min",
       "Au sortir du four - Couvrir de guimauves garnir de sucre préparé"
     ],
-    "notes": "C'est un gâteau avec une rangée de guimauves fondues et du sucre à crème sur le dessus qu'on coupe en carrés."
+    "notes": "C'est un gâteau avec une rangée de guimauves fondues et du sucre à crème sur le dessus qu'on coupe en carrés.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 194,
@@ -3588,7 +4353,12 @@
       "Refroidir.",
       "Couper en carrés."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 195,
@@ -3604,7 +4374,12 @@
       "On garde le 1/4 qui reste pour le dessus.",
       "On cuit dans un moule Pyrex chemisé à 350° F 25 minutes."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 25,
+      "prepMinutes": null
+    }
   },
   {
     "id": 212,
@@ -3622,7 +4397,12 @@
     "steps": [
       "Blancs montés en neige c'est à dire à la mixette jusqu'à mousseux et ferme"
     ],
-    "notes": "4 grosses gaufres (doubler pour 8). Cette pâte se garde 3 jours avec saran wrap dessus."
+    "notes": "4 grosses gaufres (doubler pour 8). Cette pâte se garde 3 jours avec saran wrap dessus.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 235,
@@ -3639,7 +4419,12 @@
       "Retirer du micro-ondes, ajouter le sucre en poudre et battre au malaxeur.",
       "C'est très important pour ne pas avoir de grumeaux, mettre dans un plat carré de pyrex beurré."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 236,
@@ -3654,7 +4439,12 @@
     "steps": [
       "Tapisser un moule carré de pyrex de papier parchemin en laissant dépasser le papier de 14"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 88,
@@ -3680,7 +4470,12 @@
       "Enfourner jusqu'à ce que le dessus soit doré.",
       "Servir avec de la sauce béchamel, des œufs cuits durs ou du ketchup."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 108,
@@ -3701,7 +4496,12 @@
       "cuire 350 à 375 °F surveiller jusqu’à légèrement doré",
       "Disposez les encore chaud l'un sur l'autre en les soudant avec de la gelée ou de la confiture ou marmelade au choix"
     ],
-    "notes": "Ne pas avoir peur d’enfariner votre planche et le rouleau pour empêcher de coller."
+    "notes": "Ne pas avoir peur d’enfariner votre planche et le rouleau pour empêcher de coller.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 134,
@@ -3726,7 +4526,12 @@
       "Étendre sur les fruits",
       "Refroidir avec Saran Wrap 2 h au réfrigérateur"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 148,
@@ -3751,7 +4556,12 @@
       "Ensuite ajouter le reste de pâte par dessus",
       "cuire à 350° F 35 à 40 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 40,
+      "prepMinutes": null
+    }
   },
   {
     "id": 160,
@@ -3778,7 +4588,12 @@
       "Je coupe ma pâte en petite boule.",
       "Je roule sans peser sur le rouleau à pâte et je fais des morceaux de pâte."
     ],
-    "notes": "Ma pâte à tarte donne 3 à 4 tartes doubles."
+    "notes": "Ma pâte à tarte donne 3 à 4 tartes doubles.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 161,
@@ -3796,7 +4611,12 @@
       "Jeter sur la rhubarbe, ajouter la pâte sur le dessus.",
       "Cuire à 425°F pendant 10 minutes, puis à 350°F pendant 20 minutes."
     ],
-    "notes": "Préféré de Frédéric"
+    "notes": "Préféré de Frédéric",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 162,
@@ -3817,7 +4637,12 @@
       "Ajouter à une croûte à tarte cuite.",
       "Recouvrir d'une meringue et retourner au four pour faire dorer."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 163,
@@ -3833,7 +4658,12 @@
       "Napper les fraises.",
       "Laisser prendre au réfrigérateur."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 164,
@@ -3856,7 +4686,12 @@
       "Mettre dans pâte à tarte non cuite.",
       "Recouvrir de dessus pâte cuire à 425°F 30 à 45 min."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 165,
@@ -3875,7 +4710,12 @@
       "Refroidir.",
       "Mettre dans une croûte cuite."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 166,
@@ -3895,7 +4735,12 @@
       "Ajouter gros comme un œuf de beurre.",
       "Tiédir mettre dans croûte cuite."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 167,
@@ -3911,7 +4756,12 @@
     "steps": [
       "Four 425° 15 min puis baisser à 350°F 50 à 60 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 168,
@@ -3927,7 +4777,12 @@
       "Refroidir.",
       "Mettre dans croûte à tarte double et cuire jusqu’à doré."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 169,
@@ -3946,7 +4801,12 @@
       "Refroidir - verser dans l'abaisse",
       "Cuire 425°F 20 min ou jusqu'à pâte cuite"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 170,
@@ -3969,7 +4829,12 @@
       "Mettre dans 2 croûtes à tarte double.",
       "Cuire jusqu'à doré."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 171,
@@ -3988,7 +4853,12 @@
       "Verser dans croûte non cuite et recouvrir d'une autre abaisse",
       "Four 400°F 20 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 172,
@@ -4013,7 +4883,12 @@
       "Laisser refroidir légèrement - Verser dans croûte à tarte préparée avec le corn flakes - Couvrir avec les blancs d'œufs battus en neige -",
       "Saupoudrer de flocons de maïs émietté Dorer au four."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 173,
@@ -4034,7 +4909,12 @@
       "Refroidir.",
       "Au moment de servir, couvrir de crème fouettée et de fraises fraîches."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 174,
@@ -4052,7 +4932,12 @@
       "Vider dans croûte.",
       "Mettre au réfrigérateur jusqu'à ce que pris."
     ],
-    "notes": "de jello (c'est-à-dire pas de vrai four)"
+    "notes": "de jello (c'est-à-dire pas de vrai four)",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 175,
@@ -4072,7 +4957,12 @@
       "Verser dans une croûte à tarte non cuite. Ne pas couvrir.",
       "Cuire à 375°F 40 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 40,
+      "prepMinutes": null
+    }
   },
   {
     "id": 176,
@@ -4091,7 +4981,12 @@
       "Ajouter la farine et les épices, puis disposer des morceaux de beurre sur le dessus de la tarte.",
       "Cuire la tarte avec une pâte double à 400°F pendant 45 minutes."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 177,
@@ -4111,7 +5006,12 @@
       "Couvrir d'une autre abaisse.",
       "Cuire au four à 350°F pendant 40 minutes."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 40,
+      "prepMinutes": null
+    }
   },
   {
     "id": 178,
@@ -4136,7 +5036,12 @@
       "Mettre dans une croûte à tarte cuite.",
       "Ajouter une meringue d'œufs et cuire jusqu'à ce que le dessus soit doré."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 11,
@@ -4158,7 +5063,12 @@
       "couper 1 salade romaine (3 tasses)",
       "Ajouter les germs et la Vinaigrette."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 44,
@@ -4176,7 +5086,12 @@
     "steps": [
       "Mélanger tous les ingrédients dans un bol jusqu'à obtenir une sauce homogène."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 47,
@@ -4191,7 +5106,12 @@
       "Fondre beurre ajouter farine ensuite 2 Tasses de lait - Brasser au fouet",
       "Refroidir avant de faire omelette au four."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 49,
@@ -4214,7 +5134,12 @@
       "Tamiser et ajouter l'eau bouillante.",
       "Cela enlève l'apparence huileuse; ajouter un peu de cayenne."
     ],
-    "notes": "Pour faire fondre Cheddar: voir bouillon fondu cheddar dans les soupes et potages"
+    "notes": "Pour faire fondre Cheddar: voir bouillon fondu cheddar dans les soupes et potages",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 53,
@@ -4237,7 +5162,12 @@
       "Couvrir - Mijoter 30 min",
       "Retirer clou & laurier"
     ],
-    "notes": "Cette sauce est bonne aussi pour Pain de Viande - Hamburg. Omelette espagnole ou poisson frit de mon école"
+    "notes": "Cette sauce est bonne aussi pour Pain de Viande - Hamburg. Omelette espagnole ou poisson frit de mon école",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 79,
@@ -4257,7 +5187,12 @@
     "steps": [
       "Mélanger le bouillon de poulet en poudre, l'eau bouillante, le lait, la moutarde en poudre, la farine, le sucre, le vinaigre blanc, le sel et la graine de céleri pour obtenir la sauce moutarde."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 100,
@@ -4272,7 +5207,12 @@
       "Brasser au fouet jusqu'à ce que la sauce soit très épaisse.",
       "Refroidir par la suite"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 122,
@@ -4293,7 +5233,12 @@
       "Incorporer sucre à glacer.",
       "S'il devient trop épais chauffer légèrement."
     ],
-    "notes": "glace gâteau Rapidement -"
+    "notes": "glace gâteau Rapidement -",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 179,
@@ -4324,7 +5269,12 @@
       "Refroidir un peu.",
       "Mettre dans des pots stérilisés."
     ],
-    "notes": "Ça épaissit un peu en refroidissant. P.S Les pots doivent être chaud le Ketchup tiède pour bien réussir"
+    "notes": "Ça épaissit un peu en refroidissant. P.S Les pots doivent être chaud le Ketchup tiède pour bien réussir",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 183,
@@ -4341,7 +5291,12 @@
     "steps": [
       "Ajouter 1 Tasse de jus de légumes (V8)"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 184,
@@ -4357,7 +5312,12 @@
     "steps": [
       "Mêler au fouet"
     ],
-    "notes": "cette sauce est idéale pour badigeonner le poulet sans peau avant de cuire au four."
+    "notes": "cette sauce est idéale pour badigeonner le poulet sans peau avant de cuire au four.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 185,
@@ -4370,7 +5330,12 @@
     "steps": [
       "ajouter"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 186,
@@ -4396,7 +5361,12 @@
       "Ajouter les autres ingrédients.",
       "Couvrir et mijoter 20 minutes."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 187,
@@ -4418,7 +5388,12 @@
     "steps": [
       "Mélanger et faire bouillir 5 minutes. (Pour badigeonner les côtes levées)"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 188,
@@ -4439,7 +5414,12 @@
       "Ajouter la demi-glace et laisser à feu doux pendant 5 minutes.",
       "Assaisonner au goût, puis hors du feu ajouter la moutarde et brasser avec un fouet."
     ],
-    "notes": "Se sert avec du porc et de la volaille."
+    "notes": "Se sert avec du porc et de la volaille.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 189,
@@ -4462,7 +5442,12 @@
       "Ajouter muscade",
       "Servir chaud avec gâteau maison ou crème glacée"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 190,
@@ -4486,7 +5471,12 @@
       "Chauffer 3 à 5 min de plus",
       "Remuer à 1 min 1/2 de chaque côté"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 219,
@@ -4504,7 +5494,12 @@
     "steps": [
       "Couper fèves germées finement et ajouter aux autres ingrédients."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 220,
@@ -4539,7 +5534,12 @@
       "Cuire 25 à 27 min à 70 % et non à High Certains micro-ondes c'est puissance 7 brasser 3 à 4 fois durant cuisson.",
       "Laisser reposer 10 min avant de servir."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 223,
@@ -4558,7 +5558,12 @@
       "Incorporer jus citron.",
       "Servir tiède ou froid."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 224,
@@ -4576,7 +5581,12 @@
       "Bouillir 1 min.",
       "Servir chaud."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 225,
@@ -4592,7 +5602,12 @@
       "Remuer à chaque min.",
       "Si Trop épais ajouter du lait pour obtenir consistance désirée."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 226,
@@ -4617,7 +5632,12 @@
       "Incorporer les fruits.",
       "On peut préparer sauce à l'avance puis réchauffer avant d'ajouter les fruits."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 227,
@@ -4634,7 +5654,12 @@
       "Ne pas laisser bouillir, sinon la crème risque de se séparer.",
       "Servir chaud ou tiède sur gâteau Pouding - crème glacée."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 228,
@@ -4660,7 +5685,12 @@
       "Ajouter Vanille",
       "Servir chaud."
     ],
-    "notes": "Donne 1 1/2 Tasse."
+    "notes": "Donne 1 1/2 Tasse.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 229,
@@ -4679,7 +5709,12 @@
       "Ajouter beurre",
       "Servir chaud"
     ],
-    "notes": "(Donne 1 1/2 T)"
+    "notes": "(Donne 1 1/2 T)",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 230,
@@ -4695,7 +5730,12 @@
     "steps": [
       "Couvrir cuire 3 à 4 min à High"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 231,
@@ -4708,7 +5748,12 @@
     "steps": [
       "Cuire à Médium 2 à 3 min pour crème glacée au chocolat"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 232,
@@ -4730,7 +5775,12 @@
       "Cuire à feu vif pendant 5 à 7 minutes.",
       "Brasser au bout de 3 minutes et ajouter les cerises."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 233,
@@ -4744,7 +5794,12 @@
       "Mettre les ingrédients dans un plat allant au micro-ondes.",
       "Cuire à puissance moyenne pendant 2 à 3 minutes."
     ],
-    "notes": "Pour crème glacée et gâteau des anges."
+    "notes": "Pour crème glacée et gâteau des anges.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 234,
@@ -4764,7 +5819,12 @@
       "Ajouter l'eau jusqu'à épaississement.",
       "Brasser souvent."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 74,
@@ -4786,7 +5846,12 @@
     "steps": [
       "Garder la farine assaisonnée dans un plat de plastique au garde-manger."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 87,
@@ -4810,7 +5875,12 @@
       "Déposer les morceaux de poulet.",
       "Les retourner une fois."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 95,
@@ -4840,7 +5910,12 @@
       "Mettre à feu très doux pendant au moins 4 heures et brasser régulièrement pour éviter que ça colle au fond.",
       "Ou mettre au four à 300 F 2 heures avec couvercle, puis 1 heure sans couvercle."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 240,
+      "prepMinutes": null
+    }
   },
   {
     "id": 182,
@@ -4864,7 +5939,12 @@
       "Mettre dans pot mason stérilisé.",
       "Garder au réfrigérateur."
     ],
-    "notes": "Pour mettre dans la soupe - Dans des sauces - * Se conserve dans des pots stérilisés 2 ans au réfrigérateur. Donne 4 pots mason régulier. P.S. Attendre un mois avant de s'en servir."
+    "notes": "Pour mettre dans la soupe - Dans des sauces - * Se conserve dans des pots stérilisés 2 ans au réfrigérateur. Donne 4 pots mason régulier. P.S. Attendre un mois avant de s'en servir.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 196,
@@ -4888,7 +5968,12 @@
       "Mêler ensemble : 2 cà soupe (30ml) de flocons d'ail déshydratés, 3 cà soupe (45ml) de flocons d'oignon déshydratés, 2 cà soupe (30ml) de graines d'aneth, 1 cà soupe (15ml) de persil sec, 5 cà soupe (75ml) de sel de mer.",
       "Ajouter ce reste aux épices moulues et brasser ensemble."
     ],
-    "notes": "Donne 1 1/4 Tasse. Garder à l'abri de l'humidité."
+    "notes": "Donne 1 1/4 Tasse. Garder à l'abri de l'humidité.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 197,
@@ -4901,7 +5986,12 @@
     "steps": [
       "Réduire en poudre"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 198,
@@ -4919,7 +6009,12 @@
     "steps": [
       "Réduire en purée"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 199,
@@ -4932,7 +6027,12 @@
     "steps": [
       "Moudre au moulin"
     ],
-    "notes": "Utiliser des portions égales de chaque ingrédient."
+    "notes": "Utiliser des portions égales de chaque ingrédient.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 201,
@@ -4954,7 +6054,12 @@
       "Transférer dans de jolis pichets et ajouter des feuilles de menthe fraîche.",
       "Servir très frais avec des glaçons."
     ],
-    "notes": "Typiquement espagnol. Moitié 7up - moitié Vin Rouge. De même avec vin blanc ou Rosée."
+    "notes": "Typiquement espagnol. Moitié 7up - moitié Vin Rouge. De même avec vin blanc ou Rosée.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 204,
@@ -4973,7 +6078,12 @@
       "Remplir d'eau ou 7up ou soda",
       "Ajouter 2 minces tranches de citron"
     ],
-    "notes": "Pour Servir - feuille de menthe - glaçon - Sirop - citron"
+    "notes": "Pour Servir - feuille de menthe - glaçon - Sirop - citron",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 205,
@@ -4991,7 +6101,12 @@
     "steps": [
       "filtrer après quelques heures pour retirer le gingembre"
     ],
-    "notes": "Sauf Soda Tonique et glaçon au moment de servir"
+    "notes": "Sauf Soda Tonique et glaçon au moment de servir",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 206,
@@ -5014,7 +6129,12 @@
       "Ajouter 1/2 c à thé de jus de grenadine",
       "Décorer avec 1 tranche de citron et d'orange et une cerise rouge"
     ],
-    "notes": "Pour adulte : grossir la recette. Se congèle très bien, se garde 3 mois. La recette peut être convertie. On peut changer la grenadine par d'autres sirops et aux pêches ou à la menthe non alcoolisée."
+    "notes": "Pour adulte : grossir la recette. Se congèle très bien, se garde 3 mois. La recette peut être convertie. On peut changer la grenadine par d'autres sirops et aux pêches ou à la menthe non alcoolisée.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 207,
@@ -5030,7 +6150,12 @@
       "Laisser refroidir",
       "Réfrigérer"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 3,
@@ -5058,7 +6183,12 @@
       "dorer au jaune d'œuf",
       "Enfourner à 180° (th. 6) pendant 20 à 25 min."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 34,
@@ -5077,7 +6207,12 @@
       "Reconstituer le pain",
       "Recouvrir de papier aluminium cuire à 350°F 10 à 15 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 37,
@@ -5097,7 +6232,12 @@
       "Juste avant de servir, mettre la trempette dans le pain préparé.",
       "Servir : les gens coupent le pain tout autour pour tremper dans la trempette ou trempent des légumes (piment, radis, concombre, champignon, céleri, carotte)."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 38,
@@ -5140,7 +6280,12 @@
       "Préparer la garniture au saumon : mélanger le saumon égoutté et déchiqueté, 1/3 tasse d'olives noires tranchées et 1/4 tasse de sauce à salade Miracle Whip.",
       "Préparer la garniture aux œufs : mélanger 6 œufs cuits durs hachés."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 42,
@@ -5167,7 +6312,12 @@
       "Reposer 10 min",
       "Puis pétrir à nouveau"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 85,
@@ -5194,7 +6344,12 @@
       "Rabattre les pointes sur le dessus",
       "Cuire à 350°F jusqu'à doré"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 119,
@@ -5220,7 +6375,12 @@
       "15 min sans lever le couvercle",
       "Servir chaud."
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 208,
@@ -5238,7 +6398,12 @@
       "cuire à machine à pain",
       "cuit 3 heures 24"
     ],
-    "notes": "En ordre - eau tiède - sel - sucre - beurre; pain moyen 3 livres; farine et levure en dernier"
+    "notes": "En ordre - eau tiède - sel - sucre - beurre; pain moyen 3 livres; farine et levure en dernier",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 205,
+      "prepMinutes": null
+    }
   },
   {
     "id": 210,
@@ -5255,7 +6420,12 @@
     "steps": [
       "Repos 30 min"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 211,
@@ -5275,7 +6445,12 @@
     "steps": [
       "Mode Blé entier Méd - 2 livres"
     ],
-    "notes": null
+    "notes": null,
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 222,
@@ -5290,7 +6465,12 @@
     "steps": [
       "Revenir"
     ],
-    "notes": "Spéciale comme présentation - Délicieux"
+    "notes": "Spéciale comme présentation - Délicieux",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 237,
@@ -5314,7 +6494,12 @@
       "Mijoter environ 20 min, mixer (Mélangeur Kenta).",
       "Ajouter la crème un peu avant de servir, saler et poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101055.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101055.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 238,
@@ -5337,7 +6522,12 @@
       "Mijoter dans une casserole environ 20 min.",
       "Lorsque la soupe est prête, ajouter la crème (en réservant quelques palourdes), saler et poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101055.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSi la soupe est trop épaisse, ajouter un peu de bouillon avant de servir."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101055.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSi la soupe est trop épaisse, ajouter un peu de bouillon avant de servir.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 239,
@@ -5360,7 +6550,12 @@
       "Passer au mélangeur (blender).",
       "Ajouter la crème ou le lait au goût."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101123.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101123.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 240,
@@ -5382,7 +6577,12 @@
       "Ajouter les poires en dés, le bouillon et l'eau, mijoter 20 à 30 min.",
       "Mélanger au blender, ajouter le lait, saler et poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101123.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101123.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 241,
@@ -5406,7 +6606,12 @@
       "Ajouter le cheddar et la farine délayée, brasser pour éviter les grumeaux.",
       "Mixer si désiré, saler et poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101137.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101137.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 242,
@@ -5431,7 +6636,12 @@
       "Ajouter la moutarde, la cardamome, le sirop d'érable, sel et poivre.",
       "Passer au mélangeur (blender)."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101137.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101137.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 243,
@@ -5455,7 +6665,12 @@
       "Cuire à feu mijoté environ 1 h 30 à 2 h.",
       "Ajouter les nouilles vers la fin."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101151.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101151.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 244,
@@ -5480,7 +6695,12 @@
       "Mijoter jusqu'à cuisson complète (8 à 10 min).",
       "Ajuster avec de l'eau si nécessaire en fin de cuisson."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101151.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101151.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": 8,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 245,
@@ -5502,7 +6722,12 @@
       "Ajouter les fines herbes (basilic, persil).",
       "Mijoter longtemps (1 h+), saler et poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101205.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101205.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": 7,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 246,
@@ -5523,7 +6748,12 @@
       "Mijoter jusqu'à tendreté, ajouter le mais.",
       "Passer au mélangeur, sel et poivre."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101205.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101205.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 247,
@@ -5541,7 +6771,12 @@
       "Amener à ébullition, baisser et mijoter 1 h 30 à 2 h.",
       "Saler, poivrer, servir avec persil frais."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101205.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101205.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 248,
@@ -5563,7 +6798,12 @@
       "Cuire à feu doux pendant 2 heures.",
       "Ajouter les pâtes alimentaires 15 min avant la fin de cuisson."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101219.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101219.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 135,
+      "prepMinutes": null
+    }
   },
   {
     "id": 249,
@@ -5583,7 +6823,12 @@
       "Mijoter et chauffer, baisser et cuire à feu doux jusqu'à ce que le riz soit cuit.",
       "Ajouter le poulet en dés, sel et poivre."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101219.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101219.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 250,
@@ -5609,7 +6854,12 @@
       "Encore 15 min, passer au blender.",
       "Ajuster avec du bouillon si trop épais, servir avec des croûtons de pain."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101227.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101227.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 251,
@@ -5635,7 +6885,12 @@
       "Ajouter l'orge, mijoter 1 h 30 à 2 h.",
       "Saler, poivrer, ajouter cumin et persil avant de servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101227.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101227.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 252,
@@ -5661,7 +6916,12 @@
       "Faire un roux dans une cocotte, ajouter au mélange.",
       "Verser dans la soupe, ajouter le fromage, servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101237.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101237.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 253,
@@ -5681,7 +6941,12 @@
       "Couvrir d'eau, ajouter la pâte de tomate, la Marmite, l'orge et les fines herbes.",
       "Mijoter 1 h 30 à 2 h jusqu'à ce que le bœuf et l'orge soient tendres."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101237.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101237.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 254,
@@ -5702,7 +6967,12 @@
       "Mélanger, mijoter et faire fondre.",
       "Cuire environ 1 h, retirer la carcasse, ajuster, ajouter du bouillon si nécessaire."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101247.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101247.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 255,
@@ -5722,7 +6992,12 @@
       "Ajouter les tomates, mijoter 1 h.",
       "Saler, poivrer et servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101247.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101247.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 256,
@@ -5746,7 +7021,12 @@
       "Ajouter l'orge égoutté, le bouillon, mijoter 1 h.",
       "Saler, poivrer et servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101300.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nBonne soupe pour la congélation."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101300.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nBonne soupe pour la congélation.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 257,
@@ -5766,7 +7046,12 @@
       "Mijoter 30 min, retirer les feuilles de laurier.",
       "Servir avec croûtons et fromage gratiné au four."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101300.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101300.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 258,
@@ -5785,7 +7070,12 @@
       "Ajouter la viande de dinde restante, mijoter 1 h.",
       "Saler, poivrer et servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101300.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101300.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 259,
@@ -5821,7 +7111,12 @@
       "Mijoter longtemps avec fines herbes (laurier, thym, persil), sel et poivre.",
       "Servir avec pâté de farine si désiré."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101317.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101317.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 260,
@@ -5847,7 +7142,12 @@
       "Pour les boulettes, mélanger lait, œuf, beurre fondu, sel, poivre, puis incorporer farine et moelle.",
       "Déposer les boulettes par cuillerées dans la soupe bouillante, couvrir et cuire 15 min."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101327.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101327.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 261,
@@ -5867,7 +7167,12 @@
       "Ajouter le poulet et le jambon en morceaux.",
       "Mijoter, saler, poivrer. Ajouter le riz si désiré, mijoter jusqu'à cuisson."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101335.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101335.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 262,
@@ -5893,7 +7198,12 @@
       "Cuire 15 dernières minutes, écumer, retirer le poulet.",
       "Servir poulet et bouillon ensemble."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101335.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101335.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 90,
+      "prepMinutes": null
+    }
   },
   {
     "id": 263,
@@ -5918,7 +7228,12 @@
       "Ajouter le poisson et les crevettes, cuire 5 à 10 min.",
       "Saler, poivrer, ajouter jus de citron et bouquet garni."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101345.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101345.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 150,
+      "prepMinutes": null
+    }
   },
   {
     "id": 264,
@@ -5942,7 +7257,12 @@
       "Ajouter jambon en dés et céleri 2 min, saupoudrer de farine, cuire 2 min.",
       "Verser le lait, mijoter à feu doux jusqu'à ce que les pommes de terre soient tendres (10 à 12 min)."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101345.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101345.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 265,
@@ -5967,7 +7287,12 @@
       "Ajouter le poulet cuit, ajuster avec de l'eau si nécessaire.",
       "Cuire les vermicelles de riz à part, les couper en deux et les ajouter à la soupe au moment de servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101358.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101358.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 266,
@@ -5989,7 +7314,12 @@
       "Ajouter de l'eau, mijoter 20 min jusqu'à tendre.",
       "Passer au mélangeur, ajouter la crème, mijoter, sel et poivre."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101409.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101409.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 267,
@@ -6019,7 +7349,12 @@
       "Ajouter les fines herbes 10 min avant la fin.",
       "Ajouter orge, nouilles ou gnocchi de pomme de terre selon goût."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101409.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101409.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 268,
@@ -6046,7 +7381,12 @@
       "Mijoter 1 h, retirer la feuille de laurier.",
       "Passer au mélangeur, ajouter le fromage râpé, ajuster avec lait au goût."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101421.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101421.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 269,
@@ -6070,7 +7410,12 @@
       "Cuire à feu doux 2 h.",
       "Ajouter pâte alimentaire 15 min avant la fin."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101421.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101421.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 270,
@@ -6087,7 +7432,12 @@
       "Mijoter, saler et poivrer.",
       "Ajouter vermicelle vers la fin, cuire jusqu'à tendre."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 271,
@@ -6112,7 +7462,12 @@
       "Mijoter 40 min.",
       "Ajouter persil et crème vers la fin."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 40,
+      "prepMinutes": null
+    }
   },
   {
     "id": 272,
@@ -6131,7 +7486,12 @@
       "Ajouter le bouillon de bœuf, le vin rouge, le bouillon de poulet et le fenouil.",
       "Mijoter, garnir de feuilles de persil."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 273,
@@ -6153,7 +7513,12 @@
       "Ajouter les palourdes, les patates cuites et la crème.",
       "Saler, poivrer, servir avec biscuits soda émiettés."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 274,
@@ -6179,7 +7544,12 @@
       "Passer au blender, ajuster avec de l'eau si trop épais, ajouter la crème.",
       "Saler, poivrer, garnir d'un filet de crème et de ciboulette."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101441.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101441.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 275,
@@ -6199,7 +7569,12 @@
       "Ajouter farine, lait et fromage râpé.",
       "Saler, poivrer, ajouter basilic."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101441.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101441.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 276,
@@ -6230,7 +7605,12 @@
       "Ajouter crème et fromage cheddar fort.",
       "Ajouter ciboulette et le vinaigre Dijon avant de servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101448.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101448.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 277,
@@ -6251,7 +7631,12 @@
       "Mijoter jusqu'à tendre.",
       "Passer au blender, garnir et servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101459.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101459.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 278,
@@ -6283,7 +7668,12 @@
       "Ajouter les crevettes, cuire 5 min de plus.",
       "Garnir et servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101459.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101459.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 40,
+      "prepMinutes": null
+    }
   },
   {
     "id": 279,
@@ -6306,7 +7696,12 @@
       "Ajouter ail, basilic, pâte de tomate, sel et poivre.",
       "Mijoter 30 min, ajuster les assaisonnements."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101514.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101514.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 280,
@@ -6330,7 +7725,12 @@
       "Mijoter jusqu'à tendre, passer au mélangeur.",
       "Garnir de ciboulette."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101514.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101514.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 281,
@@ -6358,7 +7758,12 @@
       "Mijoter 30 min en remuant pour homogénéiser.",
       "Saler, poivrer, ajouter jus de citron au goût."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101521.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101521.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 282,
@@ -6376,7 +7781,12 @@
       "Ajouter le bouillon de poulet, porter à ébullition.",
       "Verser un œuf battu en filet, ajouter les nouilles fines, cuire 3 min."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101521.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101521.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 283,
@@ -6403,7 +7813,12 @@
       "Ajouter le lait, mijoter 10 min.",
       "Ajouter crème, ajuster sel et poivre, servir avec croûtons."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101529.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101529.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 284,
@@ -6426,7 +7841,12 @@
       "Ajouter le brocoli, le cheddar, mijoter.",
       "Saler, poivrer, servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101529.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101529.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 285,
@@ -6452,7 +7872,12 @@
       "Ajouter pesto, fromage à la crème, mijoter pour incorporer.",
       "Ajouter les tomates, saler et poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101536.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101536.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 286,
@@ -6477,7 +7902,12 @@
       "Ajouter pâte de tomate, sel et fines herbes au goût.",
       "Servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101536.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101536.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 287,
@@ -6502,7 +7932,12 @@
       "Ajouter jus de tomate et soupe oignon Lipton, mijoter encore 5 min.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101549.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101549.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 10,
+      "prepMinutes": null
+    }
   },
   {
     "id": 288,
@@ -6528,7 +7963,12 @@
       "Retirer la feuille de laurier, passer au blender.",
       "Ajouter la crème, saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101549.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101549.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 289,
@@ -6562,7 +8002,12 @@
       "Réduire (passer au mélangeur), ajouter sel et poivre.",
       "Servir avec croûtons ou morceaux de pain."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101556.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101556.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": 4,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 290,
@@ -6582,7 +8027,12 @@
       "Mijoter 1 h, retirer la carcasse, désosser.",
       "Remettre poulet et bouillon, ajouter vermicelle ou pâte alimentaire, cuire jusqu'à tendre."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101836.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101836.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 291,
@@ -6605,7 +8055,12 @@
       "Ajouter le poulet en dés, l'orge perlé, fenouil et basilic.",
       "Mijoter jusqu'à ce que l'orge soit cuit."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101836.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101836.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 292,
@@ -6624,7 +8079,12 @@
       "Ajouter lentilles, mijoter jusqu'à tendres.",
       "Saler, poivrer et servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101836.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101836.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 25,
+      "prepMinutes": null
+    }
   },
   {
     "id": 293,
@@ -6647,7 +8107,12 @@
       "Cuire jusqu'à ce que l'orge soit tendre.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101856.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101856.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 294,
@@ -6671,7 +8136,12 @@
       "Mijoter à couvert 30 min, passer au blender.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101856.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101856.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 295,
@@ -6689,7 +8159,12 @@
       "Cuire jusqu'à tendre, saler, poivrer.",
       "Ajouter basilic."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101856.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101856.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 296,
@@ -6716,7 +8191,12 @@
       "Passer au mélangeur, ajouter crème et sirop d'érable.",
       "Garnir de Sherry et de croûtons au cheddar fort doré."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101912.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101912.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 30,
+      "prepMinutes": null
+    }
   },
   {
     "id": 297,
@@ -6744,7 +8224,12 @@
       "Ajouter les gnocchi de pomme de terre, cuire jusqu'à ce qu'ils flottent.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101912.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101912.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": 4,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 298,
@@ -6765,7 +8250,12 @@
       "Mijoter 1 h 30, ajuster avec eau si trop épais.",
       "Ajouter mais sucré en fin de cuisson."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101925.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101925.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 90,
+      "prepMinutes": null
+    }
   },
   {
     "id": 299,
@@ -6785,7 +8275,12 @@
       "Ajouter vinaigre blanc, sel et poivre.",
       "Garnir de marjolaine ou persil avant de servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101925.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101925.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 300,
@@ -6801,7 +8296,12 @@
       "Mouiller, ajouter jus de citron, sel.",
       "Mijoter jusqu'à ce que le poulet soit tendre."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101925.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101925.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 301,
@@ -6825,7 +8325,12 @@
       "Ajouter beurre d'arachide en fin de cuisson.",
       "Servir avec riz blanc."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101950.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101950.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 45,
+      "prepMinutes": null
+    }
   },
   {
     "id": 302,
@@ -6848,7 +8353,12 @@
       "Ajouter légumes en dés et boulettes, mijoter 1 h.",
       "Ajouter pâtes 15 min avant la fin."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101950.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101950.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 60,
+      "prepMinutes": null
+    }
   },
   {
     "id": 303,
@@ -6867,7 +8377,12 @@
       "Cuire jusqu'à tendre, ajouter vermicelle vers la fin.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101950.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101950.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 304,
@@ -6886,7 +8401,12 @@
       "Ajouter le jambon, le laurier, sel et poivre.",
       "Mijoter 2 à 3 h jusqu'à ce que les pois soient bien fondus."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101958.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101958.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 180,
+      "prepMinutes": null
+    }
   },
   {
     "id": 305,
@@ -6907,7 +8427,12 @@
       "Ajouter carottes, pâte de tomate, thym.",
       "Ajouter nouilles cuites, persil frais."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101958.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101958.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 306,
@@ -6933,7 +8458,12 @@
       "Ajouter vinaigre, sucre, sel et sauce diluée à l'amidon.",
       "Mijoter, servir avec coriandre."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101958.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_101958.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 307,
@@ -6952,7 +8482,12 @@
       "Ajouter bouillon, poulet, vermicelle.",
       "Garnir de tortillas, fromage râpé, crème."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102010.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102010.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 308,
@@ -6980,7 +8515,12 @@
       "Mélanger avec lentilles cuites, mijoter 30 à 40 min.",
       "Ajouter crème fraîche en fin, sel et garam doré."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102010.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102010.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 40,
+      "prepMinutes": null
+    }
   },
   {
     "id": 309,
@@ -7007,7 +8547,12 @@
       "Ajouter lentilles vertes, cuire jusqu'à tendres.",
       "Servir avec jus de lime, sel et poivre."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102016.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102016.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 310,
@@ -7026,7 +8571,12 @@
       "Mijoter jusqu'à ce que la viande soit tendre.",
       "Ajouter jus de tomate, sel, poivre."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102033.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102033.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 311,
@@ -7047,7 +8597,12 @@
       "Ajouter bouillon et orge, mijoter jusqu'à tendre.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102033.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102033.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 312,
@@ -7075,7 +8630,12 @@
       "Mijoter 20 min, ajouter pistou, persil, sel, poivre.",
       "Servir avec parmesan râpé."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102043.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102043.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": 4,
+      "cookMinutes": 20,
+      "prepMinutes": null
+    }
   },
   {
     "id": 313,
@@ -7094,7 +8654,12 @@
       "Mouiller avec le bouillon, mijoter 1 à 2 h.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102043.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102043.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": 6,
+      "cookMinutes": 120,
+      "prepMinutes": null
+    }
   },
   {
     "id": 314,
@@ -7125,7 +8690,12 @@
       "Ajouter crevettes et persil, cuire 3 min.",
       "Servir."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102058.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102058.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": 4,
+      "cookMinutes": 15,
+      "prepMinutes": null
+    }
   },
   {
     "id": 315,
@@ -7152,7 +8722,12 @@
       "Mouiller avec bouillon, mijoter jusqu'à ramollir.",
       "Passer au blender, ajouter crème, sel, poivre."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102105.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102105.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 5,
+      "prepMinutes": null
+    }
   },
   {
     "id": 316,
@@ -7174,7 +8749,12 @@
       "Mijoter 2 à 3 h jusqu'à ce que les pois soient tendres.",
       "Ajouter cubes Lipton, ajuster sel et poivre."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102105.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs)."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102105.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
+    "meta": {
+      "servings": null,
+      "cookMinutes": 180,
+      "prepMinutes": null
+    }
   },
   {
     "id": 317,
@@ -7187,7 +8767,12 @@
     "steps": [
       "Voir l'image source pour la recette complète."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102140.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102140.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 318,
@@ -7199,7 +8784,12 @@
     "steps": [
       "Voir l'image source pour la recette complète."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102140.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102140.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 319,
@@ -7211,7 +8801,12 @@
     "steps": [
       "Voir l'image source pour la recette complète."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102213.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102213.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 320,
@@ -7228,7 +8823,12 @@
       "Mouiller avec bouillon, mijoter jusqu'à tendre.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102227.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102227.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": 4,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 321,
@@ -7244,7 +8844,12 @@
       "Ajouter pommes de terre, bouillon.",
       "Mijoter jusqu'à tendre, garnir de persil."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102243.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102243.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 322,
@@ -7256,7 +8861,12 @@
     "steps": [
       "Voir l'image source pour la recette complète."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102259.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102259.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 323,
@@ -7268,7 +8878,12 @@
     "steps": [
       "Voir l'image source pour la recette complète."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102305.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102305.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 324,
@@ -7284,7 +8899,12 @@
       "Ajouter fruits de mer, mijoter brièvement.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102319.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102319.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 325,
@@ -7296,7 +8916,12 @@
     "steps": [
       "Voir l'image source pour la recette complète."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102329.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102329.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 326,
@@ -7313,7 +8938,12 @@
       "Mijoter, ajouter riz ou nouilles vers la fin.",
       "Saler, poivrer, garnir de persil."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102341.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102341.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 327,
@@ -7329,7 +8959,12 @@
       "Ajouter vermicelle, cuire jusqu'à tendre.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102353.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102353.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 328,
@@ -7345,7 +8980,12 @@
       "Passer au mélangeur, ajouter crème.",
       "Servir avec parmesan râpé."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102404.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102404.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 329,
@@ -7361,7 +9001,12 @@
       "Passer au blender, ajouter crème.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102502.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102502.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 330,
@@ -7377,7 +9022,12 @@
       "Passer au blender, ajouter lait de coco.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102527.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102527.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 331,
@@ -7394,7 +9044,12 @@
       "Ajouter orge, mijoter jusqu'à tendre.",
       "Saler, poivrer, garnir de basilic."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102626.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102626.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 332,
@@ -7410,7 +9065,12 @@
       "Passer au blender, ajouter crème et lait.",
       "Saler, poivrer."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102705.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102705.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 333,
@@ -7423,7 +9083,12 @@
     "steps": [
       "Voir image source pour la recette complète."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102712.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102712.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   },
   {
     "id": 334,
@@ -7435,6 +9100,11 @@
     "steps": [
       "Voir image source pour la recette complète."
     ],
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102721.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile. Annotation: « délicieux à refaire »."
+    "notes": "Transcrit automatiquement depuis BOOK1/20260503_102721.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile. Annotation: « délicieux à refaire ».",
+    "meta": {
+      "servings": null,
+      "cookMinutes": null,
+      "prepMinutes": null
+    }
   }
 ]

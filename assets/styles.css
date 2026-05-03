@@ -284,6 +284,30 @@ button { font: inherit; cursor: pointer; border: none; background: none; color: 
 @media (min-width: 768px) {
   .toc-section .toc-cat-head { flex-direction: row; align-items: baseline; justify-content: space-between; }
 }
+.toc-cat-link {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  text-decoration: none;
+}
+.toc-cat-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  flex: 0 0 56px;
+  border-radius: 9999px;
+  background: hsl(33 55% 64% / .12);
+  color: var(--primary);
+  transition: background .2s, color .2s, transform .2s;
+}
+.toc-cat-icon svg { width: 32px; height: 32px; display: block; }
+.toc-cat-link:hover .toc-cat-icon {
+  background: hsl(33 55% 64% / .22);
+  color: var(--accent);
+  transform: scale(1.05);
+}
 .toc-cat-name {
   font-family: var(--serif);
   font-size: 1.5rem;
@@ -458,6 +482,50 @@ button { font: inherit; cursor: pointer; border: none; background: none; color: 
 .recipe-orn .line { height: 1px; max-width: 80px; flex: 1; background: hsl(33 55% 64% / .4); }
 .recipe-orn .star { color: var(--accent); }
 
+/* info strip — prep / cook / servings under the title */
+.info-strip {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem 2rem;
+  margin: 1.75rem auto 0;
+  padding: 1rem 1.25rem;
+  max-width: 640px;
+  border-top: 1px solid hsl(33 55% 64% / .25);
+  border-bottom: 1px solid hsl(33 55% 64% / .25);
+}
+.info-badge {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  color: var(--foreground);
+}
+.info-icon {
+  width: 22px;
+  height: 22px;
+  color: var(--accent);
+  flex-shrink: 0;
+}
+.info-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+}
+.info-label {
+  font-family: var(--sans);
+  font-size: 10.5px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--muted-foreground);
+}
+.info-value {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--foreground);
+  margin-top: 2px;
+}
+
 /* recipe content */
 .recipe-content {
   max-width: 1280px;
@@ -528,20 +596,57 @@ button { font: inherit; cursor: pointer; border: none; background: none; color: 
 }
 .ingredients-list li:last-child { border-bottom: none; }
 .ingredients-list li:hover { background: hsl(33 55% 64% / .05); }
-.ingredients-list .dot {
+.ingredients-list .ing-check {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  margin-top: 2px;
+  padding: 0;
+  border-radius: 9999px;
+  border: 1px solid hsl(33 55% 64% / .55);
+  background: transparent;
+  flex-shrink: 0;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background .15s, border-color .15s;
+}
+.ingredients-list .ing-check:hover { border-color: var(--accent); background: hsl(33 55% 64% / .1); }
+.ingredients-list .ing-check:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+.ingredients-list .ing-check .dot {
   width: 6px; height: 6px;
-  margin-top: 7px;
   border-radius: 9999px;
   background: hsl(33 55% 64% / .6);
-  flex-shrink: 0;
-  transition: background .2s;
+  transition: opacity .15s;
 }
-.ingredients-list li:hover .dot { background: var(--accent); }
+.ingredients-list .ing-check .check {
+  position: absolute;
+  color: var(--primary-foreground);
+  opacity: 0;
+  transition: opacity .15s;
+}
+.ingredients-list li.is-checked .ing-check {
+  background: var(--primary);
+  border-color: var(--primary);
+}
+.ingredients-list li.is-checked .ing-check .dot { opacity: 0; }
+.ingredients-list li.is-checked .ing-check .check { opacity: 1; }
 .ingredients-list .text {
   font-family: var(--italic);
   font-size: .95rem;
   line-height: 1.625;
   color: hsl(0 0% 17% / .85);
+  transition: color .2s, text-decoration-color .2s;
+}
+.ingredients-list li.is-checked .text {
+  color: hsl(0 0% 42%);
+  text-decoration: line-through;
+  text-decoration-color: hsl(33 55% 64% / .6);
+  text-decoration-thickness: 1px;
 }
 .cat-back {
   display: inline-flex;
@@ -741,6 +846,15 @@ button { font: inherit; cursor: pointer; border: none; background: none; color: 
   border-color: var(--primary);
   box-shadow: 0 0 0 4px hsl(0 74% 28% / .2);
 }
+.search-hint {
+  display: block;
+  margin: .75rem 1.25rem 0;
+  font-family: var(--italic);
+  font-size: .875rem;
+  color: var(--muted-foreground);
+  font-style: italic;
+}
+.search-hint strong { font-style: normal; color: var(--foreground); }
 .search-empty {
   text-align: center;
   padding: 3rem 0;
