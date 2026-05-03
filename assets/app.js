@@ -369,15 +369,18 @@
     `;
   }
 
-  // Render the info strip (prep / cook / servings) below the recipe title.
-  // Each badge only renders if its value is present, so recipes with no
-  // metadata fall back gracefully to the original ornament-only header.
+  // Render the info strip (prep / cook / portions or yield) below the recipe title,
+  // followed by the difficulty + tag chips row. Each element only renders if it has
+  // a value, so recipes with no metadata fall back to the original ornament header.
   function renderInfoStrip(meta) {
     if (!meta) return "";
     const items = [];
     const prep = formatMinutes(meta.prepMinutes);
     const cook = formatMinutes(meta.cookMinutes);
     const serv = typeof meta.servings === "number" ? meta.servings : null;
+    const yc = typeof meta.yieldCount === "number" ? meta.yieldCount : null;
+    const yu = typeof meta.yieldUnit === "string" ? meta.yieldUnit : null;
+
     if (prep) items.push({ label: "Préparation", value: prep, icon: "knife" });
     if (cook) items.push({ label: "Cuisson", value: cook, icon: "clock" });
     if (serv !== null) {
@@ -386,25 +389,49 @@
         value: String(serv),
         icon: "people",
       });
+    } else if (yc !== null && yu) {
+      items.push({
+        label: "Donne",
+        value: `${yc} ${yu}`,
+        icon: "yield",
+      });
+    } else if (yu && yc === null) {
+      items.push({ label: "Donne", value: yu, icon: "yield" });
     }
-    if (items.length === 0) return "";
-    return `
-      <div class="info-strip" role="list">
-        ${items
-          .map(
-            (it) => `
-              <div class="info-badge" role="listitem">
-                ${INFO_ICONS[it.icon]}
-                <div class="info-text">
-                  <span class="info-label">${escapeHtml(it.label)}</span>
-                  <span class="info-value">${escapeHtml(it.value)}</span>
+
+    let strip = "";
+    if (items.length > 0) {
+      strip = `
+        <div class="info-strip" role="list">
+          ${items
+            .map(
+              (it) => `
+                <div class="info-badge" role="listitem">
+                  ${INFO_ICONS[it.icon]}
+                  <div class="info-text">
+                    <span class="info-label">${escapeHtml(it.label)}</span>
+                    <span class="info-value">${escapeHtml(it.value)}</span>
+                  </div>
                 </div>
-              </div>
-            `,
-          )
-          .join("")}
-      </div>
-    `;
+              `,
+            )
+            .join("")}
+        </div>
+      `;
+    }
+
+    const chips = [];
+    if (meta.difficulty) {
+      chips.push(`<span class="chip chip-difficulty chip-${escapeHtml(meta.difficulty)}">${escapeHtml(meta.difficulty)}</span>`);
+    }
+    for (const tag of meta.tags || []) {
+      chips.push(`<span class="chip chip-tag">${escapeHtml(tag.replace(/-/g, " "))}</span>`);
+    }
+    const chipsHtml = chips.length
+      ? `<div class="info-chips">${chips.join("")}</div>`
+      : "";
+
+    return strip + chipsHtml;
   }
 
   // Hand-drawn line-art icons matching the cahier aesthetic (24x24, currentColor).
@@ -422,6 +449,12 @@
               <circle cx="9" cy="7" r="3.2"/>
               <path d="M22 19v-2a4 4 0 0 0-3-3.9"/>
               <path d="M16 4.2a3.2 3.2 0 0 1 0 6.2"/>
+            </svg>`,
+    yield: `<svg class="info-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M3 13c0-3 4-5 9-5s9 2 9 5"/>
+              <path d="M3 13v3a3 3 0 0 0 3 3h12a3 3 0 0 0 3-3v-3"/>
+              <line x1="12" y1="3" x2="12" y2="8"/>
+              <path d="M9.5 5.5c1-1.5 4-1.5 5 0"/>
             </svg>`,
   };
 

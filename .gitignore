@@ -1,3 +1,6 @@
 # Source photos for the handwritten cookbook (kept locally, not deployed).
 # ~100 MB of HEIC binaries — committing them bloats history permanently.
 BOOK1/
+
+# Derived working file — regenerable via `python tools/emit_compact.py`.
+tools/recipes_compact.jsonl

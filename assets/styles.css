@@ -526,6 +526,52 @@ button { font: inherit; cursor: pointer; border: none; background: none; color: 
   margin-top: 2px;
 }
 
+/* difficulty + tag chips below the info strip */
+.info-chips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: .4rem;
+  margin: 1rem auto 0;
+  max-width: 720px;
+}
+.chip {
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: .04em;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  border: 1px solid hsl(33 25% 82%);
+  background: var(--card);
+  color: var(--muted-foreground);
+  text-transform: lowercase;
+  white-space: nowrap;
+}
+.chip-difficulty {
+  font-weight: 600;
+  text-transform: capitalize;
+  letter-spacing: .03em;
+}
+.chip-difficulty.chip-facile {
+  color: hsl(140 35% 30%);
+  border-color: hsl(140 35% 65% / .55);
+  background: hsl(140 40% 92%);
+}
+.chip-difficulty.chip-moyen {
+  color: hsl(33 60% 32%);
+  border-color: hsl(33 55% 64% / .65);
+  background: hsl(33 55% 90%);
+}
+.chip-difficulty.chip-difficile {
+  color: var(--primary);
+  border-color: hsl(0 60% 60% / .55);
+  background: hsl(0 50% 94%);
+}
+.chip-tag {
+  background: hsl(36 30% 94%);
+}
+
 /* recipe content */
 .recipe-content {
   max-width: 1280px;
@@ -920,9 +966,77 @@ button { font: inherit; cursor: pointer; border: none; background: none; color: 
 }
 
 @media print {
-  .appnav, .recipe-foot, .cat-back { display: none !important; }
-  body { background: white; }
-  .recipe-grid { display: block; }
-  .ingredients-card { box-shadow: none; border: 1px solid #ccc; }
-  .step-num { background: #444; }
+  /* hide screen-only chrome */
+  .appnav,
+  .recipe-foot,
+  .cat-back,
+  .recipe-crumbs,
+  .recipe-orn,
+  .info-chips .chip-difficulty {
+    display: none !important;
+  }
+
+  /* page setup — single recipe per print job, narrow margins */
+  @page { margin: 12mm; }
+  html, body { background: #fff !important; color: #000; }
+  body { font-size: 10.5pt; line-height: 1.45; }
+
+  /* let everything reflow naturally instead of fighting fixed columns */
+  .container, .container-md, .container-lg { max-width: none; padding: 0; }
+  .recipe-page { background: #fff; }
+  .recipe-header { padding: 0; }
+  .recipe-header-inner { padding: 0 0 8mm; }
+  .recipe-header::before { display: none; }
+  .recipe-content { padding: 0; }
+  .recipe-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.6fr;
+    gap: 8mm;
+  }
+
+  /* serif title kept, slightly tightened */
+  .recipe-title { font-size: 22pt; margin: 0 0 4mm; }
+
+  /* compact info strip */
+  .info-strip {
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+    margin: 4mm auto;
+    padding: 2mm 0;
+    gap: 0 8mm;
+  }
+  .info-icon { color: #333; }
+  .info-label { font-size: 8pt; }
+  .info-value { font-size: 11pt; color: #000; }
+
+  /* tags stay but in plain ink */
+  .info-chips { margin-top: 3mm; }
+  .chip { background: #fff !important; border-color: #999 !important; color: #333 !important; }
+
+  /* ingredients column */
+  .ingredients-aside { position: static; }
+  .ingredients-card { box-shadow: none; border: 1px solid #999; border-radius: 0; break-inside: avoid; }
+  .section-label { padding: 2mm 4mm; }
+  .ingredients-list li { padding: 1.5mm 4mm; break-inside: avoid; }
+  .ingredients-list .ing-check { border: 1px solid #999; background: #fff !important; }
+  .ingredients-list .ing-check .check { display: none; }
+  .ingredients-list li.is-checked .text { text-decoration: line-through; color: #555; }
+
+  /* steps column */
+  .prep-section .section-label-inline { padding: 0 0 3mm; }
+  .steps-list { padding-left: 0; }
+  .step-item { padding: 0 0 3mm; break-inside: avoid; }
+  .step-num { background: #000; color: #fff; }
+  .step-text p { margin: 0; }
+
+  /* note box neutral */
+  .note-box {
+    background: #fafafa !important;
+    border: 1px solid #999 !important;
+    page-break-inside: avoid;
+  }
+
+  /* avoid orphan/widow breaks inside small blocks */
+  h1, h2, h3 { break-after: avoid; }
+  a { color: #000; text-decoration: none; }
 }

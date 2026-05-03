@@ -16,9 +16,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson"
+      ]
     }
   },
   {
@@ -40,9 +46,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien"
+      ]
     }
   },
   {
@@ -66,9 +79,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 15,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -91,9 +110,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 10,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "congelation"
+      ]
     }
   },
   {
@@ -117,9 +143,16 @@
     ],
     "notes": "pour 10 à 12 personnes Recette santé cette salade est miroité - spectaclaire et super délicieuse Cette quantité n'est pas une erreur.",
     "meta": {
-      "servings": 11,
+      "prepMinutes": 15,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 11,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien"
+      ]
     }
   },
   {
@@ -140,9 +173,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson"
+      ]
     }
   },
   {
@@ -164,9 +203,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 125,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": null,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien"
+      ]
     }
   },
   {
@@ -186,9 +232,15 @@
     ],
     "notes": "Les pétoncles peuvent être préparés la veille.",
     "meta": {
-      "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 15,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "fruits-de-mer"
+      ]
     }
   },
   {
@@ -212,9 +264,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 120,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": null,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien"
+      ]
     }
   },
   {
@@ -234,9 +293,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "fruits-de-mer",
+        "rapide",
+        "four"
+      ]
     }
   },
   {
@@ -255,9 +322,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 20,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -291,9 +365,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien"
+      ]
     }
   },
   {
@@ -321,9 +402,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 10,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "fruits-de-mer",
+        "congelation"
+      ]
     }
   },
   {
@@ -353,9 +441,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 5,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "jambon",
+        "congelation"
+      ]
     }
   },
   {
@@ -380,9 +475,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 15,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -406,9 +508,18 @@
     ],
     "notes": "À préparer 48 heures d'avance au réfrigérateur.",
     "meta": {
-      "servings": null,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "prepMinutes": 5,
+      "cookMinutes": 10,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four",
+        "festif",
+        "rapide"
+      ]
     }
   },
   {
@@ -430,9 +541,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien"
+      ]
     }
   },
   {
@@ -458,9 +576,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 15,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc",
+        "congelation"
+      ]
     }
   },
   {
@@ -500,9 +625,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 25,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "four"
+      ]
     }
   },
   {
@@ -532,9 +664,15 @@
     ],
     "notes": "P.S On peut substituer au poulet du jambon - des crevettes ou du homard",
     "meta": {
-      "servings": null,
-      "cookMinutes": 15,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 5,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -557,9 +695,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 360,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 60,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "poulet",
+        "four"
+      ]
     }
   },
   {
@@ -589,9 +734,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -618,9 +770,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poisson",
+        "sans-cuisson"
+      ]
     }
   },
   {
@@ -640,9 +799,16 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 20,
+      "cookMinutes": 5,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 3,
+      "yieldUnit": "pots",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "conserves"
+      ]
     }
   },
   {
@@ -676,9 +842,16 @@
     ],
     "notes": "(Recette fantastique et délicieuse)",
     "meta": {
+      "prepMinutes": 30,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": 180,
-      "prepMinutes": null
+      "yieldCount": 3,
+      "yieldUnit": "chopines",
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "conserves"
+      ]
     }
   },
   {
@@ -702,9 +875,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -724,9 +903,15 @@
     ],
     "notes": "Au lieu de l'eau 8T de bouillon poulet maison c'est meilleure",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -746,9 +931,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -774,9 +965,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -796,9 +993,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 5,
+      "cookMinutes": 90,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -827,9 +1031,16 @@
     ],
     "notes": "C'est une bonne soupe repas",
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 90,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -848,9 +1059,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -878,9 +1095,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": 6,
+      "prepMinutes": 15,
       "cookMinutes": 45,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -905,9 +1128,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -930,9 +1159,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -956,9 +1191,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 120,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 110,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -979,9 +1221,16 @@
     ],
     "notes": "Instructions de cuisson non fournies dans le texte original.",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 120,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -1016,9 +1265,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 15,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 20,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -1042,9 +1297,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 25,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -1064,9 +1325,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -1089,9 +1356,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -1114,9 +1387,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 10,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -1145,9 +1424,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -1170,9 +1456,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "servings": 6,
+      "yieldCount": 12,
+      "yieldUnit": "crepes",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -1195,9 +1487,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 15,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "fruits-de-mer"
+      ]
     }
   },
   {
@@ -1216,9 +1514,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 10,
-      "prepMinutes": null
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "jambon",
+        "four",
+        "rapide"
+      ]
     }
   },
   {
@@ -1244,9 +1550,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 25,
       "cookMinutes": 45,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": 36,
+      "yieldUnit": "pains",
+      "difficulty": "moyen",
+      "tags": [
+        "porc",
+        "congelation"
+      ]
     }
   },
   {
@@ -1265,9 +1578,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 20,
-      "prepMinutes": null
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -1285,9 +1605,16 @@
     ],
     "notes": "Ne pas faire à la Mijotte",
     "meta": {
-      "servings": null,
-      "cookMinutes": 45,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 40,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -1315,9 +1642,16 @@
     ],
     "notes": "1. On peut réduire pour petite omelette à 1 Tasse béchamel - 6 œufs - 1/2 c à thé comble p à pâte - Même Température plat carré -\n2. Réduire béchamel à 1 T lait - 1 c à table B & farine\nles presses aussi dans une passoire et je pèse dessus - en plus de les essuyer.\nFaites chauffer le lait y ajouter beurre et farine (doit faire une béchamel assez épaisse) -\nEnsuite des fruits de mer coupés en petits morceaux on farci de pomme de terre pelée le Tous des coquilles St Jacques et au milieu les fruits de mer saupoudrer de paprika - Cuire au four à 350°F jusqu'à doré",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "fruits-de-mer",
+        "four"
+      ]
     }
   },
   {
@@ -1343,9 +1677,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 80,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc"
+      ]
     }
   },
   {
@@ -1372,9 +1712,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 20,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf"
+      ]
     }
   },
   {
@@ -1394,9 +1740,15 @@
     ],
     "notes": "recette de sauce espagnole",
     "meta": {
-      "servings": null,
-      "cookMinutes": 45,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 55,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -1420,9 +1772,16 @@
     ],
     "notes": "Recette d'école lorsque j'avais 14 ans",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 90,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -1452,9 +1811,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 80,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "veau"
+      ]
     }
   },
   {
@@ -1479,9 +1844,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 5,
+      "cookMinutes": 15,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "rapide"
+      ]
     }
   },
   {
@@ -1504,9 +1876,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "jambon",
+        "four"
+      ]
     }
   },
   {
@@ -1535,9 +1914,16 @@
     ],
     "notes": "Donne environ 3 pâtés aux poulets qu'on peut congeler (Ne pas changer)",
     "meta": {
-      "servings": null,
+      "prepMinutes": 30,
       "cookMinutes": 40,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "poulet",
+        "four"
+      ]
     }
   },
   {
@@ -1576,9 +1962,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 30,
       "cookMinutes": 45,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "four"
+      ]
     }
   },
   {
@@ -1608,9 +2001,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 90,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "long-mijotage",
+        "congelation"
+      ]
     }
   },
   {
@@ -1636,9 +2037,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 15,
+      "servings": 2,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf"
+      ]
     }
   },
   {
@@ -1668,9 +2075,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 20,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "veau"
+      ]
     }
   },
   {
@@ -1701,9 +2114,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc",
+        "four"
+      ]
     }
   },
   {
@@ -1736,9 +2156,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 35,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "four"
+      ]
     }
   },
   {
@@ -1776,9 +2203,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 90,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 110,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -1816,9 +2250,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 180,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -1850,9 +2291,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 45,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "four"
+      ]
     }
   },
   {
@@ -1885,9 +2333,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "poulet",
+        "four"
+      ]
     }
   },
   {
@@ -1914,9 +2369,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 15,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf"
+      ]
     }
   },
   {
@@ -1948,9 +2409,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 15,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 25,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf"
+      ]
     }
   },
   {
@@ -1977,9 +2444,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 50,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "porc",
+        "boeuf",
+        "four"
+      ]
     }
   },
   {
@@ -2021,9 +2496,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 45,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 60,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "porc"
+      ]
     }
   },
   {
@@ -2046,9 +2527,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 150,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -2070,9 +2558,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 120,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "four",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -2096,9 +2592,16 @@
     ],
     "notes": "Pour humecter.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 50,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "four"
+      ]
     }
   },
   {
@@ -2120,9 +2623,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf"
+      ]
     }
   },
   {
@@ -2142,9 +2651,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 15,
-      "prepMinutes": null
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "rapide",
+        "four"
+      ]
     }
   },
   {
@@ -2170,9 +2686,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 180,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 150,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "four",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -2198,9 +2722,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 90,
-      "prepMinutes": null
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet",
+        "four",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -2223,9 +2755,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "poulet",
+        "four"
+      ]
     }
   },
   {
@@ -2254,9 +2793,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 45,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 40,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf"
+      ]
     }
   },
   {
@@ -2277,9 +2822,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "rapide"
+      ]
     }
   },
   {
@@ -2301,9 +2853,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc"
+      ]
     }
   },
   {
@@ -2334,9 +2892,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 40,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 50,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "poulet",
+        "four"
+      ]
     }
   },
   {
@@ -2378,9 +2943,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "four"
+      ]
     }
   },
   {
@@ -2405,9 +2977,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc"
+      ]
     }
   },
   {
@@ -2427,9 +3005,17 @@
     ],
     "notes": "J'ai déjà oublié l'eau et c'était très bon mais plus épais meilleur sans eau.",
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 90,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet",
+        "four",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -2463,9 +3049,17 @@
     ],
     "notes": "Se sert avec fettuccine ou Riz ou Patate pilée",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 90,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "veau",
+        "four",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -2498,9 +3092,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 10,
-      "prepMinutes": null
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poisson",
+        "four",
+        "rapide"
+      ]
     }
   },
   {
@@ -2528,9 +3130,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -2553,9 +3162,16 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 20,
+      "cookMinutes": 20,
       "servings": null,
-      "cookMinutes": 15,
-      "prepMinutes": null
+      "yieldCount": 3,
+      "yieldUnit": "pizzas",
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -2578,9 +3194,17 @@
     ],
     "notes": "Ma meilleure recette de boulettes. À ne pas changer très tendre. (Se congèle très bien réchauffer dans la sauce 15 min). Chapelure italienne meilleure dans cette recette.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 30,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 36,
+      "yieldUnit": "boulettes",
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "four",
+        "congelation"
+      ]
     }
   },
   {
@@ -2607,9 +3231,16 @@
     ],
     "notes": "persil-sel",
     "meta": {
-      "servings": null,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "four"
+      ]
     }
   },
   {
@@ -2633,9 +3264,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 65,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 60,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc",
+        "four"
+      ]
     }
   },
   {
@@ -2662,9 +3300,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf"
+      ]
     }
   },
   {
@@ -2695,9 +3339,15 @@
     ],
     "notes": "c'est le secret de réussite - J-",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 40,
+      "cookMinutes": 30,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "difficile",
+      "tags": [
+        "fruits-de-mer"
+      ]
     }
   },
   {
@@ -2723,9 +3373,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc",
+        "four"
+      ]
     }
   },
   {
@@ -2749,9 +3406,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 90,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "four",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -2783,9 +3448,16 @@
     ],
     "notes": "Meringue = - 1 blanc d'œuf - 4 c à table de sucre - quelques gouttes essence vanille ou amande - 2 c à table amandes broyées (facultatif)",
     "meta": {
+      "prepMinutes": 20,
+      "cookMinutes": 15,
       "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "yieldCount": 24,
+      "yieldUnit": "biscuits",
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -2816,9 +3488,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 15,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 30,
+      "yieldUnit": "biscuits",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -2843,9 +3522,16 @@
     ],
     "notes": "Ils doivent gonfler comme des biscuits au beurre jusqu'à doré légèrement.",
     "meta": {
+      "prepMinutes": 15,
+      "cookMinutes": 12,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 36,
+      "yieldUnit": "biscuits",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -2871,9 +3557,16 @@
     ],
     "notes": "Même procédé que biscuit précédent. il n'y a pas de lait.",
     "meta": {
+      "prepMinutes": 20,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": 120,
-      "prepMinutes": null
+      "yieldCount": 36,
+      "yieldUnit": "biscuits",
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -2906,9 +3599,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 20,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 36,
+      "yieldUnit": "biscuits",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -2938,9 +3638,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 15,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 30,
+      "yieldUnit": "biscuits",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -2966,9 +3673,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 10,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 36,
+      "yieldUnit": "biscuits",
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four",
+        "congelation"
+      ]
     }
   },
   {
@@ -2991,9 +3706,16 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 15,
+      "cookMinutes": 15,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 30,
+      "yieldUnit": "biscuits",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3021,9 +3743,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": 42,
+      "prepMinutes": 15,
       "cookMinutes": 15,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 42,
+      "yieldUnit": "biscuits",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3046,9 +3775,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 15,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 42,
+      "yieldUnit": "biscuits",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3074,9 +3810,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 15,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 30,
+      "yieldUnit": "biscuits",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3099,9 +3842,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3125,9 +3875,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 40,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3152,9 +3909,15 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 20,
+      "cookMinutes": 15,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 24,
+      "yieldUnit": "bouchees",
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -3185,9 +3948,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 35,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3211,9 +3981,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 40,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3245,9 +4022,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3268,9 +4052,16 @@
     ],
     "notes": "mon meilleur gâteau chocolat",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 35,
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3292,9 +4083,16 @@
     ],
     "notes": "(Très gros gâteau)",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 40,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3316,9 +4114,16 @@
     ],
     "notes": "Meilleur Gâteau Jeannette, Mon premier gâteau de jeunesse, il est délicieux Recette simple !",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3348,9 +4153,16 @@
     ],
     "notes": "(spécial pour collation)",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 35,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3378,9 +4190,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 45,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3402,9 +4221,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 30,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3426,9 +4252,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 35,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3450,9 +4283,15 @@
     ],
     "notes": "N.B. Plus de Rice Krispies moins d'Arachide c'est meilleur.",
     "meta": {
+      "prepMinutes": 15,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 24,
+      "yieldUnit": "morceaux",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -3482,9 +4321,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 15,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "servings": 12,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3512,9 +4358,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 15,
+      "servings": 12,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes"
+      ]
     }
   },
   {
@@ -3538,9 +4391,16 @@
     ],
     "notes": "bien; 2e préparation",
     "meta": {
-      "servings": null,
-      "cookMinutes": 15,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 30,
+      "servings": 12,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3588,9 +4448,17 @@
     ],
     "notes": "Glaçage : Un beau glaçage au chocolat maison avec sucre glace, un peu de lait et cacao. On peut faire aussi le gâteau avec de la confiture et on saupoudre de sucre glace avec une passoire ça fait un roulé aux fraises ou framboise vite fait pour la visite inattendue ou un dessert de tous les jours. C'est délicieux.",
     "meta": {
-      "servings": null,
-      "cookMinutes": 15,
-      "prepMinutes": null
+      "prepMinutes": 45,
+      "cookMinutes": 10,
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "difficile",
+      "tags": [
+        "vegetarien",
+        "four",
+        "festif"
+      ]
     }
   },
   {
@@ -3622,9 +4490,16 @@
     ],
     "notes": "(fantastique)",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 40,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3652,9 +4527,15 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 30,
+      "cookMinutes": 20,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 24,
+      "yieldUnit": "beignes",
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -3684,9 +4565,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 25,
       "cookMinutes": 45,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3713,9 +4601,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 12,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3741,9 +4636,16 @@
     ],
     "notes": "Donne un gâteau couleur Rouge - Vin.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 25,
       "cookMinutes": 45,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3771,9 +4673,16 @@
     ],
     "notes": "Se congèle très bien",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": 2,
+      "yieldUnit": "gateaux",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3808,9 +4717,16 @@
     ],
     "notes": "P.S Se congèle Très bien",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 45,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3834,9 +4750,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 180,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": null,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "sans-cuisson"
+      ]
     }
   },
   {
@@ -3864,9 +4787,16 @@
     ],
     "notes": "Voir Gâteau Marsem à la Salade de fruits de Madelaine",
     "meta": {
-      "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 40,
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3894,9 +4824,16 @@
     ],
     "notes": "(délicieux dessert) genre biscuit",
     "meta": {
-      "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 45,
+      "servings": 12,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3923,9 +4860,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 25,
       "cookMinutes": 10,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 24,
+      "yieldUnit": "morceaux",
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3949,9 +4893,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 35,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -3973,9 +4924,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 10,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 4,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "congelation"
+      ]
     }
   },
   {
@@ -4002,9 +4961,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 50,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4028,9 +4994,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 180,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": null,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "sans-cuisson"
+      ]
     }
   },
   {
@@ -4063,9 +5036,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 25,
       "cookMinutes": 30,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4088,9 +5068,15 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 10,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 1,
+      "yieldUnit": "glacage",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -4121,9 +5107,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 30,
       "cookMinutes": 20,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "difficile",
+      "tags": [
+        "vegetarien",
+        "four",
+        "festif"
+      ]
     }
   },
   {
@@ -4143,9 +5137,16 @@
     ],
     "notes": "L'idée de faire ce glaçage avec un gros KitchenAid au lieu d'une petite batteuse.",
     "meta": {
+      "prepMinutes": 25,
+      "cookMinutes": null,
       "servings": null,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "yieldCount": 1,
+      "yieldUnit": "glacage",
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "sans-cuisson"
+      ]
     }
   },
   {
@@ -4173,9 +5174,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 35,
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4194,9 +5202,15 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 10,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 1,
+      "yieldUnit": "garniture",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -4221,9 +5235,16 @@
     ],
     "notes": "Recette americaine ramenée du Texas par une amie après l'avoir fait vous comprendrez que c'est comparable au ....",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 20,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4246,9 +5267,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 35,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4272,9 +5300,15 @@
     ],
     "notes": "P.S. ce sont les carrés avec mini-guimauve et beurre d'arachide",
     "meta": {
+      "prepMinutes": 15,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 24,
+      "yieldUnit": "carres",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -4294,9 +5328,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 15,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 18,
+      "yieldUnit": "macarons",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four",
+        "sans-gluten"
+      ]
     }
   },
   {
@@ -4323,9 +5365,16 @@
     ],
     "notes": "C'est un gâteau avec une rangée de guimauves fondues et du sucre à crème sur le dessus qu'on coupe en carrés.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 20,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 16,
+      "yieldUnit": "carres",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4355,9 +5404,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "garniture",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -4376,9 +5432,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 25,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 24,
+      "yieldUnit": "carres",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4399,9 +5462,15 @@
     ],
     "notes": "4 grosses gaufres (doubler pour 8). Cette pâte se garde 3 jours avec saran wrap dessus.",
     "meta": {
+      "prepMinutes": 20,
+      "cookMinutes": 30,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 12,
+      "yieldUnit": "gaufres",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -4421,9 +5490,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 10,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 24,
+      "yieldUnit": "morceaux",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -4441,9 +5518,16 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 15,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 24,
+      "yieldUnit": "morceaux",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes"
+      ]
     }
   },
   {
@@ -4472,9 +5556,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 45,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "poisson",
+        "four"
+      ]
     }
   },
   {
@@ -4498,9 +5589,16 @@
     ],
     "notes": "Ne pas avoir peur d’enfariner votre planche et le rouleau pour empêcher de coller.",
     "meta": {
+      "prepMinutes": 25,
+      "cookMinutes": 15,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 24,
+      "yieldUnit": "biscuits",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4528,9 +5626,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 120,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 15,
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4558,9 +5663,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 40,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4590,9 +5702,15 @@
     ],
     "notes": "Ma pâte à tarte donne 3 à 4 tartes doubles.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 4,
+      "yieldUnit": "abaisses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -4613,9 +5731,16 @@
     ],
     "notes": "Préféré de Frédéric",
     "meta": {
-      "servings": null,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4639,9 +5764,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 15,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4660,9 +5792,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "sans-cuisson"
+      ]
     }
   },
   {
@@ -4688,9 +5827,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 45,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 40,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4712,9 +5858,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 15,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -4737,9 +5889,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4758,9 +5917,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 70,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4779,9 +5945,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 40,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4803,9 +5976,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 25,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4831,9 +6011,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 40,
+      "servings": 8,
+      "yieldCount": 2,
+      "yieldUnit": "tartes",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4855,9 +6042,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 20,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4885,9 +6079,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 20,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4911,9 +6112,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 15,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -4934,9 +6141,16 @@
     ],
     "notes": "de jello (c'est-à-dire pas de vrai four)",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "sans-cuisson"
+      ]
     }
   },
   {
@@ -4959,9 +6173,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 40,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -4983,9 +6204,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 45,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -5008,9 +6236,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 40,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -5038,9 +6273,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 20,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -5065,9 +6307,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5088,9 +6338,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 2,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5108,9 +6366,16 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 5,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 2,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5136,9 +6401,16 @@
     ],
     "notes": "Pour faire fondre Cheddar: voir bouillon fondu cheddar dans les soupes et potages",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 2,
+      "yieldUnit": "tasses",
+      "difficulty": "moyen",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien"
+      ]
     }
   },
   {
@@ -5164,9 +6436,15 @@
     ],
     "notes": "Cette sauce est bonne aussi pour Pain de Viande - Hamburg. Omelette espagnole ou poisson frit de mon école",
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 30,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 4,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -5189,9 +6467,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5209,9 +6495,16 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 5,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 2,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5235,9 +6528,16 @@
     ],
     "notes": "glace gâteau Rapidement -",
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 2,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5271,9 +6571,16 @@
     ],
     "notes": "Ça épaissit un peu en refroidissant. P.S Les pots doivent être chaud le Ketchup tiède pour bien réussir",
     "meta": {
+      "prepMinutes": 45,
+      "cookMinutes": 70,
       "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "yieldCount": 8,
+      "yieldUnit": "pots",
+      "difficulty": "difficile",
+      "tags": [
+        "vegetarien",
+        "conserves"
+      ]
     }
   },
   {
@@ -5293,9 +6600,16 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 5,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5314,9 +6628,17 @@
     ],
     "notes": "cette sauce est idéale pour badigeonner le poulet sans peau avant de cuire au four.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5332,9 +6654,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5363,9 +6692,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 20,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 3,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -5390,9 +6725,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 2,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5416,9 +6758,16 @@
     ],
     "notes": "Se sert avec du porc et de la volaille.",
     "meta": {
+      "prepMinutes": 10,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5444,9 +6793,17 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 10,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -5473,9 +6830,17 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 10,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -5496,9 +6861,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "rapide"
+      ]
     }
   },
   {
@@ -5536,9 +6908,18 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 120,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 180,
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "four",
+        "long-mijotage",
+        "congelation"
+      ]
     }
   },
   {
@@ -5560,9 +6941,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -5583,9 +6972,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -5604,9 +7001,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -5634,9 +7039,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 2,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes"
+      ]
     }
   },
   {
@@ -5656,9 +7068,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -5687,9 +7107,17 @@
     ],
     "notes": "Donne 1 1/2 Tasse.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -5711,9 +7139,17 @@
     ],
     "notes": "(Donne 1 1/2 T)",
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -5732,9 +7168,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -5750,9 +7194,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -5777,9 +7229,16 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 10,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "yieldCount": 2,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5796,9 +7255,17 @@
     ],
     "notes": "Pour crème glacée et gâteau des anges.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "micro-ondes",
+        "rapide"
+      ]
     }
   },
   {
@@ -5821,9 +7288,16 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 5,
+      "cookMinutes": 10,
       "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": 1,
+      "yieldUnit": "tasses",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5848,9 +7322,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "pot",
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5877,9 +7359,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "pot",
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5912,9 +7402,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 240,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -5941,9 +7438,17 @@
     ],
     "notes": "Pour mettre dans la soupe - Dans des sauces - * Se conserve dans des pots stérilisés 2 ans au réfrigérateur. Donne 4 pots mason régulier. P.S. Attendre un mois avant de s'en servir.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 2,
+      "yieldUnit": "pots",
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien",
+        "conserves"
+      ]
     }
   },
   {
@@ -5970,9 +7475,17 @@
     ],
     "notes": "Donne 1 1/4 Tasse. Garder à l'abri de l'humidité.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "pot",
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -5988,9 +7501,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "pot",
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -6011,9 +7532,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "pot",
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -6029,9 +7558,17 @@
     ],
     "notes": "Utiliser des portions égales de chaque ingrédient.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 5,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": 1,
+      "yieldUnit": "pot",
+      "difficulty": "facile",
+      "tags": [
+        "sans-cuisson",
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -6056,9 +7593,16 @@
     ],
     "notes": "Typiquement espagnol. Moitié 7up - moitié Vin Rouge. De même avec vin blanc ou Rosée.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 12,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "sans-cuisson"
+      ]
     }
   },
   {
@@ -6080,9 +7624,16 @@
     ],
     "notes": "Pour Servir - feuille de menthe - glaçon - Sirop - citron",
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 5,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -6103,9 +7654,17 @@
     ],
     "notes": "Sauf Soda Tonique et glaçon au moment de servir",
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "sans-cuisson",
+        "rapide"
+      ]
     }
   },
   {
@@ -6131,9 +7690,16 @@
     ],
     "notes": "Pour adulte : grossir la recette. Se congèle très bien, se garde 3 mois. La recette peut être convertie. On peut changer la grenadine par d'autres sirops et aux pêches ou à la menthe non alcoolisée.",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 12,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "congelation"
+      ]
     }
   },
   {
@@ -6152,9 +7718,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "sans-cuisson",
+        "rapide"
+      ]
     }
   },
   {
@@ -6185,9 +7759,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 120,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 25,
+      "servings": 10,
+      "yieldCount": 2,
+      "yieldUnit": "brioches",
+      "difficulty": "difficile",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -6209,9 +7790,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 15,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "four",
+        "rapide"
+      ]
     }
   },
   {
@@ -6234,9 +7823,17 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": null,
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "sans-cuisson",
+        "festif"
+      ]
     }
   },
   {
@@ -6282,9 +7879,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
+      "prepMinutes": 60,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "difficile",
+      "tags": [
+        "sans-cuisson",
+        "festif"
+      ]
     }
   },
   {
@@ -6314,9 +7918,15 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 25,
+      "cookMinutes": null,
       "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "yieldCount": 1,
+      "yieldUnit": "pates",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -6346,9 +7956,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "jambon",
+        "four"
+      ]
     }
   },
   {
@@ -6377,9 +7994,15 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": 15,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "servings": 6,
+      "yieldCount": 12,
+      "yieldUnit": "grands-peres",
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -6400,9 +8023,16 @@
     ],
     "notes": "En ordre - eau tiède - sel - sucre - beurre; pain moyen 3 livres; farine et levure en dernier",
     "meta": {
-      "servings": null,
-      "cookMinutes": 205,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 200,
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -6422,9 +8052,16 @@
     ],
     "notes": null,
     "meta": {
+      "prepMinutes": 20,
+      "cookMinutes": 20,
       "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "yieldCount": 18,
+      "yieldUnit": "brioches",
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -6447,9 +8084,16 @@
     ],
     "notes": null,
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 180,
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -6467,9 +8111,16 @@
     ],
     "notes": "Spéciale comme présentation - Délicieux",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "four"
+      ]
     }
   },
   {
@@ -6496,9 +8147,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101055.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -6524,9 +8181,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101055.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSi la soupe est trop épaisse, ajouter un peu de bouillon avant de servir.",
     "meta": {
-      "servings": null,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "fruits-de-mer"
+      ]
     }
   },
   {
@@ -6552,9 +8215,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101123.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 30,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -6579,9 +8248,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101123.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 30,
-      "prepMinutes": null
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -6608,9 +8283,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101137.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 15,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -6638,9 +8319,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101137.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 30,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -6667,9 +8354,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101151.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 120,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 105,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -6697,9 +8391,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101151.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
+      "prepMinutes": 15,
+      "cookMinutes": 20,
       "servings": 8,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet",
+        "rapide"
+      ]
     }
   },
   {
@@ -6724,9 +8425,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101205.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
+      "prepMinutes": 20,
+      "cookMinutes": 90,
       "servings": 7,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -6750,9 +8458,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101205.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -6773,9 +8487,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101205.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 120,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 105,
+      "servings": 12,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -6800,9 +8521,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101219.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 135,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 120,
+      "servings": 12,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -6825,9 +8553,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101219.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -6856,9 +8590,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101227.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 40,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -6887,9 +8627,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101227.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 120,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 105,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -6918,9 +8665,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101237.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -6943,9 +8696,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101237.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 120,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 105,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -6969,9 +8729,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101247.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -6994,9 +8760,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101247.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf"
+      ]
     }
   },
   {
@@ -7023,9 +8795,17 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101300.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nBonne soupe pour la congélation.",
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 90,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet",
+        "long-mijotage",
+        "congelation"
+      ]
     }
   },
   {
@@ -7048,9 +8828,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101300.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 60,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien",
+        "four"
+      ]
     }
   },
   {
@@ -7072,9 +8859,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101300.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -7113,9 +8906,18 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101317.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "prepMinutes": 45,
+      "cookMinutes": 120,
+      "servings": 12,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "difficile",
+      "tags": [
+        "boeuf",
+        "porc",
+        "poulet",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -7144,9 +8946,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101327.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 75,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "difficile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -7169,9 +8977,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101335.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 60,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -7200,9 +9014,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101335.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 90,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 105,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -7230,9 +9051,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101345.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 150,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 40,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "poisson",
+        "fruits-de-mer"
+      ]
     }
   },
   {
@@ -7259,9 +9087,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101345.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "jambon"
+      ]
     }
   },
   {
@@ -7289,9 +9123,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101358.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -7316,9 +9156,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101409.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7351,9 +9197,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101409.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 25,
+      "cookMinutes": 70,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "poulet"
+      ]
     }
   },
   {
@@ -7383,9 +9236,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101421.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 60,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "jambon"
+      ]
     }
   },
   {
@@ -7412,9 +9271,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101421.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 120,
-      "prepMinutes": null
+      "servings": 10,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "jambon",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -7434,9 +9300,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7464,9 +9336,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 40,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7488,9 +9366,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7515,9 +9399,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101429.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "fruits-de-mer"
+      ]
     }
   },
   {
@@ -7546,9 +9436,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101441.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 40,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7571,9 +9467,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101441.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7607,9 +9509,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101448.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7633,9 +9541,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101459.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7670,9 +9584,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101459.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 40,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 65,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "difficile",
+      "tags": [
+        "poisson",
+        "fruits-de-mer"
+      ]
     }
   },
   {
@@ -7698,9 +9619,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101514.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 30,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -7727,9 +9654,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101514.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7760,9 +9693,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101521.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 35,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7783,9 +9722,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101521.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "prepMinutes": 10,
+      "cookMinutes": 10,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien",
+        "rapide"
+      ]
     }
   },
   {
@@ -7815,9 +9761,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101529.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7843,9 +9795,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101529.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7874,9 +9832,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101536.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 15,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7904,9 +9868,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101536.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7934,9 +9904,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101549.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 10,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -7965,9 +9941,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101549.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 35,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8004,9 +9986,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101556.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
+      "prepMinutes": 20,
+      "cookMinutes": 45,
       "servings": 4,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "fruits-de-mer"
+      ]
     }
   },
   {
@@ -8029,9 +10017,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101836.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 70,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -8057,9 +10051,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101836.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 60,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -8081,9 +10081,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101836.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 25,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 40,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8109,9 +10115,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101856.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 50,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8138,9 +10150,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101856.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 30,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8161,9 +10179,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101856.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 10,
       "cookMinutes": 30,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8193,9 +10217,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101912.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 30,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 35,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8226,9 +10256,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101912.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
+      "prepMinutes": 20,
+      "cookMinutes": 25,
       "servings": 4,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -8252,9 +10288,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101925.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 15,
       "cookMinutes": 90,
-      "prepMinutes": null
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "jambon",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -8277,9 +10320,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101925.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 45,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8298,9 +10347,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101925.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -8327,9 +10382,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101950.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
+      "prepMinutes": 20,
       "cookMinutes": 45,
-      "prepMinutes": null
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "poisson",
+        "fruits-de-mer"
+      ]
     }
   },
   {
@@ -8355,9 +10417,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101950.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 60,
-      "prepMinutes": null
+      "prepMinutes": 30,
+      "cookMinutes": 75,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf",
+        "veau"
+      ]
     }
   },
   {
@@ -8379,9 +10448,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101950.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 60,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf"
+      ]
     }
   },
   {
@@ -8403,9 +10478,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101958.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 180,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 150,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -8429,9 +10511,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101958.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 60,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -8460,9 +10548,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_101958.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 15,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8484,9 +10578,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102010.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "servings": 4,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -8517,9 +10617,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102010.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 40,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 45,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8549,9 +10655,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102016.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "boeuf"
+      ]
     }
   },
   {
@@ -8573,9 +10685,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102033.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 90,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "agneau",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -8599,9 +10718,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102033.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 60,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc"
+      ]
     }
   },
   {
@@ -8632,9 +10757,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102043.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
+      "prepMinutes": 20,
+      "cookMinutes": 30,
       "servings": 4,
-      "cookMinutes": 20,
-      "prepMinutes": null
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8656,9 +10787,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102043.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
+      "prepMinutes": 15,
+      "cookMinutes": 90,
       "servings": 6,
-      "cookMinutes": 120,
-      "prepMinutes": null
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "boeuf",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -8692,9 +10830,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102058.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
+      "prepMinutes": 25,
+      "cookMinutes": 30,
       "servings": 4,
-      "cookMinutes": 15,
-      "prepMinutes": null
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "fruits-de-mer"
+      ]
     }
   },
   {
@@ -8724,9 +10868,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102105.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 5,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8751,9 +10901,16 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102105.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
     "meta": {
-      "servings": null,
-      "cookMinutes": 180,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 150,
+      "servings": 8,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc",
+        "long-mijotage"
+      ]
     }
   },
   {
@@ -8769,9 +10926,13 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102140.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
+      "prepMinutes": null,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": null,
+      "tags": []
     }
   },
   {
@@ -8786,9 +10947,13 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102140.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
+      "prepMinutes": null,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": null,
+      "tags": []
     }
   },
   {
@@ -8803,9 +10968,13 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102213.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
+      "prepMinutes": null,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": null,
+      "tags": []
     }
   },
   {
@@ -8825,9 +10994,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102227.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
+      "prepMinutes": 15,
+      "cookMinutes": 30,
       "servings": 4,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8846,9 +11021,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102243.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "porc"
+      ]
     }
   },
   {
@@ -8863,9 +11044,13 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102259.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
+      "prepMinutes": null,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": null,
+      "tags": []
     }
   },
   {
@@ -8880,9 +11065,13 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102305.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
+      "prepMinutes": null,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": null,
+      "tags": []
     }
   },
   {
@@ -8901,9 +11090,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102319.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 20,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "moyen",
+      "tags": [
+        "fruits-de-mer"
+      ]
     }
   },
   {
@@ -8918,9 +11113,13 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102329.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
+      "prepMinutes": null,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": null,
+      "tags": []
     }
   },
   {
@@ -8940,9 +11139,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102341.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 20,
+      "cookMinutes": 60,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "poulet"
+      ]
     }
   },
   {
@@ -8961,9 +11166,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102353.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -8982,9 +11193,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102404.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -9003,9 +11220,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102502.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -9024,9 +11247,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102527.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -9046,9 +11275,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102626.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 50,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -9067,9 +11302,15 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102705.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
-      "cookMinutes": null,
-      "prepMinutes": null
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "servings": 6,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": "facile",
+      "tags": [
+        "vegetarien"
+      ]
     }
   },
   {
@@ -9085,9 +11326,13 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102712.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile.",
     "meta": {
-      "servings": null,
+      "prepMinutes": null,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": null,
+      "tags": []
     }
   },
   {
@@ -9102,9 +11347,13 @@
     ],
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_102721.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPage photographiée latéralement, transcription difficile. Annotation: « délicieux à refaire ».",
     "meta": {
-      "servings": null,
+      "prepMinutes": null,
       "cookMinutes": null,
-      "prepMinutes": null
+      "servings": null,
+      "yieldCount": null,
+      "yieldUnit": null,
+      "difficulty": null,
+      "tags": []
     }
   }
 ]
