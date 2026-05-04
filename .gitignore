@@ -4,3 +4,13 @@ BOOK1/
 
 # Derived working file — regenerable via `python tools/emit_compact.py`.
 tools/recipes_compact.jsonl
+
+# Python bytecode cache from the nutrition pipeline tools.
+tools/__pycache__/
+
+# Phase outputs from tools/nutrition_estimator.py (regenerable from recipes.json).
+# The slim app-facing copies live in assets/ and ARE tracked.
+tools/output/
+
+# Local Claude Code launch config — per-developer, not deployable.
+.claude/launch.json

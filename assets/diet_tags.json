@@ -1,0 +1,2657 @@
+{
+  "schema_version": 1,
+  "coverage": {
+    "total_recipes": 598,
+    "ingredient_based": 598,
+    "nutrient_based": 310
+  },
+  "ingredient_tags": [
+    "vegan",
+    "vegetarien",
+    "pescatarien"
+  ],
+  "nutrient_tags": [
+    "faible-sucre",
+    "faible-sel",
+    "faible-gras",
+    "faible-glucides",
+    "riche-proteines",
+    "riche-fibres",
+    "diabetique",
+    "keto"
+  ],
+  "tags_by_recipe": {
+    "2": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "4": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "6": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "7": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "9": [
+      "vegetarien",
+      "pescatarien",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "10": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "12": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "13": [
+      "pescatarien"
+    ],
+    "15": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "16": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sel",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "35": [
+      "pescatarien",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "39": [
+      "faible-glucides",
+      "diabetique"
+    ],
+    "40": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "41": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "45": [
+      "vegetarien",
+      "pescatarien",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "91": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "94": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "98": [
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "101": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "104": [
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "180": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "181": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "17": [
+      "riche-proteines"
+    ],
+    "18": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "19": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "20": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "21": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "23": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "24": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "26": [
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "28": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "29": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "31": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "32": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "33": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique",
+      "keto"
+    ],
+    "202": [
+      "riche-proteines"
+    ],
+    "200": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "5": [
+      "pescatarien"
+    ],
+    "14": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "36": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "43": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "46": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "48": [
+      "pescatarien"
+    ],
+    "50": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "51": [
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "52": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "54": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "55": [
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "56": [
+      "faible-sucre",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "57": [
+      "faible-gras",
+      "diabetique"
+    ],
+    "58": [
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "59": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique",
+      "keto"
+    ],
+    "60": [
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "62": [
+      "faible-glucides",
+      "diabetique"
+    ],
+    "64": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "65": [
+      "riche-proteines"
+    ],
+    "66": [
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "67": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "69": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "70": [
+      "faible-glucides",
+      "riche-proteines"
+    ],
+    "71": [
+      "faible-glucides",
+      "diabetique"
+    ],
+    "72": [
+      "faible-sucre",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "73": [
+      "faible-sucre"
+    ],
+    "75": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "76": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "77": [
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "83": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "84": [
+      "faible-sucre",
+      "diabetique"
+    ],
+    "89": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "90": [
+      "faible-sucre",
+      "riche-proteines"
+    ],
+    "92": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "93": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "96": [
+      "faible-sucre",
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "97": [
+      "faible-sucre",
+      "faible-gras"
+    ],
+    "99": [
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides"
+    ],
+    "102": [
+      "faible-glucides",
+      "diabetique"
+    ],
+    "103": [
+      "pescatarien"
+    ],
+    "203": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "209": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "214": [
+      "faible-sel",
+      "diabetique"
+    ],
+    "215": [
+      "faible-sel",
+      "faible-gras"
+    ],
+    "216": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "diabetique"
+    ],
+    "217": [
+      "pescatarien",
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "218": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "221": [
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "105": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "106": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "107": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "109": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "111": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "112": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "113": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "114": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "115": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "116": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "117": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "80": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "81": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "diabetique"
+    ],
+    "110": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "118": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre"
+    ],
+    "120": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre"
+    ],
+    "121": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "123": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "124": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre"
+    ],
+    "125": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "diabetique"
+    ],
+    "126": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre"
+    ],
+    "127": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "diabetique"
+    ],
+    "128": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "129": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "diabetique"
+    ],
+    "130": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "131": [
+      "vegetarien",
+      "pescatarien",
+      "diabetique"
+    ],
+    "132": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "133": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sel"
+    ],
+    "135": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "diabetique"
+    ],
+    "136": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "137": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "138": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras"
+    ],
+    "139": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre"
+    ],
+    "140": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "141": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "142": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "diabetique"
+    ],
+    "143": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "144": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "diabetique"
+    ],
+    "145": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sel"
+    ],
+    "146": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "147": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sel"
+    ],
+    "149": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "150": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre"
+    ],
+    "151": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "152": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "153": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "154": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "155": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "156": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "diabetique"
+    ],
+    "157": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "158": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "159": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-gras"
+    ],
+    "191": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "192": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "193": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "194": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "195": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "212": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "235": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "236": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "88": [
+      "pescatarien"
+    ],
+    "108": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "134": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "148": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "diabetique"
+    ],
+    "160": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "161": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "diabetique"
+    ],
+    "162": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "163": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "164": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre"
+    ],
+    "165": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sel"
+    ],
+    "166": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "167": [
+      "vegetarien",
+      "pescatarien",
+      "faible-gras",
+      "diabetique"
+    ],
+    "168": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "169": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sel",
+      "faible-gras"
+    ],
+    "170": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "riche-fibres"
+    ],
+    "171": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "172": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "173": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "174": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "175": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "176": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "177": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "178": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "11": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "44": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "47": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "49": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "100": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "122": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "179": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "183": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "184": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "185": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "187": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "188": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "189": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "190": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "219": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "220": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "223": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "224": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "225": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "226": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "227": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "228": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "229": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "230": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "231": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "232": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "233": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "234": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "74": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "87": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "95": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "182": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "196": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "197": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "198": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "199": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "201": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sel",
+      "faible-gras"
+    ],
+    "204": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "205": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "206": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "207": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "3": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "34": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "37": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "42": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "85": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "119": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "208": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras"
+    ],
+    "210": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "211": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "238": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "239": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "240": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "242": [
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "246": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "riche-fibres"
+    ],
+    "247": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "249": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "251": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "254": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "255": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "257": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "258": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "263": [
+      "pescatarien"
+    ],
+    "266": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "270": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "272": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "273": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "275": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "277": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "282": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "283": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "284": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "285": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-glucides",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "287": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "293": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "299": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "301": [
+      "pescatarien"
+    ],
+    "305": [
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "308": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "312": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "313": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "318": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "319": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "320": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "323": [
+      "riche-proteines"
+    ],
+    "324": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "325": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "326": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "328": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "329": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "330": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "331": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "333": [
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "334": [
+      "faible-sucre",
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "335": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "337": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "339": [
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "340": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "342": [
+      "faible-sucre",
+      "faible-sel",
+      "riche-fibres"
+    ],
+    "343": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "344": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "345": [
+      "pescatarien",
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "346": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "347": [
+      "faible-sucre",
+      "faible-gras",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "348": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "349": [
+      "riche-fibres"
+    ],
+    "350": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "352": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "353": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "354": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "357": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "359": [
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "360": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "361": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "364": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "366": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "367": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "368": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "369": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "370": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "371": [
+      "faible-sucre",
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "372": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "373": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "374": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "375": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "377": [
+      "pescatarien"
+    ],
+    "378": [
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "379": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "380": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "382": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "384": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "385": [
+      "pescatarien"
+    ],
+    "386": [
+      "pescatarien"
+    ],
+    "387": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "388": [
+      "pescatarien",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "389": [
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "390": [
+      "faible-gras"
+    ],
+    "391": [
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "393": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "394": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "395": [
+      "riche-proteines"
+    ],
+    "396": [
+      "riche-proteines",
+      "diabetique"
+    ],
+    "397": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique",
+      "keto"
+    ],
+    "399": [
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "400": [
+      "faible-gras"
+    ],
+    "401": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique",
+      "keto"
+    ],
+    "402": [
+      "faible-sucre",
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "403": [
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "405": [
+      "faible-sucre",
+      "faible-gras"
+    ],
+    "406": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "407": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "409": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "410": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "413": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "414": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "415": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "416": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "418": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "419": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "420": [
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "421": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "422": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "423": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "424": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "425": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "426": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "427": [
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "428": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "430": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sel",
+      "faible-gras",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "431": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "433": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "434": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "435": [
+      "pescatarien",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "436": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "437": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "438": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "439": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "440": [
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "441": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "442": [
+      "faible-glucides",
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "444": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "445": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "446": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "447": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "448": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "449": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "451": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "452": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "453": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "454": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "455": [
+      "pescatarien",
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "456": [
+      "pescatarien",
+      "faible-gras",
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "458": [
+      "pescatarien",
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "459": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "460": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "461": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "462": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "464": [
+      "faible-sucre",
+      "riche-fibres"
+    ],
+    "468": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "469": [
+      "pescatarien"
+    ],
+    "471": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "473": [
+      "pescatarien"
+    ],
+    "475": [
+      "vegetarien",
+      "pescatarien",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "476": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "478": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "479": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "480": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "481": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "482": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "484": [
+      "riche-proteines"
+    ],
+    "487": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "488": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "490": [
+      "pescatarien"
+    ],
+    "491": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique",
+      "keto"
+    ],
+    "492": [
+      "pescatarien"
+    ],
+    "493": [
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "494": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "495": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "496": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "497": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "498": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-gras",
+      "riche-fibres"
+    ],
+    "499": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "501": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "502": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "503": [
+      "faible-sucre",
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "504": [
+      "faible-sucre",
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "505": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "506": [
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "507": [
+      "pescatarien",
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "509": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "511": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "512": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "513": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "514": [
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "516": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "517": [
+      "faible-sucre",
+      "faible-gras",
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "518": [
+      "faible-glucides",
+      "riche-proteines"
+    ],
+    "521": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "523": [
+      "faible-sucre",
+      "faible-gras",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "527": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "528": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "531": [
+      "vegetarien",
+      "pescatarien",
+      "faible-gras",
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "532": [
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "533": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "534": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "535": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "536": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "537": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "538": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "539": [
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "540": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "541": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "542": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "544": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "545": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "546": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "547": [
+      "faible-sucre",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "548": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "549": [
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "551": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "552": [
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "553": [
+      "faible-sucre",
+      "riche-proteines",
+      "riche-fibres"
+    ],
+    "554": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "555": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "diabetique"
+    ],
+    "556": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "557": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "558": [
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "559": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-sel",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "560": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "561": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "562": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "563": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "564": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "565": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "566": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "567": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "riche-fibres"
+    ],
+    "568": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "569": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "570": [
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "571": [
+      "vegan",
+      "vegetarien",
+      "pescatarien",
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "572": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "573": [
+      "riche-proteines"
+    ],
+    "574": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "575": [
+      "vegetarien",
+      "pescatarien"
+    ],
+    "576": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "577": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "578": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "579": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "580": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "581": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "582": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "583": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "584": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "585": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "586": [
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "587": [
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "588": [
+      "vegan",
+      "vegetarien",
+      "pescatarien"
+    ],
+    "589": [
+      "faible-glucides",
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "590": [
+      "faible-sucre",
+      "faible-glucides",
+      "diabetique",
+      "keto"
+    ],
+    "591": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "593": [
+      "faible-sucre",
+      "faible-gras",
+      "faible-glucides",
+      "diabetique"
+    ],
+    "595": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ],
+    "596": [
+      "faible-gras",
+      "faible-glucides",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "597": [
+      "faible-sucre",
+      "riche-proteines",
+      "riche-fibres",
+      "diabetique"
+    ],
+    "598": [
+      "faible-sucre",
+      "faible-glucides",
+      "riche-proteines",
+      "diabetique"
+    ]
+  }
+}
