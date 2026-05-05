@@ -14,6 +14,7 @@
 import {
   isConfigured as isAuthConfigured,
   onSessionChange as onAuthChange,
+  getSession as authGetSession,
   signOut as authSignOut,
   isAdmin as authIsAdmin,
 } from "./auth.js";
@@ -533,6 +534,47 @@ import {
       nutritionConfig = { displayed_nutrients: n.displayed_nutrients || [] };
     }
     indexRecipeIngredients();
+  }
+
+  // Promise that resolves once the initial static load (recipes.json etc.)
+  // completes. Hydration awaits this so it can't race the static fetch.
+  let initialDataReady = null;
+
+  // After login, replace in-memory recipes (loaded from recipes.json) with
+  // the live Supabase state so editors see their saved-but-not-yet-published
+  // edits. Anonymous visitors keep using the static JSON exclusively. Errors
+  // are non-fatal — we fall back to whatever's already loaded.
+  let lastHydration = 0;     // ms timestamp; debounce against rapid auth events
+  async function hydrateFromDb() {
+    if (!isAuthConfigured()) return;
+    const session = await authGetSession();
+    if (!session) return;
+    if (initialDataReady) await initialDataReady;
+    if (Date.now() - lastHydration < 1000) return;     // debounce
+    lastHydration = Date.now();
+    try {
+      const dbRows = await dbLoadAllRecipes();
+      if (!Array.isArray(dbRows) || !dbRows.length) return;
+      // Merge: replace by id, append rows that don't exist locally.
+      let changed = 0;
+      for (const row of dbRows) {
+        const data = row.data;
+        if (!data || !Number.isFinite(data.id)) continue;
+        const idx = recipes.findIndex((r) => r.id === data.id);
+        if (idx >= 0) recipes[idx] = data;
+        else recipes.push(data);
+        recipesById.set(data.id, data);
+        changed++;
+      }
+      if (!changed) return;
+      indexRecipeIngredients();
+      // Re-render so the current view picks up DB content.
+      render();
+    } catch (err) {
+      // Likely RLS error or transient network issue. Non-fatal — the user
+      // keeps seeing recipes.json content, which is fine for read-only views.
+      console.warn("DB hydration skipped:", err.message || err);
+    }
   }
 
   function recipesInCategory(cat) {
@@ -2295,6 +2337,11 @@ import {
     const after = !!authSession;
     if (before !== after && document.getElementById("app")) {
       render();
+      // On a fresh login, replace recipes.json content with live DB state so
+      // the editor sees their unpublished saves. The function awaits the
+      // initial static load internally, so calling it before loadData()
+      // finishes is safe.
+      if (after) hydrateFromDb();
     }
   });
 
@@ -2336,9 +2383,16 @@ import {
     const root = $("#app");
     if (!root) return;
     try {
-      await loadData();
+      initialDataReady = loadData();
+      await initialDataReady;
       render();
       maybeLoadDashboard();
+      // If a session was already restored from localStorage at module load,
+      // the onAuthChange handler may have queued a hydration before recipes
+      // finished loading. Trigger one explicitly here too — hydrateFromDb()
+      // is debounced (1s) so this is a no-op when the auth-change path
+      // already fired.
+      if (authSession) hydrateFromDb();
     } catch (e) {
       console.error(e);
       root.innerHTML = `<div class="empty-state"><p>Impossible de charger les recettes.</p></div>`;
