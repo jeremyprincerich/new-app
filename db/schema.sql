@@ -135,27 +135,42 @@ drop policy if exists edit_log_select_auth on public.edit_log;
 create policy edit_log_select_auth on public.edit_log
   for select to authenticated using (true);
 
--- allowed_emails: only admins (is_admin = true rows) can read or modify
+-- allowed_emails: admin-only management of the whitelist.
+--
+-- The naive policy ("EXISTS (SELECT 1 FROM allowed_emails WHERE …)") causes
+-- infinite RLS recursion: the SELECT inside the USING clause itself triggers
+-- RLS, which re-enters the same policy. Postgres returns a 500 Internal
+-- Server Error when this happens.
+--
+-- Fix: a SECURITY DEFINER helper function that bypasses RLS for the lookup.
+-- The function runs as its owner (the postgres role / project owner), so the
+-- inner SELECT is unrestricted, and we can call it from the policy USING
+-- clause without re-entering RLS.
+create or replace function public.current_user_is_admin()
+returns boolean
+language sql
+security definer
+stable
+set search_path = public
+as $$
+  select coalesce(
+    (select is_admin
+       from public.allowed_emails
+      where lower(email) = lower((auth.jwt() ->> 'email'))
+      limit 1),
+    false
+  );
+$$;
+grant execute on function public.current_user_is_admin() to authenticated;
+
 drop policy if exists allowed_emails_admin on public.allowed_emails;
 create policy allowed_emails_admin on public.allowed_emails
   for all to authenticated
-  using (
-    exists (
-      select 1 from public.allowed_emails ae
-      where lower(ae.email) = lower((auth.jwt() ->> 'email'))
-        and ae.is_admin = true
-    )
-  )
-  with check (
-    exists (
-      select 1 from public.allowed_emails ae
-      where lower(ae.email) = lower((auth.jwt() ->> 'email'))
-        and ae.is_admin = true
-    )
-  );
+  using (public.current_user_is_admin())
+  with check (public.current_user_is_admin());
 
 -- Also let any whitelisted user read their OWN whitelist row (so the UI can
--- check the is_admin flag for the logged-in user).
+-- check the is_admin flag for the logged-in user even when not yet admin).
 drop policy if exists allowed_emails_self_read on public.allowed_emails;
 create policy allowed_emails_self_read on public.allowed_emails
   for select to authenticated
