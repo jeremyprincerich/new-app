@@ -11997,7 +11997,15 @@
       "Réserver.",
       "Ajouter dans la même poêle l'oignon, l'ail, carotte, céleri.",
       "Cuire 4 mn dans le sauté.",
-      "Ajouter bouillon et patate."
+      "Ajouter bouillon et patate.",
+      "Réduire cuisson 10 mn.",
+      "Retirer la saucisse dans le poêle.",
+      "Ajouter le lait.",
+      "Garnir de cèleri.",
+      "Servir.",
+      "Pour servir, 10 mn avec persil, mijoter sans crever.",
+      "Tout d'un coup, fromage râpé fondu.",
+      "Cuire 10 mn — Garnir de persil et soya."
     ],
     "title": "Soupe Kielbasa avec haricots",
     "ingredients": [
@@ -12014,34 +12022,6 @@
       "Sel, poivre"
     ],
     "numberLabel": "Recette nº 347"
-  },
-  {
-    "id": 348,
-    "meta": {
-      "tags": [
-        "porc"
-      ],
-      "servings": 8,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 60,
-      "prepMinutes": 20
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_113138.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la recette précédente — Soupe Kielbasa.",
-    "steps": [
-      "Réduire cuisson 10 mn.",
-      "Retirer la saucisse dans le poêle.",
-      "Ajouter le lait.",
-      "Garnir de cèleri.",
-      "Servir.",
-      "Pour servir, 10 mn avec persil, mijoter sans crever.",
-      "Tout d'un coup, fromage râpé fondu.",
-      "Cuire 10 mn — Garnir de persil et soya."
-    ],
-    "title": "Suite de la recette précédente (Soupe Kielbasa)",
-    "ingredients": [],
-    "numberLabel": "Recette nº 348"
   },
   {
     "id": 349,
@@ -14058,7 +14038,9 @@
       "Tomate de chair, ajouter du jus, cuire jusqu'à ravioli.",
       "Mélanger pour passer, mettre épaisses, ajouter touches au cheval (épaissir au crème). Bissonnette, servir chaud.",
       "Pour Velouté de tomate: dans une cocotte chauffer beurre, ajouter champagne, 1 min, ajouter pâte tomate, mijoter sans coloration, ajouter le bouillon, mijoter 5 à 6 min, ajouter persil et tour de moulin.",
-      "Mijoter, tomates, ajouter chair de tomate, jus, ajouter à la fin l'eau de tomate, servir chaud."
+      "Mijoter, tomates, ajouter chair de tomate, jus, ajouter à la fin l'eau de tomate, servir chaud.",
+      "Réserver le mélange au frais 30 min.",
+      "Battre 2 jaunes avec un peu de potage chaud, au moment de servir, ajouter graduellement le potage chaud."
     ],
     "title": "Suite de la recette précédente / Velouté de tomate",
     "ingredients": [
@@ -14078,30 +14060,6 @@
       "Pour Vichy: pour 4 personnes"
     ],
     "numberLabel": "Recette nº 406"
-  },
-  {
-    "id": 407,
-    "meta": {
-      "tags": [
-        "poulet",
-        "agneau",
-        "jambon"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_114238.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la recette précédente — début hors page",
-    "steps": [
-      "Réserver le mélange au frais 30 min.",
-      "Battre 2 jaunes avec un peu de potage chaud, au moment de servir, ajouter graduellement le potage chaud."
-    ],
-    "title": "Suite de la recette précédente",
-    "ingredients": [],
-    "numberLabel": "Recette nº 407"
   },
   {
     "id": 408,
@@ -14162,7 +14120,10 @@
       "Faire chauffer suffisamment.",
       "Ajuster, ajouter de l'eau si nécessaire.",
       "À ce moment ajouter les pommes de terre coupées en cubes 5-10 min, jusqu'à ce qu'on puisse écraser à la fourchette.",
-      "Dans le bol de soupe, garnir de menthe."
+      "Dans le bol de soupe, garnir de menthe.",
+      "1 + 1/2 T bouillon de poulet — Compléter avec une boîte de tomates.",
+      "Mettre dans le bouillon de poulet, ajouter une cuillère à thé de tomate, ajouter à la fin pour épaissir.",
+      "Saupoudrer du fromage parmesan râpé."
     ],
     "title": "Potage aux légumes de la Bergère",
     "ingredients": [
@@ -14180,29 +14141,6 @@
       "Herbes au choix : menthe, persil ou aneth"
     ],
     "numberLabel": "Recette nº 409"
-  },
-  {
-    "id": 410,
-    "meta": {
-      "tags": [
-        "vegetarien"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_114301.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la recette précédente",
-    "steps": [
-      "1 + 1/2 T bouillon de poulet — Compléter avec une boîte de tomates.",
-      "Mettre dans le bouillon de poulet, ajouter une cuillère à thé de tomate, ajouter à la fin pour épaissir.",
-      "Saupoudrer du fromage parmesan râpé."
-    ],
-    "title": "Suite de la recette précédente",
-    "ingredients": [],
-    "numberLabel": "Recette nº 410"
   },
   {
     "id": 411,
@@ -14331,7 +14269,11 @@
     },
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_114314.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nRecette tronquée — la suite est sur la page suivante",
     "steps": [
-      "Mélanger les ingrédients de base."
+      "Mélanger les ingrédients de base.",
+      "Saupoudrer et cuire en remuant 5 min.",
+      "Ajouter bœuf haché, cuire 5 min puis le bouillon de bœuf.",
+      "Ajouter le navet, le céleri, l'oignon, sel, poivre.",
+      "Réduire le feu — Mijoter 1 heure jusqu'à orge cuite et la pâte tendre."
     ],
     "title": "Soupe à l'Orge et bœuf",
     "ingredients": [
@@ -14345,30 +14287,6 @@
       "Sel/persil"
     ],
     "numberLabel": "Recette nº 414"
-  },
-  {
-    "id": 415,
-    "meta": {
-      "tags": [
-        "boeuf"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_114319.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la Soupe à l'Orge et bœuf",
-    "steps": [
-      "Saupoudrer et cuire en remuant 5 min.",
-      "Ajouter bœuf haché, cuire 5 min puis le bouillon de bœuf.",
-      "Ajouter le navet, le céleri, l'oignon, sel, poivre.",
-      "Réduire le feu — Mijoter 1 heure jusqu'à orge cuite et la pâte tendre."
-    ],
-    "title": "Suite de la recette précédente — Soupe à l'Orge et bœuf",
-    "ingredients": [],
-    "numberLabel": "Recette nº 415"
   },
   {
     "id": 416,
@@ -14427,7 +14345,10 @@
       "Ajouter coriandre fraîche, patate.",
       "Ajouter petites pâtes, lait, bouillon.",
       "Ajouter cube de bouillon de pomadon.",
-      "Ajuster assaisonnement."
+      "Ajuster assaisonnement.",
+      "Ajouter bouillon de poulet ou 1 boîte de bouillon (concentré).",
+      "Ajouter tomates, légumes, sel, poivre — Mijoter 10 à 15 min.",
+      "Ajouter pâte longue cuisson 10 min ou pâte fine: ajouter avec coquilles dans préparation bouillie. Parfumer la soupe."
     ],
     "title": "Soupe de crevettes — poulet",
     "ingredients": [
@@ -14446,30 +14367,6 @@
       "Sel/poivre, huile d'olive"
     ],
     "numberLabel": "Recette nº 417"
-  },
-  {
-    "id": 418,
-    "meta": {
-      "tags": [
-        "poulet",
-        "fruits-de-mer"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_114350.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la recette précédente",
-    "steps": [
-      "Ajouter bouillon de poulet ou 1 boîte de bouillon (concentré).",
-      "Ajouter tomates, légumes, sel, poivre — Mijoter 10 à 15 min.",
-      "Ajouter pâte longue cuisson 10 min ou pâte fine: ajouter avec coquilles dans préparation bouillie. Parfumer la soupe."
-    ],
-    "title": "Suite de la recette précédente",
-    "ingredients": [],
-    "numberLabel": "Recette nº 418"
   },
   {
     "id": 419,
@@ -14703,7 +14600,9 @@
     },
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_114428.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nRecette tronquée — page suivante continue",
     "steps": [
-      "Cuire les légumes dans l'huile."
+      "Cuire les légumes dans l'huile.",
+      "Chauffer l'huile — Faire revenir l'oignon, ajouter les légumes — bouillon, sel/poivre.",
+      "Ébullition — 10 min puis baisser le feu — Cuire et laisser mijoter 20 min jusqu'à ce que les carottes ramollissent, ajouter la crème — Servir."
     ],
     "title": "Crème de carottes",
     "ingredients": [
@@ -14717,28 +14616,6 @@
       "1/2 T de crème"
     ],
     "numberLabel": "Recette nº 425"
-  },
-  {
-    "id": 426,
-    "meta": {
-      "tags": [
-        "vegetarien"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_114434.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la Crème de carottes",
-    "steps": [
-      "Chauffer l'huile — Faire revenir l'oignon, ajouter les légumes — bouillon, sel/poivre.",
-      "Ébullition — 10 min puis baisser le feu — Cuire et laisser mijoter 20 min jusqu'à ce que les carottes ramollissent, ajouter la crème — Servir."
-    ],
-    "title": "Suite de la recette précédente — Crème de carottes",
-    "ingredients": [],
-    "numberLabel": "Recette nº 426"
   },
   {
     "id": 427,
@@ -14861,7 +14738,8 @@
       "Hacher tous les légumes.",
       "Faire bouillir avec le bouillon de poulet.",
       "Cuire 15 min jusqu'à tendre.",
-      "Mijoter à 18-20 min."
+      "Mijoter à 18-20 min.",
+      "Conservation : sel — Persil ajouter ou poudre coriandre."
     ],
     "title": "Soupe paysanne de Bélinde",
     "ingredients": [
@@ -14885,28 +14763,6 @@
       "1 c. thé poivre noir"
     ],
     "numberLabel": "Recette nº 430"
-  },
-  {
-    "id": 431,
-    "meta": {
-      "tags": [
-        "poulet",
-        "boeuf"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_114451.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite courte de la recette précédente",
-    "steps": [
-      "Conservation : sel — Persil ajouter ou poudre coriandre."
-    ],
-    "title": "Suite de la recette précédente — Soupe paysanne de Bélinde",
-    "ingredients": [],
-    "numberLabel": "Recette nº 431"
   },
   {
     "id": 432,
@@ -14965,7 +14821,10 @@
       "Cuire poulet en cubes dans bouillon.",
       "Ajouter tomates, échalotes, moutarde, sel, jus de citron.",
       "Mijoter 1 heure.",
-      "Ajouter ravioli, persil, herbes."
+      "Ajouter ravioli, persil, herbes.",
+      "Mijoter à couvert 10 min — bien centrer si sel mauvaise.",
+      "Ajouter jus de citron 18 minutes.",
+      "Garnir et on peut ajouter à la dernière minute pour une belle couleur de Vert."
     ],
     "title": "Soupe légumes — Poulet — Ravioli mini",
     "ingredients": [
@@ -14987,30 +14846,6 @@
       "Persil et herbes"
     ],
     "numberLabel": "Recette nº 433"
-  },
-  {
-    "id": 434,
-    "meta": {
-      "tags": [
-        "boeuf",
-        "long-mijotage"
-      ],
-      "servings": 8,
-      "yieldUnit": null,
-      "difficulty": "moyen",
-      "yieldCount": null,
-      "cookMinutes": 90,
-      "prepMinutes": 20
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_114510.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la recette précédente",
-    "steps": [
-      "Mijoter à couvert 10 min — bien centrer si sel mauvaise.",
-      "Ajouter jus de citron 18 minutes.",
-      "Garnir et on peut ajouter à la dernière minute pour une belle couleur de Vert."
-    ],
-    "title": "Suite de la recette précédente — Soupe légumes Poulet Ravioli",
-    "ingredients": [],
-    "numberLabel": "Recette nº 434"
   },
   {
     "id": 435,
@@ -15144,7 +14979,11 @@
     "steps": [
       "Trier les lentilles.",
       "Cuire dans l'huile avec persil, lentilles, légumes.",
-      "Mijoter."
+      "Mijoter.",
+      "Ajouter herbes — Mouiller avec 1 litre d'eau — Ajouter bouillon les lentilles — Ajouter le tomate.",
+      "Cuisson 1 heure environ — Cuire en faite ébullit, suivi du fini — Blender 1 min jusqu'à crémeux.",
+      "Mijoter jusqu'à consistance désirée.",
+      "Filet de citron à la fin."
     ],
     "title": "Soupe Lentille Verte",
     "ingredients": [
@@ -15165,30 +15004,6 @@
       "1 c. à soupe ferment"
     ],
     "numberLabel": "Recette nº 438"
-  },
-  {
-    "id": 439,
-    "meta": {
-      "tags": [
-        "vegetarien"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_114524.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la recette précédente",
-    "steps": [
-      "Ajouter herbes — Mouiller avec 1 litre d'eau — Ajouter bouillon les lentilles — Ajouter le tomate.",
-      "Cuisson 1 heure environ — Cuire en faite ébullit, suivi du fini — Blender 1 min jusqu'à crémeux.",
-      "Mijoter jusqu'à consistance désirée.",
-      "Filet de citron à la fin."
-    ],
-    "title": "Suite de la recette précédente — Soupe Lentille Verte",
-    "ingredients": [],
-    "numberLabel": "Recette nº 439"
   },
   {
     "id": 440,
@@ -15336,7 +15151,12 @@
       "Mettre tous les ingrédients dans une grande casserole.",
       "Couvrir d'eau.",
       "Cuire à feu doux pendant plusieurs heures.",
-      "Filtrer et conserver le bouillon."
+      "Filtrer et conserver le bouillon.",
+      "Filtrer le bouillon avec passoire.",
+      "Mijoter à feu doux jusqu'à bouillon réduit.",
+      "Verser dans des pots pour usage futur.",
+      "Le couvre de cuisson figés sur le dessus.",
+      "Conservation : 3-4 jours au frigo, 6 mois congelé."
     ],
     "title": "Bouillon de Dinde ou de poulet à la Manesse",
     "ingredients": [
@@ -15351,31 +15171,6 @@
       "Sel/poivre"
     ],
     "numberLabel": "Recette nº 443"
-  },
-  {
-    "id": 444,
-    "meta": {
-      "tags": [
-        "poulet"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_114543.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la recette précédente",
-    "steps": [
-      "Filtrer le bouillon avec passoire.",
-      "Mijoter à feu doux jusqu'à bouillon réduit.",
-      "Verser dans des pots pour usage futur.",
-      "Le couvre de cuisson figés sur le dessus.",
-      "Conservation : 3-4 jours au frigo, 6 mois congelé."
-    ],
-    "title": "Suite de la recette précédente — Bouillon de Dinde",
-    "ingredients": [],
-    "numberLabel": "Recette nº 444"
   },
   {
     "id": 445,
@@ -15572,7 +15367,10 @@
     },
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_114559.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nRecette tronquée — fin sur page suivante",
     "steps": [
-      "Rôtir oignon dans le gras avec herbes salées."
+      "Rôtir oignon dans le gras avec herbes salées.",
+      "Ajouter eau, l'avoine, sel, poivre.",
+      "Ajouter pâtes alimentaires.",
+      "Faire mijoter pour 30 min — voilà 20 min."
     ],
     "title": "Bonne Soupe de Grand-Mère de St-Pradine",
     "ingredients": [
@@ -15587,29 +15385,6 @@
       "Pâtes alimentaires"
     ],
     "numberLabel": "Recette nº 450"
-  },
-  {
-    "id": 451,
-    "meta": {
-      "tags": [
-        "boeuf"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_114642.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la recette précédente",
-    "steps": [
-      "Ajouter eau, l'avoine, sel, poivre.",
-      "Ajouter pâtes alimentaires.",
-      "Faire mijoter pour 30 min — voilà 20 min."
-    ],
-    "title": "Suite de la recette précédente — Bonne Soupe de Grand-Mère",
-    "ingredients": [],
-    "numberLabel": "Recette nº 451"
   },
   {
     "id": 452,
@@ -15665,7 +15440,8 @@
       "Chauffer lard ou huile, sel, poivre, sel d'ail 5 min.",
       "Ajouter bouillon de poulet, carotte, poulet cuit, herbes, thym, sel.",
       "Ajouter pâte à ébullition.",
-      "Réduire le feu, mijoter jusqu'à tendreté de la pâte (environ 20 min)."
+      "Réduire le feu, mijoter jusqu'à tendreté de la pâte (environ 20 min).",
+      "Suite d'une recette précédente avec des croûtons grillés frottés avec de l'ail et des morceaux de fromage de Gruyère, pour un fini plus croustillant."
     ],
     "title": "Soupe de Grand-Maman",
     "ingredients": [
@@ -15684,28 +15460,6 @@
       "Sel d'ail"
     ],
     "numberLabel": "Recette nº 453"
-  },
-  {
-    "id": 454,
-    "meta": {
-      "tags": [
-        "poulet",
-        "boeuf"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_113352.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la recette précédente",
-    "steps": [
-      "Suite d'une recette précédente avec des croûtons grillés frottés avec de l'ail et des morceaux de fromage de Gruyère, pour un fini plus croustillant."
-    ],
-    "title": "Suite de la recette précédente",
-    "ingredients": [],
-    "numberLabel": "Recette nº 454"
   },
   {
     "id": 455,
@@ -15864,7 +15618,8 @@
       "Cuire avec les épices.",
       "Ajouter les fruits de mer.",
       "Mijoter 20-25 minutes.",
-      "Servir."
+      "Servir.",
+      "Cuire 5-7 minutes. Au lieu de glace, on peut prendre la crevette rosée. Servir avec du persil."
     ],
     "title": "Bisque de fruits de mer aux trois castelles (Homard?)",
     "ingredients": [
@@ -15890,29 +15645,6 @@
       "1 lb de poissons en cubes"
     ],
     "numberLabel": "Recette nº 458"
-  },
-  {
-    "id": 459,
-    "meta": {
-      "tags": [
-        "boeuf",
-        "poisson",
-        "fruits-de-mer"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_113426.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la recette précédente",
-    "steps": [
-      "Cuire 5-7 minutes. Au lieu de glace, on peut prendre la crevette rosée. Servir avec du persil."
-    ],
-    "title": "Suite de la recette précédente",
-    "ingredients": [],
-    "numberLabel": "Recette nº 459"
   },
   {
     "id": 460,
@@ -16281,33 +16013,7 @@
       "Pour la purée, peler, couper sur le long les concombres.",
       "Sortir les pépins. Ajouter l'eau, cuire seulement 15 minutes.",
       "Faire passer au blender.",
-      "P.S. peut être congelé."
-    ],
-    "title": "Potage de concombre à l'aneth (délicieux)",
-    "ingredients": [
-      "1 1/2 tasse ou margarine 30 c. à table de poireau",
-      "Liquide: 1 t lait, 2 t bouillon de poulet",
-      "Purée: 3 tasses de concombre en purée avec 1 t d'eau",
-      "Assaisonnement: 1 c. à thé sel, 1/4 c. thé poivre, 1/2 c. à thé cerfeuil"
-    ],
-    "numberLabel": "Recette nº 470"
-  },
-  {
-    "id": 471,
-    "meta": {
-      "tags": [
-        "boeuf",
-        "long-mijotage"
-      ],
-      "servings": 8,
-      "yieldUnit": null,
-      "difficulty": "moyen",
-      "yieldCount": null,
-      "cookMinutes": 90,
-      "prepMinutes": 25
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_113502.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la recette précédente (potage concombre)",
-    "steps": [
+      "P.S. peut être congelé.",
       "Dans une casserole, mettre la bouille, faire cuire le bouillon, lait chaud.",
       "Faire le roux avec une beurre et farine, et le bouillon pour lier.",
       "Bien laisser pour rester bien généreuse, comme une sauce blanche.",
@@ -16317,9 +16023,14 @@
       "Servir chaud ou froid.",
       "Pour réveiller saupoudrer de sel de mer ou moulin."
     ],
-    "title": "Suite de la recette précédente",
-    "ingredients": [],
-    "numberLabel": "Recette nº 471"
+    "title": "Potage de concombre à l'aneth (délicieux)",
+    "ingredients": [
+      "1 1/2 tasse ou margarine 30 c. à table de poireau",
+      "Liquide: 1 t lait, 2 t bouillon de poulet",
+      "Purée: 3 tasses de concombre en purée avec 1 t d'eau",
+      "Assaisonnement: 1 c. à thé sel, 1/4 c. thé poivre, 1/2 c. à thé cerfeuil"
+    ],
+    "numberLabel": "Recette nº 470"
   },
   {
     "id": 472,
@@ -18687,7 +18398,10 @@
       "Laisser bouillir, puis ajouter les pâtes Diabolo",
       "Cuire les pâtes selon le paquet, environ 8 à 10 min",
       "Pour goût à l'indienne — saupoudrer un peu de curry",
-      "Ajouter les saucisses cuites"
+      "Ajouter les saucisses cuites",
+      "Et parmesan râpé — ajouter sur la table",
+      "Ajouter les épinards — sel, poivre",
+      "Garnir chaque bol de fromage."
     ],
     "title": "Crème de parmesan — Saucisses et Diable (Italienne)?",
     "ingredients": [
@@ -18708,31 +18422,6 @@
       "Eau, parmesan"
     ],
     "numberLabel": "Recette nº 534"
-  },
-  {
-    "id": 535,
-    "meta": {
-      "tags": [
-        "poulet",
-        "boeuf",
-        "porc"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_115026.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nContinuation de la crème de parmesan de la page précédente.",
-    "steps": [
-      "Et parmesan râpé — ajouter sur la table",
-      "Ajouter les épinards — sel, poivre",
-      "Garnir chaque bol de fromage."
-    ],
-    "title": "Suite de la recette précédente (parmesan)",
-    "ingredients": [],
-    "numberLabel": "Recette nº 535"
   },
   {
     "id": 536,
@@ -18864,7 +18553,16 @@
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_115037.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nRecette de mini boulettes pour soupe. Texte dense, transcription approximative.",
     "steps": [
       "Faire les boulettes 3/4 po",
-      "Réfrigérer jusqu'au moment de cuire"
+      "Réfrigérer jusqu'au moment de cuire",
+      "Pour la soupe — chauffer le bouillon",
+      "Verser dans la casserole 8 à 10 min — ajouter",
+      "Bouillon et de légumes — ébullition",
+      "Puis réduire à feu doux — ajouter boulettes",
+      "Mijoter 12 min — Mettre les rotis avant que les tomates en dés et autres soient prêtes",
+      "Ne pas trop bouillir, les boulettes seraient prises tendres",
+      "Ajouter le bouillon — légumes (céleri, branches), poireau, sel",
+      "Jusqu'à ce qu'on tienne — la pâte — Rincer",
+      "Ajouter à la soupe"
     ],
     "title": "Soupe — Mini boulettes de porc, pâte parmesan (4 à 6 personnes)",
     "ingredients": [
@@ -18889,36 +18587,6 @@
       "1/4 T de pâte de petits pois en délicat?"
     ],
     "numberLabel": "Recette nº 539"
-  },
-  {
-    "id": 540,
-    "meta": {
-      "tags": [
-        "porc",
-        "veau"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_115042.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nContinuation des mini boulettes.",
-    "steps": [
-      "Pour la soupe — chauffer le bouillon",
-      "Verser dans la casserole 8 à 10 min — ajouter",
-      "Bouillon et de légumes — ébullition",
-      "Puis réduire à feu doux — ajouter boulettes",
-      "Mijoter 12 min — Mettre les rotis avant que les tomates en dés et autres soient prêtes",
-      "Ne pas trop bouillir, les boulettes seraient prises tendres",
-      "Ajouter le bouillon — légumes (céleri, branches), poireau, sel",
-      "Jusqu'à ce qu'on tienne — la pâte — Rincer",
-      "Ajouter à la soupe"
-    ],
-    "title": "Suite de la recette précédente (mini boulettes/soupe)",
-    "ingredients": [],
-    "numberLabel": "Recette nº 540"
   },
   {
     "id": 541,
@@ -19072,7 +18740,15 @@
       "Couper pomme de terre et bouquets de chou-fleur en petits morceaux",
       "Oignon en dés",
       "Râper le gingembre",
-      "Revenir les oignons dans l'huile (suite à la page suivante)"
+      "Revenir les oignons dans l'huile (suite à la page suivante)",
+      "Revenir les oignons dans l'huile",
+      "Ajouter ensuite le chou-fleur, les patates, gingembre, épices (cumin, coriandre, curcuma, goutte de Tabasco), sel",
+      "Verser 70 cl d'eau",
+      "Ébullition — couvrir — mijoter feu doux 30 min",
+      "Blender",
+      "Incorporer la crème fraîche",
+      "Réchauffer sans bouillir",
+      "Servir"
     ],
     "title": "Soupe de chou-fleur à l'indienne",
     "ingredients": [
@@ -19089,34 +18765,6 @@
       "Sel"
     ],
     "numberLabel": "Recette nº 545"
-  },
-  {
-    "id": 546,
-    "meta": {
-      "tags": [
-        "vegetarien"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_115102.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nPour goût intense, griller les épices à sec avant de les ajouter. Utiliser du bouillon de légumes au lieu d'eau. Peut se préparer d'avance et réchauffer simplement.",
-    "steps": [
-      "Revenir les oignons dans l'huile",
-      "Ajouter ensuite le chou-fleur, les patates, gingembre, épices (cumin, coriandre, curcuma, goutte de Tabasco), sel",
-      "Verser 70 cl d'eau",
-      "Ébullition — couvrir — mijoter feu doux 30 min",
-      "Blender",
-      "Incorporer la crème fraîche",
-      "Réchauffer sans bouillir",
-      "Servir"
-    ],
-    "title": "Suite de la recette précédente (chou-fleur indienne)",
-    "ingredients": [],
-    "numberLabel": "Recette nº 546"
   },
   {
     "id": 547,
@@ -19141,7 +18789,8 @@
       "Ébullition — remuer 2 à 3 min jusqu'à ce que mélange épaississe",
       "Baisser la température",
       "Ajouter le fromage et assaisonnement",
-      "Verser dans le mélange de chou-fleur"
+      "Verser dans le mélange de chou-fleur",
+      "Laisser mijoter 30 min — Ne pas bouillir"
     ],
     "title": "Crème de chou-fleur au fromage",
     "ingredients": [
@@ -19160,28 +18809,6 @@
       "De poudre de curry"
     ],
     "numberLabel": "Recette nº 547"
-  },
-  {
-    "id": 548,
-    "meta": {
-      "tags": [
-        "poulet",
-        "boeuf"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_115133.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSi le mélange est trop clair, ajouter 1 c. à soupe de farine diluée avec un peu d'eau.",
-    "steps": [
-      "Laisser mijoter 30 min — Ne pas bouillir"
-    ],
-    "title": "Suite de la recette précédente (crème chou-fleur au fromage)",
-    "ingredients": [],
-    "numberLabel": "Recette nº 548"
   },
   {
     "id": 549,
@@ -19238,7 +18865,16 @@
     },
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_115133.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nRecette continue à la page suivante.",
     "steps": [
-      "Voir suite à la page suivante."
+      "Voir suite à la page suivante.",
+      "Couper les légumes en gros morceaux",
+      "Revenir oignon dans l'huile et le beurre",
+      "Ajouter carottes — chou-fleur revenir dans l'oignon — sel, poivre",
+      "Cuire 2 à 3 min — découvrir, brasser",
+      "Ajouter l'ail — bouillon, eau — persil",
+      "Mijoter 1 h — Le chou-fleur va être en compote",
+      "Si trop liquide, faire réduire un peu plus longtemps",
+      "Blender",
+      "Ajouter le fromage jusqu'à homogène — sel, poivre"
     ],
     "title": "Chou-fleur — carotte — oignon — fromage fort en potage",
     "ingredients": [
@@ -19255,35 +18891,6 @@
       "Sel, poivre"
     ],
     "numberLabel": "Recette nº 550"
-  },
-  {
-    "id": 551,
-    "meta": {
-      "tags": [
-        "poulet"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_115140.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
-    "steps": [
-      "Couper les légumes en gros morceaux",
-      "Revenir oignon dans l'huile et le beurre",
-      "Ajouter carottes — chou-fleur revenir dans l'oignon — sel, poivre",
-      "Cuire 2 à 3 min — découvrir, brasser",
-      "Ajouter l'ail — bouillon, eau — persil",
-      "Mijoter 1 h — Le chou-fleur va être en compote",
-      "Si trop liquide, faire réduire un peu plus longtemps",
-      "Blender",
-      "Ajouter le fromage jusqu'à homogène — sel, poivre"
-    ],
-    "title": "Suite de la recette précédente (chou-fleur-carotte-fromage fort)",
-    "ingredients": [],
-    "numberLabel": "Recette nº 551"
   },
   {
     "id": 552,
@@ -19339,7 +18946,13 @@
     },
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_115140.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nRecette continue à la page suivante.",
     "steps": [
-      "Dans casserole, verser le bouillon — ébullition (suite à la page suivante)"
+      "Dans casserole, verser le bouillon — ébullition (suite à la page suivante)",
+      "Ajouter 2 T de maïs, curcuma, oignons, sel, poivre",
+      "Mijoter 20 min feu doux",
+      "Blender",
+      "Remettre dans casserole et de nouveau à ébullition",
+      "Ajouter le reste du maïs, carottes et céleri",
+      "Mijoter 8 à 10 min"
     ],
     "title": "Chaudrée de maïs",
     "ingredients": [
@@ -19352,33 +18965,6 @@
       "2 branches céleri en dés"
     ],
     "numberLabel": "Recette nº 553"
-  },
-  {
-    "id": 554,
-    "meta": {
-      "tags": [
-        "poulet",
-        "boeuf"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_115152.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).",
-    "steps": [
-      "Ajouter 2 T de maïs, curcuma, oignons, sel, poivre",
-      "Mijoter 20 min feu doux",
-      "Blender",
-      "Remettre dans casserole et de nouveau à ébullition",
-      "Ajouter le reste du maïs, carottes et céleri",
-      "Mijoter 8 à 10 min"
-    ],
-    "title": "Suite de la recette précédente (chaudrée de maïs)",
-    "ingredients": [],
-    "numberLabel": "Recette nº 554"
   },
   {
     "id": 555,
@@ -19584,7 +19170,11 @@
       "Ébullition 10 min.",
       "Ajouter patates, crème, cuire 10 min de plus.",
       "Tranches de pain dans une plaque, cuire/griller à l'autre côté à broil.",
-      "Répartir la soupe dans bol allant au four. Garnir de pain grillé et ajouter fromage râpé. 3 min à broil."
+      "Répartir la soupe dans bol allant au four. Garnir de pain grillé et ajouter fromage râpé. 3 min à broil.",
+      "Tranches de pain dans une plaque, griller à chaque côté à broil.",
+      "Répartir la soupe dans bol allant au four.",
+      "Garnir de pain grillé et ajouter fromage râpé.",
+      "3 min à broil."
     ],
     "title": "Soupe aux poireaux gratinée",
     "ingredients": [
@@ -19600,30 +19190,6 @@
       "1 1/2 T fromage râpé"
     ],
     "numberLabel": "Recette nº 560"
-  },
-  {
-    "id": 561,
-    "meta": {
-      "tags": [
-        "boeuf"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_115214.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de Soupe aux poireaux gratinée.",
-    "steps": [
-      "Tranches de pain dans une plaque, griller à chaque côté à broil.",
-      "Répartir la soupe dans bol allant au four.",
-      "Garnir de pain grillé et ajouter fromage râpé.",
-      "3 min à broil."
-    ],
-    "title": "Suite de la recette précédente",
-    "ingredients": [],
-    "numberLabel": "Recette nº 561"
   },
   {
     "id": 562,
@@ -19683,6 +19249,9 @@
     "steps": [
       "Cuire légumes dans l'huile. Ajouter les tomates, pâte de tomate, bouillon, sel, poivre.",
       "Couvrir, cuire 20 à 25 min. Blender.",
+      "Chaudron : Ajouter l'orge, cuire 30 min.",
+      "Ajouter les tomates, pâte de tomate, bouillon, sel, poivre.",
+      "Couvrir, cuire 20 à 25 min. Blender.",
       "Chaudron : Ajouter l'orge, cuire 30 min."
     ],
     "title": "Crème de Tomate et Orge",
@@ -19700,30 +19269,6 @@
       "1 T d'orge"
     ],
     "numberLabel": "Recette nº 563"
-  },
-  {
-    "id": 564,
-    "meta": {
-      "tags": [
-        "poulet",
-        "boeuf"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_115225.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de Crème de Tomate et Orge.",
-    "steps": [
-      "Ajouter les tomates, pâte de tomate, bouillon, sel, poivre.",
-      "Couvrir, cuire 20 à 25 min. Blender.",
-      "Chaudron : Ajouter l'orge, cuire 30 min."
-    ],
-    "title": "Suite de la recette précédente",
-    "ingredients": [],
-    "numberLabel": "Recette nº 564"
   },
   {
     "id": 565,
@@ -20005,6 +19550,9 @@
     "steps": [
       "Revenir légumes dans beurre 5 min.",
       "Ajouter bouillon, ébullition. Mijoter 30 min.",
+      "Blender. Ajouter crème, brasser, réchauffer.",
+      "Revenir légumes dans beurre 5 min.",
+      "Ajouter bouillon, ébullition. Mijoter 30 min.",
       "Blender. Ajouter crème, brasser, réchauffer."
     ],
     "title": "Crème de légumes",
@@ -20021,29 +19569,6 @@
       "sel, poivre"
     ],
     "numberLabel": "Recette nº 573"
-  },
-  {
-    "id": 574,
-    "meta": {
-      "tags": [
-        "boeuf"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_115243.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de Crème de légumes.",
-    "steps": [
-      "Revenir légumes dans beurre 5 min.",
-      "Ajouter bouillon, ébullition. Mijoter 30 min.",
-      "Blender. Ajouter crème, brasser, réchauffer."
-    ],
-    "title": "Suite de la recette précédente",
-    "ingredients": [],
-    "numberLabel": "Recette nº 574"
   },
   {
     "id": 575,
@@ -20281,38 +19806,7 @@
       "Ajouter une touche de crème.",
       "Pour plus consistant : lentilles ou riz.",
       "Pour soupe épicée : curry, cumin ou paprika.",
-      "Version Vegan : bouillon de légumes au lieu de bouillon de poulet."
-    ],
-    "title": "Soupe Express aux légumes",
-    "ingredients": [
-      "1 oignon",
-      "1 g d'ail",
-      "2 patates",
-      "2 carottes",
-      "1 courgette",
-      "1 litre d'eau ou bouillon volaille, légumes ou boeuf",
-      "1 cà soupe huile olive",
-      "sel, poivre",
-      "herbes de Provence ou persil"
-    ],
-    "numberLabel": "Recette nº 581"
-  },
-  {
-    "id": 582,
-    "meta": {
-      "tags": [
-        "poulet",
-        "boeuf"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_115313.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de Soupe Express aux légumes — variantes et préparation.",
-    "steps": [
+      "Version Vegan : bouillon de légumes au lieu de bouillon de poulet.",
       "Émincer finement oignon et ail.",
       "Couper en petits dés patates.",
       "Carottes : trancher finement ou couper en petits cubes (plus fins, plus vite cuites).",
@@ -20327,9 +19821,19 @@
       "Servir avec pain grillé ou ajouter des croûtons maison.",
       "Ajouter graines de sésame sur le dessus ou parmesan râpé fin."
     ],
-    "title": "Suite de la recette précédente",
-    "ingredients": [],
-    "numberLabel": "Recette nº 582"
+    "title": "Soupe Express aux légumes",
+    "ingredients": [
+      "1 oignon",
+      "1 g d'ail",
+      "2 patates",
+      "2 carottes",
+      "1 courgette",
+      "1 litre d'eau ou bouillon volaille, légumes ou boeuf",
+      "1 cà soupe huile olive",
+      "sel, poivre",
+      "herbes de Provence ou persil"
+    ],
+    "numberLabel": "Recette nº 581"
   },
   {
     "id": 583,
@@ -20492,7 +19996,16 @@
     },
     "notes": "Transcrit automatiquement depuis BOOK1/20260503_115407.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nRecette suite p. suivante. Lecture difficile - vérifier ingrédients.",
     "steps": [
-      "Voir image source pour la recette complète."
+      "Voir image source pour la recette complète.",
+      "Cuire saucisse 5 min dans l'huile.",
+      "Ajouter oignon, céleri, ail, cuire jusqu'à coloration, ajouter sel.",
+      "Ajouter pâte de tomate, conserve, épinards, haricots.",
+      "Déglacer avec eau, bouillon, ajouter tomates.",
+      "Couvrir, laisser mijoter, ajouter pâtes longues, cuire jusqu'à al dente.",
+      "Ajouter bouquets de brocoli (?) et brocolis cuire 5 min.",
+      "À ce stade, ajouter pesto.",
+      "Saler, poivrer, garnir de parmesan.",
+      "Se congèle bien, réchauffer au moins 2-3 minutes."
     ],
     "title": "Soupe de Fork and Fork",
     "ingredients": [
@@ -20514,36 +20027,6 @@
       "1 t. d'épinards (?) frais coupés au couteau ou parmesan"
     ],
     "numberLabel": "Recette nº 587"
-  },
-  {
-    "id": 588,
-    "meta": {
-      "tags": [
-        "poulet",
-        "porc"
-      ],
-      "servings": 6,
-      "yieldUnit": null,
-      "difficulty": "facile",
-      "yieldCount": null,
-      "cookMinutes": 30,
-      "prepMinutes": 15
-    },
-    "notes": "Transcrit automatiquement depuis BOOK1/20260503_115411.heic — à vérifier (titre, quantités et étapes peuvent contenir des erreurs).\nSuite de la Soupe Fork and Fork.",
-    "steps": [
-      "Cuire saucisse 5 min dans l'huile.",
-      "Ajouter oignon, céleri, ail, cuire jusqu'à coloration, ajouter sel.",
-      "Ajouter pâte de tomate, conserve, épinards, haricots.",
-      "Déglacer avec eau, bouillon, ajouter tomates.",
-      "Couvrir, laisser mijoter, ajouter pâtes longues, cuire jusqu'à al dente.",
-      "Ajouter bouquets de brocoli (?) et brocolis cuire 5 min.",
-      "À ce stade, ajouter pesto.",
-      "Saler, poivrer, garnir de parmesan.",
-      "Se congèle bien, réchauffer au moins 2-3 minutes."
-    ],
-    "title": "Suite de la recette précédente",
-    "ingredients": [],
-    "numberLabel": "Recette nº 588"
   },
   {
     "id": 589,
