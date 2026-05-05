@@ -8,6 +8,12 @@
   # The repo root IS the site. No build step needed — plain HTML/CSS/JS.
   publish = "."
 
+# Netlify Functions — only one for now (publish.js, the editor's "Publier"
+# button). Netlify auto-installs npm dependencies declared in package.json.
+[functions]
+  directory  = "netlify/functions"
+  node_bundler = "esbuild"
+
 # Pretty URLs / no trailing slash. Netlify defaults already do this for
 # .html files; we set it explicitly for clarity.
 [build.processing]

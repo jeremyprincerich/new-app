@@ -15,7 +15,18 @@ import {
   isConfigured as isAuthConfigured,
   onSessionChange as onAuthChange,
   signOut as authSignOut,
+  isAdmin as authIsAdmin,
 } from "./auth.js";
+import {
+  loadRecipe as dbLoadRecipe,
+  saveRecipe as dbSaveRecipe,
+  loadAllRecipes as dbLoadAllRecipes,
+  loadRecentEdits as dbLoadRecentEdits,
+  loadAllowedEmails as dbLoadAllowedEmails,
+  addAllowedEmail as dbAddAllowedEmail,
+  removeAllowedEmail as dbRemoveAllowedEmail,
+  rollbackEdit as dbRollbackEdit,
+} from "./recipes-store.js";
 
 (function () {
   "use strict";
@@ -547,6 +558,7 @@ import {
       return { name: "categorie", slug: decodeURIComponent(parts[1]) };
     if (head === "recette" && parts[1])
       return { name: "recette", id: parseInt(parts[1], 10) };
+    if (head === "edit") return { name: "edit" };
     return { name: "home" };
   }
 
@@ -600,6 +612,9 @@ import {
           <div class="nav-sep"></div>
           <div class="nav-mid">
             <a href="#/sommaire" class="nav-pill ${active === "sommaire" ? "active" : ""}">Table des Matières</a>
+            ${authSession ? `
+              <a href="#/edit" class="nav-pill ${active === "edit" ? "active" : ""}">Tableau de bord</a>
+            ` : ""}
           </div>
           <a href="#/recherche" class="nav-search ${active === "recherche" ? "active" : ""}" aria-label="Recherche">
             <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -968,6 +983,16 @@ import {
               <div class="line"></div>
             </div>
             ${renderInfoStrip(r.meta, r.id)}
+            ${authSession ? `
+              <div class="recipe-edit-bar">
+                <button type="button" class="recipe-edit-btn" data-action="enter-edit" data-recipe-id="${r.id}">
+                  <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/>
+                    <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/>
+                  </svg>
+                  Modifier
+                </button>
+              </div>` : ""}
           </div>
         </header>
 
@@ -1071,6 +1096,644 @@ import {
         </div>
       </section>
     `;
+  }
+
+  // ============================================================
+  // RECIPE EDITOR (admin / family editors)
+  // ============================================================
+  // editState is null when not editing. When the user clicks "Modifier" on a
+  // recipe, we copy the recipe into editState.draft and re-render — the
+  // dispatcher then calls viewRecetteEdit() instead of viewRecette().
+  // Saving writes to Supabase (which audits via trigger) and returns to the
+  // display view. Cancel discards draft changes.
+  let editState = null;
+  // editState shape: { recipeId, draft, error, saving, dirty }
+
+  function deepClone(obj) {
+    return JSON.parse(JSON.stringify(obj));
+  }
+
+  // Tag taxonomies the editor exposes for manual selection. These are the
+  // values stored in meta.tags. The auto-classified régime tags (vegan,
+  // faible-sucre, …) are NOT in this list — they're computed by
+  // tools/build_diet_tags.py and live in assets/diet_tags.json.
+  const EDITABLE_TAG_GROUPS = [
+    { key: "diet",   label: "Régime",  tags: ["sans-gluten", "vegetarien"] },
+    { key: "method", label: "Cuisson", tags: ["four", "micro-ondes", "mijoteuse", "sans-cuisson",
+                                              "sous-vide", "air-fryer", "bbq", "fumoir",
+                                              "plaque-a-griller", "vapeur"] },
+    { key: "other",  label: "Autre",   tags: ["congelation", "conserves", "festif"] },
+  ];
+
+  function enterEdit(id) {
+    const r = recipesById.get(id);
+    if (!r) return;
+    editState = {
+      recipeId: id,
+      draft: deepClone(r),
+      error: null,
+      saving: false,
+      dirty: false,
+    };
+    // Make sure required nested objects exist on the draft.
+    editState.draft.ingredients = editState.draft.ingredients || [];
+    editState.draft.steps       = editState.draft.steps || [];
+    editState.draft.meta        = editState.draft.meta || {};
+    editState.draft.meta.tags   = Array.isArray(editState.draft.meta.tags) ? [...editState.draft.meta.tags] : [];
+    render();
+  }
+
+  function exitEdit({ confirm = true } = {}) {
+    if (confirm && editState && editState.dirty &&
+        !window.confirm("Annuler les modifications non sauvegardées ?")) return;
+    editState = null;
+    render();
+  }
+
+  // Pulls current values from the form back into the draft, then re-renders.
+  // Used before any structural mutation (add/remove/reorder) so the user's
+  // typed values aren't lost.
+  function syncDraftFromDom() {
+    if (!editState) return;
+    const d = editState.draft;
+    const get = (sel) => document.querySelector(sel)?.value;
+    const v = (sel) => (get(sel) ?? "").trim();
+    if (document.querySelector('[data-edit="title"]'))
+      d.title = v('[data-edit="title"]') || d.title;
+    if (document.querySelector('[data-edit="numberLabel"]'))
+      d.numberLabel = v('[data-edit="numberLabel"]') || d.numberLabel;
+    if (document.querySelector('[data-edit="notes"]'))
+      d.notes = v('[data-edit="notes"]') || null;
+
+    // Ingredients (textareas with [data-edit="ing"][data-idx="N"])
+    document.querySelectorAll('[data-edit="ing"]').forEach((el) => {
+      const i = Number(el.dataset.idx);
+      if (Number.isFinite(i)) d.ingredients[i] = el.value;
+    });
+    // Steps
+    document.querySelectorAll('[data-edit="step"]').forEach((el) => {
+      const i = Number(el.dataset.idx);
+      if (Number.isFinite(i)) d.steps[i] = el.value;
+    });
+
+    // Meta numeric fields
+    const numFromInput = (sel) => {
+      const raw = get(sel);
+      if (raw === undefined || raw === null || raw === "") return null;
+      const n = Number(raw);
+      return Number.isFinite(n) ? n : null;
+    };
+    d.meta = d.meta || {};
+    if (document.querySelector('[data-edit="prepMinutes"]'))
+      d.meta.prepMinutes = numFromInput('[data-edit="prepMinutes"]');
+    if (document.querySelector('[data-edit="cookMinutes"]'))
+      d.meta.cookMinutes = numFromInput('[data-edit="cookMinutes"]');
+    if (document.querySelector('[data-edit="servings"]'))
+      d.meta.servings = numFromInput('[data-edit="servings"]');
+    if (document.querySelector('[data-edit="yieldCount"]'))
+      d.meta.yieldCount = numFromInput('[data-edit="yieldCount"]');
+    if (document.querySelector('[data-edit="yieldUnit"]'))
+      d.meta.yieldUnit = v('[data-edit="yieldUnit"]') || null;
+    if (document.querySelector('[data-edit="difficulty"]'))
+      d.meta.difficulty = v('[data-edit="difficulty"]') || null;
+    if (document.querySelector('[data-edit="comment"]'))
+      editState.editComment = v('[data-edit="comment"]') || null;
+    editState.dirty = true;
+  }
+
+  function viewRecetteEdit(id) {
+    const d = editState.draft;
+    if (!d) return viewRecette(id);
+    const cat = categoryForRecipe(id);
+    const catSlug = cat ? slugify(cat.name) : "";
+
+    const ingItems = (d.ingredients || []).map((ing, i) => `
+      <li class="edit-row" data-row-kind="ing" data-row-idx="${i}">
+        <textarea class="edit-textarea" data-edit="ing" data-idx="${i}" rows="1"
+                  placeholder="ex. 2 c. à thé de sel">${escapeHtml(ing)}</textarea>
+        <div class="edit-row-actions">
+          <button type="button" data-action="ing-up"     data-idx="${i}" aria-label="Monter"        ${i === 0 ? "disabled" : ""}>↑</button>
+          <button type="button" data-action="ing-down"   data-idx="${i}" aria-label="Descendre"     ${i === (d.ingredients.length - 1) ? "disabled" : ""}>↓</button>
+          <button type="button" data-action="ing-remove" data-idx="${i}" aria-label="Supprimer">×</button>
+        </div>
+      </li>
+    `).join("");
+
+    const stepItems = (d.steps || []).map((step, i) => `
+      <li class="edit-row" data-row-kind="step" data-row-idx="${i}">
+        <span class="edit-step-num">${i + 1}</span>
+        <textarea class="edit-textarea" data-edit="step" data-idx="${i}" rows="2"
+                  placeholder="Décrivez l'étape…">${escapeHtml(step)}</textarea>
+        <div class="edit-row-actions">
+          <button type="button" data-action="step-up"     data-idx="${i}" aria-label="Monter"     ${i === 0 ? "disabled" : ""}>↑</button>
+          <button type="button" data-action="step-down"   data-idx="${i}" aria-label="Descendre" ${i === (d.steps.length - 1) ? "disabled" : ""}>↓</button>
+          <button type="button" data-action="step-remove" data-idx="${i}" aria-label="Supprimer">×</button>
+        </div>
+      </li>
+    `).join("");
+
+    const meta = d.meta || {};
+    const sel = (val, opt) => val === opt ? "selected" : "";
+    const tagBlocks = EDITABLE_TAG_GROUPS.map((g) => {
+      const chips = g.tags.map((t) => {
+        const isOn = (meta.tags || []).includes(t);
+        const label = TAG_LABELS[t] || t.replace(/-/g, " ");
+        return `<button type="button" class="edit-tag-chip ${isOn ? "is-selected" : ""}"
+                        data-action="toggle-tag" data-tag="${escapeHtml(t)}">
+                  ${escapeHtml(label)}
+                </button>`;
+      }).join("");
+      return `
+        <div class="edit-tag-group">
+          <span class="edit-section-label">${escapeHtml(g.label)}</span>
+          <div class="edit-tag-chips">${chips}</div>
+        </div>`;
+    }).join("");
+
+    return `
+      <section class="recipe-page recipe-edit">
+        <header class="recipe-header">
+          <div class="recipe-header-inner">
+            <nav class="recipe-crumbs">
+              ${cat ? `<a href="#/categorie/${encodeURIComponent(catSlug)}">${escapeHtml(cat.name)}</a><span class="sep">›</span>` : ""}
+              <span class="num"><input type="text" class="edit-input edit-input-num"
+                     data-edit="numberLabel" value="${escapeHtml(d.numberLabel || "")}"
+                     placeholder="ex. Recette nº 42"></span>
+            </nav>
+            <input type="text" class="edit-input edit-input-title" data-edit="title"
+                   value="${escapeHtml(d.title || "")}" placeholder="Titre de la recette">
+            <div class="recipe-orn">
+              <div class="line"></div>
+              <svg class="star" width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+                <path d="M8 0l1.6 4.8H14.4l-3.8 3 1.6 4.8L8 9.6l-4.4 3 1.6-4.8L1 4.8h5.4z"/>
+              </svg>
+              <div class="line"></div>
+            </div>
+            <p class="edit-mode-banner">
+              <strong>Mode édition</strong> — vos changements sont enregistrés dans la base de données et un administrateur publiera la mise à jour.
+            </p>
+          </div>
+        </header>
+
+        <div class="recipe-content">
+          <div class="recipe-grid">
+            <aside>
+              <div class="ingredients-aside">
+                <div class="ingredients-card">
+                  <div class="section-label">
+                    <span class="pip"></span>
+                    <h2>Ingrédients</h2>
+                    <span class="count">${(d.ingredients || []).length}</span>
+                  </div>
+                  <ul class="edit-list edit-list-ings">${ingItems}</ul>
+                  <div class="edit-add-row">
+                    <button type="button" class="edit-add-btn" data-action="ing-add">+ Ajouter un ingrédient</button>
+                  </div>
+                </div>
+
+                <div class="edit-meta-card">
+                  <div class="section-label">
+                    <span class="pip"></span>
+                    <h2>Détails</h2>
+                  </div>
+                  <div class="edit-meta-grid">
+                    <label class="edit-field">
+                      <span>Préparation (min)</span>
+                      <input type="number" min="0" data-edit="prepMinutes"
+                             value="${meta.prepMinutes ?? ""}">
+                    </label>
+                    <label class="edit-field">
+                      <span>Cuisson (min)</span>
+                      <input type="number" min="0" data-edit="cookMinutes"
+                             value="${meta.cookMinutes ?? ""}">
+                    </label>
+                    <label class="edit-field">
+                      <span>Portions</span>
+                      <input type="number" min="0" data-edit="servings"
+                             value="${meta.servings ?? ""}">
+                    </label>
+                    <label class="edit-field">
+                      <span>Difficulté</span>
+                      <select data-edit="difficulty">
+                        <option value="" ${sel(meta.difficulty, "")}>—</option>
+                        <option value="facile"    ${sel(meta.difficulty, "facile")}>facile</option>
+                        <option value="moyen"     ${sel(meta.difficulty, "moyen")}>moyen</option>
+                        <option value="difficile" ${sel(meta.difficulty, "difficile")}>difficile</option>
+                      </select>
+                    </label>
+                    <label class="edit-field edit-field-wide">
+                      <span>Donne (quantité)</span>
+                      <input type="number" min="0" data-edit="yieldCount"
+                             value="${meta.yieldCount ?? ""}">
+                    </label>
+                    <label class="edit-field edit-field-wide">
+                      <span>Donne (unité)</span>
+                      <input type="text" data-edit="yieldUnit"
+                             value="${escapeHtml(meta.yieldUnit ?? "")}"
+                             placeholder="ex. biscuits, pots">
+                    </label>
+                  </div>
+                  <div class="edit-tags">
+                    ${tagBlocks}
+                  </div>
+                </div>
+              </div>
+            </aside>
+
+            <main class="prep-section">
+              <div class="section-label-inline">
+                <span class="pip"></span>
+                <h2>Préparation</h2>
+              </div>
+              <ol class="edit-list edit-list-steps">${stepItems}</ol>
+              <div class="edit-add-row">
+                <button type="button" class="edit-add-btn" data-action="step-add">+ Ajouter une étape</button>
+              </div>
+
+              <div class="edit-notes-card">
+                <span class="edit-section-label">Note</span>
+                <textarea class="edit-textarea" data-edit="notes" rows="3"
+                          placeholder="Note optionnelle (astuces, variantes…)">${escapeHtml(d.notes || "")}</textarea>
+              </div>
+
+              <div class="edit-comment-card">
+                <span class="edit-section-label">Commentaire de modification (optionnel)</span>
+                <input type="text" class="edit-input" data-edit="comment"
+                       placeholder="ex. Correction du nombre de portions"
+                       value="${escapeHtml(editState.editComment || "")}">
+                <p class="edit-hint">Aide les autres éditeurs à comprendre votre changement dans l'historique.</p>
+              </div>
+            </main>
+          </div>
+        </div>
+
+        <div class="edit-savebar" role="region" aria-label="Sauvegarder ou annuler">
+          <div class="edit-savebar-inner">
+            ${editState.error ? `<span class="edit-error">${escapeHtml(editState.error)}</span>` : ""}
+            <button type="button" class="edit-cancel" data-action="cancel-edit"
+                    ${editState.saving ? "disabled" : ""}>Annuler</button>
+            <button type="button" class="edit-save" data-action="save-edit"
+                    ${editState.saving ? "disabled" : ""}>
+              ${editState.saving ? "Enregistrement…" : "Sauvegarder"}
+            </button>
+          </div>
+        </div>
+      </section>
+    `;
+  }
+
+  // Wire all editor interactions via event delegation on document. The render
+  // pipeline replaces the entire #app innerHTML on every tick, so attaching
+  // listeners after each render would be redundant — delegate once.
+  function bindEditorDelegation() {
+    document.addEventListener("click", async (e) => {
+      const btn = e.target.closest("[data-action]");
+      if (!btn) return;
+      const action = btn.dataset.action;
+
+      // Enter edit mode from the recipe view
+      if (action === "enter-edit") {
+        const id = Number(btn.dataset.recipeId);
+        if (Number.isFinite(id)) enterEdit(id);
+        return;
+      }
+
+      if (!editState) return;     // The rest of these only fire in edit mode
+
+      if (action === "cancel-edit") { exitEdit(); return; }
+
+      if (action === "save-edit") {
+        e.preventDefault();
+        syncDraftFromDom();
+        editState.saving = true; editState.error = null;
+        render();
+        try {
+          const draftCopy = deepClone(editState.draft);
+          // Coerce empty strings inside arrays to clean values
+          draftCopy.ingredients = (draftCopy.ingredients || []).map((s) => String(s ?? "").trim()).filter(Boolean);
+          draftCopy.steps       = (draftCopy.steps || []).map((s) => String(s ?? "").trim()).filter(Boolean);
+          await dbSaveRecipe(editState.recipeId, draftCopy, editState.editComment || null);
+          // Patch local cache so the display view reflects changes immediately
+          recipesById.set(editState.recipeId, draftCopy);
+          const idx = recipes.findIndex((x) => x.id === editState.recipeId);
+          if (idx >= 0) recipes[idx] = draftCopy;
+          indexRecipeIngredients();
+          editState = null;
+          render();
+        } catch (err) {
+          editState.saving = false;
+          editState.error = err.message || "Échec de la sauvegarde.";
+          render();
+        }
+        return;
+      }
+
+      // Structural mutations: snapshot DOM values into draft, mutate, re-render
+      const idx = Number(btn.dataset.idx);
+      const d = editState.draft;
+      if (action === "ing-add")       { syncDraftFromDom(); d.ingredients.push(""); render(); }
+      else if (action === "ing-remove"){ syncDraftFromDom(); d.ingredients.splice(idx, 1); render(); }
+      else if (action === "ing-up" && idx > 0)
+        { syncDraftFromDom(); [d.ingredients[idx-1], d.ingredients[idx]] = [d.ingredients[idx], d.ingredients[idx-1]]; render(); }
+      else if (action === "ing-down" && idx < d.ingredients.length - 1)
+        { syncDraftFromDom(); [d.ingredients[idx], d.ingredients[idx+1]] = [d.ingredients[idx+1], d.ingredients[idx]]; render(); }
+      else if (action === "step-add") { syncDraftFromDom(); d.steps.push(""); render(); }
+      else if (action === "step-remove"){ syncDraftFromDom(); d.steps.splice(idx, 1); render(); }
+      else if (action === "step-up" && idx > 0)
+        { syncDraftFromDom(); [d.steps[idx-1], d.steps[idx]] = [d.steps[idx], d.steps[idx-1]]; render(); }
+      else if (action === "step-down" && idx < d.steps.length - 1)
+        { syncDraftFromDom(); [d.steps[idx], d.steps[idx+1]] = [d.steps[idx+1], d.steps[idx]]; render(); }
+      else if (action === "toggle-tag") {
+        const tag = btn.dataset.tag;
+        if (!tag) return;
+        syncDraftFromDom();
+        d.meta = d.meta || {}; d.meta.tags = d.meta.tags || [];
+        const i = d.meta.tags.indexOf(tag);
+        if (i >= 0) d.meta.tags.splice(i, 1); else d.meta.tags.push(tag);
+        editState.dirty = true;
+        render();
+      }
+    });
+
+    // Mark dirty on any input change so we can warn before discarding.
+    document.addEventListener("input", (e) => {
+      if (editState && e.target.matches?.("[data-edit]")) editState.dirty = true;
+    });
+  }
+
+  // ============================================================
+  // ADMIN DASHBOARD (#/edit)
+  // ============================================================
+  // Holds async-loaded data. View renders whatever is in here; loadDashboard()
+  // fetches and triggers re-renders. Cleared when navigating away.
+  let dashboardState = {
+    loading: false,
+    loaded: false,
+    error: null,
+    qa: { missingServings: [], emptyIngredients: [], lowQuantified: [] },
+    edits: [],
+    whitelist: [],
+    isAdmin: false,
+    publishing: false,
+    publishMsg: null,
+  };
+
+  // Recompute QA buckets from the in-memory recipes array (which is the
+  // edited state once the user saves — recipesById gets patched).
+  function computeQa() {
+    const QTY_LEAD = /^\s*(?:\d+\s*[/.,]?\s*\d*|[½⅓⅔¼¾⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞])/;
+    const isQ = (s) => {
+      if (typeof s !== "string") return false;
+      const t = s.trim();
+      if (!t) return false;
+      if (QTY_LEAD.test(t)) return true;
+      if (/^\s*(une?|un|demi[ -]?|quelques)\b/i.test(t)) return true;
+      return false;
+    };
+    const missingServings = [];
+    const emptyIngredients = [];
+    const lowQuantified = [];
+    for (const r of recipes) {
+      const m = r.meta || {};
+      const ings = r.ingredients || [];
+      if (!Number.isFinite(m.servings) || m.servings <= 0) missingServings.push(r);
+      if (!ings.length) emptyIngredients.push(r);
+      if (ings.length) {
+        const q = ings.filter(isQ).length;
+        const ratio = q / ings.length;
+        if (ratio < 0.70 && ratio > 0) lowQuantified.push({ ...r, _ratio: ratio });
+      }
+    }
+    return { missingServings, emptyIngredients, lowQuantified };
+  }
+
+  async function loadDashboard() {
+    dashboardState.loading = true; dashboardState.error = null;
+    dashboardState.qa = computeQa();
+    render();
+    try {
+      const [edits, isAdminFlag] = await Promise.all([
+        dbLoadRecentEdits(50).catch(() => []),
+        authIsAdmin().catch(() => false),
+      ]);
+      dashboardState.edits = edits;
+      dashboardState.isAdmin = isAdminFlag;
+      // Whitelist is admin-only; RLS will return [] for non-admins
+      if (isAdminFlag) {
+        dashboardState.whitelist = await dbLoadAllowedEmails().catch(() => []);
+      }
+      dashboardState.loaded = true;
+    } catch (err) {
+      dashboardState.error = err.message || "Erreur de chargement.";
+    } finally {
+      dashboardState.loading = false;
+      render();
+    }
+  }
+
+  function viewEdit() {
+    if (!authSession) {
+      return `
+        <section class="empty-state" style="padding:4rem 1rem; text-align:center;">
+          <h2 style="font-family:var(--serif); font-size:24px; margin:0 0 .5rem;">Accès réservé</h2>
+          <p>Vous devez être connecté pour accéder au tableau de bord d'édition.</p>
+          <p><a href="/login.html" class="cta" style="margin-top:1rem;">Se connecter</a></p>
+        </section>`;
+    }
+    const s = dashboardState;
+    const qa = s.qa;
+    const totalIssues = qa.missingServings.length + qa.emptyIngredients.length + qa.lowQuantified.length;
+
+    const qaCard = (count, label, recipes, kind) => `
+      <article class="dash-qa-card" data-qa-kind="${kind}">
+        <div class="dash-qa-count">${count}</div>
+        <div class="dash-qa-label">${escapeHtml(label)}</div>
+        ${recipes.length ? `
+          <details class="dash-qa-list">
+            <summary>Voir la liste</summary>
+            <ul>
+              ${recipes.slice(0, 30).map((r) => `
+                <li><a href="#/recette/${r.id}">${escapeHtml(r.numberLabel || ("#" + r.id))} — ${escapeHtml(r.title || "")}</a></li>
+              `).join("")}
+              ${recipes.length > 30 ? `<li class="dash-qa-more">… et ${recipes.length - 30} autres</li>` : ""}
+            </ul>
+          </details>` : ""}
+      </article>`;
+
+    const editsTable = s.edits.length ? `
+      <table class="dash-edits">
+        <thead>
+          <tr><th>Recette</th><th>Quand</th><th>Par</th><th>Commentaire</th><th></th></tr>
+        </thead>
+        <tbody>
+          ${s.edits.map((e) => `
+            <tr data-edit-id="${e.id}">
+              <td><a href="#/recette/${e.recipe_id}">${escapeHtml(e.recipe_label || ("#" + e.recipe_id))} — ${escapeHtml(e.recipe_title || "")}</a></td>
+              <td><time datetime="${e.edited_at}">${new Date(e.edited_at).toLocaleString("fr-CA", { dateStyle: "short", timeStyle: "short" })}</time></td>
+              <td>${escapeHtml(e.edited_by_email || "—")}</td>
+              <td>${escapeHtml(e.comment || "")}</td>
+              <td><button type="button" class="dash-rollback-btn" data-action="rollback-edit" data-edit-id="${e.id}">Annuler</button></td>
+            </tr>`).join("")}
+        </tbody>
+      </table>
+    ` : `<p class="dash-empty">Aucune modification enregistrée pour le moment.</p>`;
+
+    const whitelistBlock = s.isAdmin ? `
+      <section class="dash-section">
+        <h2 class="dash-section-title">Éditeurs autorisés</h2>
+        <p class="dash-section-sub">Ces personnes peuvent se connecter et modifier les recettes. ${s.whitelist.length} au total.</p>
+        <ul class="dash-whitelist">
+          ${s.whitelist.map((w) => `
+            <li>
+              <span class="dash-wl-email">${escapeHtml(w.email)}</span>
+              ${w.is_admin ? `<span class="dash-wl-badge">admin</span>` : ""}
+              <button type="button" class="dash-wl-remove" data-action="remove-email" data-email="${escapeHtml(w.email)}">×</button>
+            </li>`).join("")}
+        </ul>
+        <form class="dash-add-email" data-action="add-email-form">
+          <input type="email" placeholder="nouveau@exemple.com" name="email" required>
+          <label><input type="checkbox" name="admin"> admin</label>
+          <button type="submit">Ajouter</button>
+        </form>
+        <p class="dash-error" id="dash-wl-error"></p>
+      </section>` : "";
+
+    const publishBlock = s.isAdmin ? `
+      <section class="dash-section dash-publish">
+        <h2 class="dash-section-title">Publier les modifications</h2>
+        <p class="dash-section-sub">
+          Régénère <code>recipes.json</code> à partir de la base de données et déclenche un redéploiement du site.
+          Tous les changements sauvegardés depuis la dernière publication seront mis en ligne.
+        </p>
+        <button type="button" class="dash-publish-btn" data-action="publish"
+                ${s.publishing ? "disabled" : ""}>
+          ${s.publishing ? "Publication en cours…" : "Publier"}
+        </button>
+        ${s.publishMsg ? `<p class="dash-publish-msg" data-kind="${s.publishMsg.kind}">${escapeHtml(s.publishMsg.text)}</p>` : ""}
+      </section>` : "";
+
+    return `
+      <section class="dashboard">
+        <header class="dash-header">
+          <h1 class="dash-title">Tableau de bord</h1>
+          <p class="dash-sub">Bienvenue, <strong>${escapeHtml(authSession.user?.email || "")}</strong>. ${s.loading ? "Chargement…" : ""}</p>
+          ${s.error ? `<p class="dash-error">${escapeHtml(s.error)}</p>` : ""}
+        </header>
+
+        <section class="dash-section">
+          <h2 class="dash-section-title">Recettes à corriger</h2>
+          <p class="dash-section-sub">${totalIssues} ${totalIssues === 1 ? "problème" : "problèmes"} détectés.</p>
+          <div class="dash-qa-grid">
+            ${qaCard(qa.missingServings.length,  "Recettes sans nombre de portions", qa.missingServings,  "missing-servings")}
+            ${qaCard(qa.emptyIngredients.length, "Recettes sans ingrédients",         qa.emptyIngredients, "empty-ingredients")}
+            ${qaCard(qa.lowQuantified.length,    "Recettes peu quantifiées (<70%)",   qa.lowQuantified,    "low-quantified")}
+          </div>
+        </section>
+
+        <section class="dash-section">
+          <h2 class="dash-section-title">Historique des modifications</h2>
+          <p class="dash-section-sub">Les 50 dernières sauvegardes (toutes recettes confondues).</p>
+          ${editsTable}
+        </section>
+
+        ${publishBlock}
+        ${whitelistBlock}
+      </section>
+    `;
+  }
+
+  function bindDashboardDelegation() {
+    document.addEventListener("click", async (e) => {
+      const btn = e.target.closest("[data-action]");
+      if (!btn) return;
+      const action = btn.dataset.action;
+
+      if (action === "rollback-edit") {
+        const id = Number(btn.dataset.editId);
+        if (!Number.isFinite(id)) return;
+        if (!confirm("Annuler cette modification ? La recette retournera à son état précédent.")) return;
+        try {
+          await dbRollbackEdit(id);
+          // Reload the recipe into the local cache
+          const editRow = dashboardState.edits.find((x) => x.id === id);
+          if (editRow) {
+            const fresh = await dbLoadRecipe(editRow.recipe_id);
+            if (fresh) {
+              recipesById.set(fresh.id, fresh.data);
+              const idx = recipes.findIndex((x) => x.id === fresh.id);
+              if (idx >= 0) recipes[idx] = fresh.data;
+            }
+          }
+          loadDashboard();
+        } catch (err) {
+          dashboardState.error = err.message || "Échec de l'annulation.";
+          render();
+        }
+        return;
+      }
+
+      if (action === "remove-email") {
+        const email = btn.dataset.email;
+        if (!email) return;
+        if (!confirm(`Retirer ${email} de la liste des éditeurs ?`)) return;
+        try {
+          await dbRemoveAllowedEmail(email);
+          dashboardState.whitelist = dashboardState.whitelist.filter((w) => w.email !== email);
+          render();
+        } catch (err) {
+          alert("Échec : " + (err.message || "erreur inconnue"));
+        }
+        return;
+      }
+
+      if (action === "publish") {
+        dashboardState.publishing = true;
+        dashboardState.publishMsg = null;
+        render();
+        try {
+          const session = (await import("./auth.js")).supabase
+            ? await (await import("./auth.js")).getSession()
+            : null;
+          if (!session) throw new Error("Session expirée — reconnectez-vous.");
+          const resp = await fetch("/.netlify/functions/publish", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              "Authorization": `Bearer ${session.access_token}`,
+            },
+          });
+          const json = await resp.json().catch(() => ({}));
+          if (!resp.ok) throw new Error(json.error || `HTTP ${resp.status}`);
+          dashboardState.publishMsg = {
+            kind: "ok",
+            text: `Publié : ${json.committed ?? "—"} recettes. Le site sera mis à jour dans ~30 secondes.`,
+          };
+        } catch (err) {
+          dashboardState.publishMsg = { kind: "error", text: err.message || "Échec de la publication." };
+        } finally {
+          dashboardState.publishing = false;
+          render();
+        }
+        return;
+      }
+    });
+
+    document.addEventListener("submit", async (e) => {
+      const form = e.target.closest('[data-action="add-email-form"]');
+      if (!form) return;
+      e.preventDefault();
+      const email = form.querySelector('input[name="email"]').value;
+      const isAdmin = form.querySelector('input[name="admin"]').checked;
+      const errEl = document.getElementById("dash-wl-error");
+      if (errEl) errEl.textContent = "";
+      try {
+        await dbAddAllowedEmail(email, isAdmin);
+        dashboardState.whitelist.push({ email: email.trim().toLowerCase(), is_admin: isAdmin, added_at: new Date().toISOString() });
+        render();
+      } catch (err) {
+        if (errEl) errEl.textContent = err.message || "Échec de l'ajout.";
+      }
+    });
   }
 
   function renderFilterPanel() {
@@ -1426,10 +2089,15 @@ import {
         body = viewCategorie(route.slug);
         break;
       case "recette":
-        body = viewRecette(route.id);
+        body = (editState && editState.recipeId === route.id)
+          ? viewRecetteEdit(route.id)
+          : viewRecette(route.id);
         break;
       case "recherche":
         body = viewRecherche();
+        break;
+      case "edit":
+        body = viewEdit();
         break;
       default:
         body = viewHome();
@@ -1638,12 +2306,39 @@ import {
     authSignOut();
   });
 
+  // Editor + dashboard delegation — installed once. Each reads/writes its
+  // own module-scoped state.
+  bindEditorDelegation();
+  bindDashboardDelegation();
+
+  // Lazy-load dashboard data when the user lands on #/edit. Re-run on every
+  // hashchange to /edit so the QA queue refreshes after edits elsewhere.
+  function maybeLoadDashboard() {
+    const route = parseRoute();
+    if (route.name === "edit" && authSession && !dashboardState.loading) {
+      loadDashboard();
+    }
+  }
+  window.addEventListener("hashchange", maybeLoadDashboard);
+
+  // Bail out of edit mode automatically when the user navigates away from
+  // the recipe being edited (hash change to a different route).
+  window.addEventListener("hashchange", () => {
+    if (!editState) return;
+    const route = parseRoute();
+    if (route.name !== "recette" || route.id !== editState.recipeId) {
+      // Skip the confirm dialog on navigation — user clearly wanted to leave.
+      editState = null;
+    }
+  });
+
   document.addEventListener("DOMContentLoaded", async () => {
     const root = $("#app");
     if (!root) return;
     try {
       await loadData();
       render();
+      maybeLoadDashboard();
     } catch (e) {
       console.error(e);
       root.innerHTML = `<div class="empty-state"><p>Impossible de charger les recettes.</p></div>`;
