@@ -196,7 +196,17 @@
         "riche-proteines", "riche-fibres", "diabetique", "keto",
       ],
     },
-    { key: "method",  label: "Cuisson",   tags: ["four", "micro-ondes", "mijoteuse", "sans-cuisson"] },
+    {
+      key: "method",
+      label: "Cuisson",
+      tags: [
+        "four", "micro-ondes", "mijoteuse", "sans-cuisson",
+        // Future-use methods — no recipes carry these tags today; tag manually
+        // as new recipes using these appliances are added to recipes.json.
+        "sous-vide", "air-fryer", "bbq", "fumoir",
+        "plaque-a-griller", "vapeur",
+      ],
+    },
     { key: "other",   label: "Autre",     tags: ["congelation", "conserves", "festif"] },
   ];
 
@@ -214,6 +224,13 @@
     "riche-fibres":     "Riche en fibres",
     "diabetique":       "Diabétique",
     "keto":             "Keto",
+    // Cuisson — future-use cooking methods (manual tagging)
+    "sous-vide":        "Sous vide",
+    "air-fryer":        "Air fryer",
+    "bbq":              "BBQ",
+    "fumoir":           "Fumoir",
+    "plaque-a-griller": "Plaque à griller",
+    "vapeur":           "À la vapeur",
   };
   const DIFFICULTIES = ["facile", "moyen", "difficile"];
   // Buckets on prep + cook total. Keys are independent of the difficulty "moyen".
