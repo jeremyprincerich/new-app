@@ -5,6 +5,17 @@
 //   #/categorie/:slug      -> Category landing
 //   #/recette/:id          -> Recipe detail
 //   #/recherche            -> Search
+//
+// This file is loaded as an ES module (see <script type="module"> in
+// cookbook.html / index.html). The IIFE wrapper is preserved for parity with
+// the previous structure, but module-scope imports above it provide auth
+// helpers from assets/auth.js.
+
+import {
+  isConfigured as isAuthConfigured,
+  onSessionChange as onAuthChange,
+  signOut as authSignOut,
+} from "./auth.js";
 
 (function () {
   "use strict";
@@ -545,6 +556,37 @@
   }
 
   // ---------- shared chrome ----------
+  // Auth state — populated on module load via onAuthChange below. The render
+  // pipeline reads this when building the header so the Connexion / Déconnexion
+  // affordance reflects the current session.
+  let authSession = null;
+
+  function authChip() {
+    // Auth not configured yet (placeholder Supabase keys) — hide the chip
+    // entirely so the public site looks unchanged before db/SETUP.md is run.
+    if (!isAuthConfigured()) return "";
+    if (authSession) {
+      const email = (authSession.user?.email || "").toLowerCase();
+      const initial = email ? email[0].toUpperCase() : "•";
+      return `
+        <button type="button" class="nav-user" data-action="signout"
+                aria-label="Déconnexion (${escapeHtml(email)})"
+                title="${escapeHtml(email)} — cliquez pour vous déconnecter">
+          <span class="nav-user-dot" aria-hidden="true">${escapeHtml(initial)}</span>
+          <span class="nav-user-label">Déconnexion</span>
+        </button>`;
+    }
+    return `
+      <a href="/login.html" class="nav-login" aria-label="Connexion">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/>
+          <polyline points="10 17 15 12 10 7"/>
+          <line x1="15" y1="12" x2="3" y2="12"/>
+        </svg>
+        <span class="nav-login-label">Connexion</span>
+      </a>`;
+  }
+
   function renderNav(active) {
     return `
       <header class="appnav">
@@ -566,6 +608,7 @@
             </svg>
             <span class="nav-search-text">Recherche</span>
           </a>
+          ${authChip()}
         </div>
       </header>
     `;
@@ -1574,6 +1617,27 @@
 
   // ---------- bootstrap ----------
   window.addEventListener("hashchange", render);
+
+  // Reactive auth: re-render the header whenever the session changes (login,
+  // logout, token refresh). When auth isn't configured, onAuthChange fires
+  // once with null and we move on — no-op.
+  onAuthChange((session) => {
+    const before = !!authSession;
+    authSession = session || null;
+    const after = !!authSession;
+    if (before !== after && document.getElementById("app")) {
+      render();
+    }
+  });
+
+  // Delegated click handler for the Déconnexion button in the header.
+  document.addEventListener("click", (e) => {
+    const btn = e.target.closest('[data-action="signout"]');
+    if (!btn) return;
+    e.preventDefault();
+    authSignOut();
+  });
+
   document.addEventListener("DOMContentLoaded", async () => {
     const root = $("#app");
     if (!root) return;

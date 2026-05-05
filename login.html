@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Connexion · Cahier de Recettes</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <main class="auth-page">
+    <section class="auth-card" aria-labelledby="auth-title">
+      <div class="auth-orn">
+        <div class="line"></div>
+        <svg class="star" width="18" height="18" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+          <path d="M8 0l1.6 4.8H14.4l-3.8 3 1.6 4.8L8 9.6l-4.4 3 1.6-4.8L1 4.8h5.4z"/>
+        </svg>
+        <div class="line"></div>
+      </div>
+      <h1 id="auth-title" class="auth-title">Connexion</h1>
+      <p class="auth-sub">
+        Le Cahier est public — la connexion ne sert qu'à corriger ou améliorer
+        les recettes.
+      </p>
+
+      <form id="login-form" class="auth-form" novalidate>
+        <label class="auth-label" for="email">Adresse courriel</label>
+        <input
+          id="email"
+          name="email"
+          type="email"
+          required
+          autocomplete="email"
+          inputmode="email"
+          placeholder="vous@exemple.com"
+          class="auth-input"
+        >
+        <button type="submit" class="auth-submit">Recevoir le lien magique</button>
+      </form>
+
+      <p id="auth-msg" class="auth-msg" role="status" aria-live="polite"></p>
+
+      <p class="auth-foot">
+        <a href="/cookbook.html#/sommaire" class="auth-back">← Retour au cahier</a>
+      </p>
+    </section>
+  </main>
+
+  <script type="module">
+    import { sendMagicLink, getSession, isConfigured } from "./assets/auth.js";
+
+    const form  = document.getElementById("login-form");
+    const input = document.getElementById("email");
+    const msg   = document.getElementById("auth-msg");
+    const btn   = form.querySelector("button[type=submit]");
+
+    function setMsg(text, kind = "info") {
+      msg.textContent = text;
+      msg.dataset.kind = kind;
+    }
+
+    if (!isConfigured()) {
+      setMsg("L'éditeur n'est pas encore configuré (voir db/SETUP.md).", "warn");
+      btn.disabled = true;
+      input.disabled = true;
+    } else {
+      // If already signed in, redirect straight to the editor.
+      getSession().then((session) => {
+        if (session) location.replace("/cookbook.html#/sommaire");
+      });
+    }
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      setMsg("Envoi en cours…", "info");
+      btn.disabled = true;
+      try {
+        await sendMagicLink(input.value);
+        setMsg("Lien envoyé ! Vérifiez votre courriel et cliquez sur le bouton de connexion.", "ok");
+      } catch (err) {
+        setMsg(err.message || "Une erreur est survenue", "error");
+        btn.disabled = false;
+      }
+    });
+  </script>
+</body>
+</html>

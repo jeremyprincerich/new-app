@@ -14,3 +14,8 @@ tools/output/
 
 # Local Claude Code launch config — per-developer, not deployable.
 .claude/launch.json
+
+# Supabase seed dump — regenerable via `python tools/generate_recipes_seed.py`.
+# The seed is a one-shot setup artifact; after first import the DB is the
+# source of truth and recipes.json mirrors it.
+db/recipes_seed.sql

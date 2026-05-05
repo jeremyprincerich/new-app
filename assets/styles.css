@@ -132,6 +132,154 @@ button { font: inherit; cursor: pointer; border: none; background: none; color: 
 @media (min-width: 640px) { .nav-search-text { display: inline; } }
 .icon { width: 14px; height: 14px; flex-shrink: 0; }
 
+/* Connexion / Déconnexion chip — sits to the right of the search button.
+   Match the visual weight of nav-search so the header stays balanced. */
+.nav-login,
+.nav-user {
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .375rem .75rem;
+  border-radius: 9999px;
+  font-family: var(--sans);
+  font-size: .75rem;
+  color: var(--muted-foreground);
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  margin-left: .25rem;
+  transition: all .2s;
+}
+.nav-login:hover,
+.nav-user:hover { background: hsl(33 20% 91% / .6); color: var(--foreground); }
+.nav-login-label,
+.nav-user-label { display: none; }
+@media (min-width: 640px) {
+  .nav-login-label,
+  .nav-user-label { display: inline; }
+}
+.nav-user-dot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .02em;
+}
+
+/* Standalone auth pages (login.html, auth-callback.html). Centered card
+   matching the cookbook aesthetic — no app shell here. */
+.auth-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1rem;
+  background: var(--background);
+}
+.auth-card {
+  width: 100%;
+  max-width: 420px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: var(--paper-shadow);
+  padding: 2rem 2rem 1.75rem;
+  text-align: center;
+}
+.auth-orn {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  color: var(--accent, hsl(33 35% 60%));
+  margin: -.25rem 0 .75rem;
+}
+.auth-orn .line {
+  flex: 1;
+  height: 1px;
+  background: currentColor;
+  opacity: .35;
+}
+.auth-orn .star { opacity: .55; }
+.auth-title {
+  font-family: var(--serif);
+  font-size: 26px;
+  font-weight: 500;
+  margin: 0 0 .5rem;
+}
+.auth-sub {
+  font-family: var(--sans);
+  font-size: 13px;
+  color: var(--muted-foreground);
+  margin: 0 0 1.5rem;
+  line-height: 1.5;
+}
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: .75rem;
+  text-align: left;
+}
+.auth-label {
+  font-family: var(--sans);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--muted-foreground);
+}
+.auth-input {
+  font-family: var(--sans);
+  font-size: 14px;
+  padding: .65rem .85rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--background);
+  color: var(--foreground);
+}
+.auth-input:focus {
+  outline: 2px solid var(--primary);
+  outline-offset: 1px;
+}
+.auth-submit {
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 500;
+  padding: .7rem 1rem;
+  border-radius: 9999px;
+  border: 0;
+  background: var(--primary);
+  color: var(--primary-foreground, #fff);
+  cursor: pointer;
+  margin-top: .25rem;
+  transition: opacity .15s;
+}
+.auth-submit:hover { opacity: .9; }
+.auth-submit:disabled { opacity: .55; cursor: not-allowed; }
+.auth-msg {
+  font-family: var(--sans);
+  font-size: 12.5px;
+  margin: 1rem 0 0;
+  min-height: 1.4em;
+}
+.auth-msg[data-kind="ok"]    { color: hsl(140 35% 38%); }
+.auth-msg[data-kind="error"] { color: hsl(0 60% 45%); }
+.auth-msg[data-kind="warn"]  { color: hsl(28 60% 40%); }
+.auth-foot {
+  margin: 1.25rem 0 0;
+  font-family: var(--sans);
+  font-size: 12px;
+}
+.auth-back {
+  color: var(--muted-foreground);
+  text-decoration: none;
+}
+.auth-back:hover { color: var(--foreground); }
+
 /* ===== Hero (book cover) ===== */
 .book-cover {
   min-height: calc(100vh - 56px);

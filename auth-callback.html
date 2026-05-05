@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Connexion en cours · Cahier de Recettes</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <main class="auth-page">
+    <section class="auth-card" aria-labelledby="cb-title">
+      <h1 id="cb-title" class="auth-title">Connexion en cours…</h1>
+      <p id="cb-msg" class="auth-msg" data-kind="info" role="status" aria-live="polite">
+        Validation de votre lien magique…
+      </p>
+    </section>
+  </main>
+
+  <script type="module">
+    import { supabase, isConfigured } from "./assets/auth.js";
+
+    const msg = document.getElementById("cb-msg");
+    function setMsg(text, kind) { msg.textContent = text; msg.dataset.kind = kind; }
+
+    if (!isConfigured()) {
+      setMsg("L'éditeur n'est pas configuré (voir db/SETUP.md).", "warn");
+    } else {
+      // detectSessionInUrl: true (in auth-config) means supabase-js will read
+      // the OAuth code/hash from the URL automatically. We just wait for the
+      // session to materialize, then redirect to the editor.
+      const onReady = (session) => {
+        if (session) {
+          // Strip query/hash and bounce to the editor home.
+          history.replaceState({}, "", location.pathname);
+          setMsg("Connexion réussie. Redirection…", "ok");
+          setTimeout(() => location.replace("/cookbook.html#/sommaire"), 400);
+        }
+      };
+
+      supabase.auth.getSession().then(({ data }) => {
+        if (data.session) {
+          onReady(data.session);
+        } else {
+          // Magic-link flow may need a tick to finish parsing the URL.
+          const { data: sub } = supabase.auth.onAuthStateChange((_evt, session) => {
+            if (session) {
+              sub.subscription.unsubscribe();
+              onReady(session);
+            }
+          });
+          // After ~6 seconds with no session, surface an error.
+          setTimeout(() => {
+            sub.subscription.unsubscribe();
+            supabase.auth.getSession().then(({ data }) => {
+              if (!data.session) {
+                setMsg("Le lien est invalide ou expiré. Réessayez depuis la page de connexion.", "error");
+              }
+            });
+          }, 6000);
+        }
+      });
+    }
+  </script>
+</body>
+</html>
