@@ -1,0 +1,53 @@
+# Cahier de Recettes — Netlify deploy config
+# ============================================
+# Mirrors vercel.json so deploys to Netlify and Vercel behave identically:
+# pretty URLs, immutable cache for /assets, short SWR cache for the JSON
+# data files, and the same security headers.
+
+[build]
+  # The repo root IS the site. No build step needed — plain HTML/CSS/JS.
+  publish = "."
+
+# Pretty URLs / no trailing slash. Netlify defaults already do this for
+# .html files; we set it explicitly for clarity.
+[build.processing]
+  skip_processing = false
+
+# ---------------------------------------------------------------------------
+# Security headers — apply to every response.
+# ---------------------------------------------------------------------------
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy        = "strict-origin-when-cross-origin"
+    Permissions-Policy     = "camera=(), microphone=(), geolocation=()"
+
+# ---------------------------------------------------------------------------
+# Static assets: 1-year immutable cache. CSS/JS/images don't change without
+# a filename bump, so browsers can hold them indefinitely.
+# ---------------------------------------------------------------------------
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# ---------------------------------------------------------------------------
+# Recipe + category JSON data: 1-hour cache + 24h stale-while-revalidate.
+# Editor publishes refresh these, so we don't want them held for too long,
+# but a 1-hour cache is fine for the family of ~10 readers.
+# ---------------------------------------------------------------------------
+[[headers]]
+  for = "/recipes.json"
+  [headers.values]
+    Cache-Control = "public, max-age=3600, stale-while-revalidate=86400"
+
+[[headers]]
+  for = "/categories.json"
+  [headers.values]
+    Cache-Control = "public, max-age=3600, stale-while-revalidate=86400"
+
+[[headers]]
+  for = "/favicon.svg"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
